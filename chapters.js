@@ -1,0 +1,7081 @@
+// Obstetrics Textbook Chapter Content
+// Step by Step Obstetrics
+
+// Obstetrics Textbook Chapter Content
+// Step by Step Obstetrics
+
+const CHAPTERS = {
+"Physiology of Reproduction": `Physiology of reproduction
+
+PHYSIOLOGY OF REPRODUCTION
+Early developed pregnancy
+Preimplantation phase:
+A) Fertilization:
+● Definition: Union of male gamete (mature capacitated sperm) with female gamete
+(mature ovum) to form zygote.
+● Site: Ampulla of tube.
+● Time: 24 hours after ovulation.
+● Fertilizable life span of ovum: 12-36 hours.
+● Fertilizable life span of sperm: 24-72 hours.
+● Mechanism:
+■ Oocyte journey: At ovulation, ovum is released from mature Graffian follicle to
+peritoneal cavity → picked up by fimbrial end of tube → reaches ampullary part of
+tube & stops there waiting for fertilization.
+■ Sperms journey:
+♦ At coitus, sperms are deposited in posterior vaginal fornix → ascend through cervical
+canal then along uterine walls → pass through uterine ostia to reach ampullary part
+of tubes (only 100-200 sperms reach tubes).
+♦ Factors helping ascending of sperms in female genital tract:
+1) Forward motility of sperms.
+2) Penetrability of cervical mucus (estrogenic effect).
+3) Uterine contractility by PGs (in uterus & semen).
+4) Peristaltic & cilliary movements of tubes.
+■ Sperms capacitation: Postejaculatory functional changes occurring in sperms in
+female genital tract to make them capable of fertilization & it includes:
+1) Acrosomal reaction: Removal of decapacitating factors & activation of acrosomal
+enzymes (neuroamidase, hyaluronidase & acrosin enzymes).
+2) Loss of acrosomal cap: May be attributed to proteolytic enzymes in estrogen
+dominant uterus.
+■ Events occurring when sperms reach ovum:
+1) Sperms
+
+start
+
+to
+
+release
+
+neuroamidase
+
+(to
+
+penetrate
+
+corona
+
+radiata)
+
+&
+
+hyaluronidase (to penetrate zona pellucida).
+2) Stimulation of zona pellucida receptor site allowing penetration of zona by 1 sperm
+only (many sperms can penetrate corona radiata & participate in weakening of
+zona pellucida but only 1 sperm can penetrate zona).
+3) Reblocking of zona pellucida receptor site to prevent further sperms entrance.
+4) Completion of 2nd meiotic division of oocyte (which was arrested in metaphase) →
+formation of mature ovum & 2nd polar body.
+5) Penetration of oocyte membrane (by acrosin) & only head & midpiece of sperm
+enter ovum.
+1
+
+Physiology of reproduction
+
+● Results: Union of female pronucleus (contains 22 + X chromosomes) with male
+pronucleus (contains 22 + X or Y chromosomes) to form zygote (1-cell stage) which
+contains 46 chromosomes then zygote undergoes cleavage.
+
+B) Cleavage & tubal transport:
+● Morula
+
+formation:
+
+After
+
+formation of zygote, cleavage
+takes
+
+place
+
+forming
+
+2-cell
+
+stage → 4-cell stage → 8-cell
+stage → 16-cell stage (morula)
+that
+
+reaches
+
+uterine
+
+cavity
+
+(helped by tubal peristalsis &
+cilliary movement) at 3rd – 4th
+postfertilization day.
+● Blastocyst formation: Fluid
+appears inside morula & forms
+central cavity surrounded by
+cell
+
+mass
+
+differentiated
+
+which
+into
+
+is
+
+outer
+
+cell
+
+mass (will form placenta &
+membranes) & inner cell mass
+(will form embryo) & the whole
+structure
+
+is
+
+now
+
+known
+
+as
+
+blastocyst.
+
+C) Development of decidua:
+● Definition of decidua:
+Thickened
+endometrium
+
+vascular
+prepared
+
+for
+
+implantation (endometrium of
+pregnancy).
+● Layers of decidua: Decidua is
+differentiated histologically into 3 layers:
+1) Compact layer
+
+2) Spongy layer
+
+3) Basal layer
+
+Superficial 1/4
+
+Intermediate 1/2
+
+Deepest 1/4
+
+Separation of placenta &
+
+Endometrium regenerates
+
+membranes after labor occurs
+
+after labor or abortion
+
+through this layer
+
+from this layer
+
+Blastocyst is embedded
+in this layer
+
+● Factors affecting decidualization (factors maintaining decidua):
+1) Estrogen & progesterone concentrations.
+2) HCG (from trophoblasts).
+3) PGs concentration.
+4) Histamine receptors.
+
+2
+
+Physiology of reproduction
+
+● Functions of decidua: Decidua is responsible for embryo & fetus along first 12 weeks
+after fertilization:
+1) Site of implantation of blastocyst.
+2) Has supportive & protective functions to embryo & fetus.
+3) Has nutritive & excretory functions.
+4) Secretes certain hormones, enzymes & polyamines which are responsible for
+hypertrophy & hyperplasia of uterine muscles.
+5) Decidua basalis shares in formation of placenta.
+
+Implantation:
+● Definition: Embedding of blastocyst in decidua (so, pregnancy is defined as
+implantation of blastocyst in decidua).
+
+● Sites:
+1) Normal sites: In UUS (60% posteriorly & 40%
+anteriorly).
+2) Abnormal sites:
+a) In LUS (placenta previa).
+b) Outside
+
+normal
+
+uterine
+
+cavity
+
+(ectopic
+
+pregnancy).
+
+● Time: 6th – 7th postfertilization day.
+● Mechanism:
+■ After formation of blastocyst, zona starts to dissolve then trophoblasts secret enzyme
+that erodes decidua then blastocyst is embedded in compact layer of decidua.
+■ Main steps of implantation are:
+1) Apposition. 2) Adhesion. 3) Penetration & trophoblastic invasion.
+4) Covering by decidua.
+
+Postimplantation phase:
+A) Differentiation of decidua: It differentiates after implantation into 3 parts:
+1) Decidua
+basalis
+
+2) Decidua
+capsularis
+
+3) Decidua
+parietalis (vera)
+
+Part at site of
+implantation
+
+Part covering
+embryo
+
+Part lining the
+rest of uterine
+cavity
+
+Formed of part
+of compact
+layer + whole
+spongy layer
+
+Formed of
+part of
+compact
+layer
+
+Formed of the 2
+layers (compact &
+spongy layers)
+
+Shares
+(with chorion
+frondosum)
+in formation
+of placenta
+
+As pregnancy advances, decidua
+capsularis will come into contact
+with decidua parietalis →
+obliteration of decidual space at
+12 weeks
+3
+
+Physiology of reproduction
+
+B) Development of chorionic villi:
+● Origin of trophoblasts:
+Outer cell mass of blastocyst.
+● Layers of trophoblasts:
+1) Outer syncytiotrophoblast:
+Site of hormone synthesis.
+2) Inner
+
+cytotrophoblasts
+
+(Langhan's
+
+cells): Large mononuclear cells.
+● Types of chorionic villi:
+Formation
+Numerous projections from
+1ry villi
+
+the 2 trophoblastic layers start to
+develop & invade decidua
+
+2ry villi
+
+Extraembryonic mesoderm invades 1ry villi
+transforming them into 2ry villi
+
+Components
+a) Syncytiotrophoblast.
+b) Cytotrophoblasts.
+a) Syncytiotrophoblast.
+b) Cytotrophoblasts.
+c) Extraembryonic mesoderm.
+a) Syncytiotrophoblast.
+
+3ry villi
+
+Fetal blood vessels invade 2ry villi
+transforming them into 3ry villi
+
+b) Cytotrophoblasts.
+c) Extraembryonic mesoderm.
+d) Fetal blood vessels.
+
+● Intervillous
+
+space
+
+(choriodecidual space):
+■ Syncytiotrophoblast
+invades decidual sinusoids
+→
+
+formation
+
+of
+
+lacunae
+
+filled with blood which later
+coalesce
+
+to
+
+form
+
+intervillous space.
+■ Maternal blood circulates in
+intervillous space while fetal blood circulates in vessels inside villi → exchange can
+occur between maternal & fetal blood without communication between them.
+● Functional types of villi: All are anchoring but not all are nutritive.
+4
+
+Physiology of reproduction
+
+1) Anchoring villi: For supporting embryo.
+2) Nutritive villi: For nutrition via choriodecidual space.
+● Fate of chorionic villi:
+1) Villi related to decidua basalis: Form chorion frondosum (shares with decidua
+basalis in formation of placenta).
+2) Villi related to decidua capsularis: Form chorion laeve (forms outer layer of fetal
+membranes).
+
+C) Development of embryo: From inner cell mass of blastocyst.
+
+Placenta
+Definition: Unit of connection between fetus
+& uterus (mother).
+
+Development: Decidua basalis (maternal
+part) + Chorion frondosum (fetal part).
+
+Anatomy at term:
+● Shape: Discoid.
+● Diameter: 20 cm.
+● Thickness: 1 inch in center & 1/2 inch at
+periphery.
+
+● Weight: 500 gm.
+● Color: Dark red (due to maternal blood in
+intervillous space).
+
+● Surfaces:
+1) Fetal surface
+
+2) Maternal surface
+
+Smooth & glistening
+
+Irregular & dull grayish red in color
+
+Covered by amnion (radiating branches of
+
+Divided into 15-20 lobules
+
+umbilical vessels can be seen beneath amnion)
+
+(cotyledons) separated by avascular
+
+Umbilical cord is inserted at this surface
+
+fibrous tissues (placental septa)
+
+● Attachment: Normally attached to UUS:
+1) Posterior wall (60%).
+2) Anterior wall (40%).
+3) Fundus (rare).
+
+Functions:
+A) Respiratory function: Main function that means gas (O2 & CO2) exchange between
+maternal & fetal blood & it is affected by the following factors:
+1) Concentration difference of O2 & CO2 in maternal & fetal blood.
+2) Rate of blood flow.
+5
+
+Physiology of reproduction
+
+3) Thickness of placental barrier.
+4) Surface area of placental barrier.
+
+B) Nutritive function: Transport of glucose, lipids, proteins, vitamins & minerals.
+C) Secretory function:
+1) Placental hormones: See later.
+2) Placental enzymes:
+
+Heat
+
+stable
+
+alkaline
+
+phosphatase,
+
+monoamine
+
+oxidase,
+
+histaminase, oxytocinase & insulinase.
+3) Placental proteins: Pregnancy associated plasma protein A (PAPP-A), PAPP-B &
+PAPP-C.
+
+D) Excretory function: Placenta acts as a kidney for fetus.
+E) Hemopoietic function: Production of fetal Hb.
+F) Mechanical function: Fixation of fetus to mother.
+
+Placental barrier:
+● Definition: Tissue separating maternal & fetal blood through which substances can pass
+from & to mother.
+
+● Thickness: Thick (0.1 mm) in early pregnancy & thin (0.01 mm) in late pregnancy (to
+allow more perfusi`,
+  "Maternal Changes During Pregnancy": `Maternal changes during pregnancy
+
+MATERNAL CHANGES DURING PREGNANCY
+Genital changes:
+A) Vulva: Hypertrophy & softening & varicosities.
+B) Vagina:
+1) Becomes soft, bluish, moist & warm (due to ↑↑ vascularity).
+2) ↑↑ vaginal discharge (specially before labor).
+3) Acidic PH (3.5-6): Due to ↑↑ production of lactic acid.
+
+C) Cervix:
+1) Becomes soft, bluish & edematous.
+2) Shows ↑↑ vascularity & glandular hypertrophy.
+3) Hormonal erosions may be seen.
+4) Cervical mucus plug is formed & closes cervical canal.
+
+D) Uterus:
+1) Size:
+● At 12 weeks: At level of symphysis pubis (size of fetal head).
+● At 24 weeks: At level of umbilicus.
+● At 36 weeks: At level of xiphisternum.
+2) Site: Pelvic during 1st trimester then becomes abdominal after that.
+3) Position: Slightly tilted & twisted to Rt (dextrorotated) in 80% of cases (due to
+displacement by sigmoid colon).
+4) Weight: ↑↑ from 50-70 gm to 1000 gm at
+term.
+5) Capacity: ↑↑ from 10 ml to 5000 ml at term.
+6) Length: ↑↑ to 35 cm at term.
+7) Shape: Pear shaped in 1st few weeks then
+becomes globular in 1st trimester & ovoid at
+term.
+8) Consistency: Soft due to ↑↑ vascularity & ↑↑
+connective tissue content of water (basis of
+Hegar’s sign).
+9) Vascularity: ↑↑ (uteroplacental blood flow
+reaches 450-650 ml/min at term).
+10) Contractility:
+a) In
+
+1st
+
+trimester:
+
+Regular,
+
+rhythmic,
+
+painless uterine contractions.
+b) In 2nd & 3rd trimesters (Braxton Hick’s
+contractions):
+● Irregular, unpredictable, non rhythmic & usually painless.
+● Intensity is < 25 mmHg.
+● Have no effect on cervical dilatation or effacement.
+16
+
+Maternal changes during pregnancy
+
+● As pregnancy advances, frequency & intensity ↑↑ to cause some discomfort &
+account for the so called "false labor pains".
+11) Endometrium: Development of decidua.
+12) Myometrium: Hypertrophy & hyperplasia & ↑↑ elastic fibers.
+13) Peritoneum: Hypertrophied & firmly attached to UUS & loosely attached to LUS.
+14) Uterine ligaments: Hypertrophy & relaxation.
+15) Lower uterine segment (LUS):
+● Formation: From isthmus (it begins at 12 weeks).
+
+● Length: 10 cm at term.
+
+● Obstetric importance:
+a) If placenta becomes implanted on it → placenta previa.
+b) Site of rupture uterus in obstructed labor.
+
+c) Site of LSCS.
+
+● Difference between upper & lower uterine segments:
+Upper uterine segment (UUS)
+
+Lower uterine segment (LUS)
+
+More active
+
+Less active
+
+Contracts & retracts during labor
+
+Stretches during labor
+
+Thick muscles consisting of outer longitudinal,
+
+Thin muscles consisting of outer
+
+middle interlacing & inner circular layers
+
+longitudinal & inner circular layers
+
+Covered by adherent peritoneum
+
+Covered by loose peritoneum
+
+Membranes are firmly attached to it
+
+Membranes are loosely attached to it
+
+Placenta is normally present
+
+Placenta is normally not present
+
+E) Fallopian tubes: Show ↑↑ vascularity & mild decidual reaction.
+F) Ovaries:
+1) Inhibition of ovulation.
+2) Edema, ↑↑ vascularity & enlargement of both ovaries (specially the one containing CL)
+& ↑↑ ovarian blood flow.
+3) Ovarian decidual reaction.
+4) Corpus luteum begins to degenerate after 10 weeks when placenta is formed & starts
+to perform its function (secretion of estrogen, progesterone & relaxin).
+
+Breast changes:
+A) Characters: ↑↑ in size, becomes warm, tense, nodular &
+slightly tender & shows ↑↑ vascularity (these changes start
+at 2nd month).
+
+B) Nipples: Become prominent, erectile & more sensitive.
+C) Areolae:
+1) 1ry areola: Becomes darker at 2nd month.
+2) 2ry areola: Less pigmented area around 1ry areola develops at 5th month.
+
+D) Montgomery's tubercles: Enlarged sebaceous glands appearing on areola at 2nd
+month.
+
+E) Colostrum: Can be expressed at end of 3rd month.
+17
+
+Maternal changes during pregnancy
+
+Cardiovascular & blood changes:
+A) Heart:
+1) Position: Apex is displaced upwards & outwards (in
+Lt 4th ICS at anterior axillary line) in late pregnancy
+(due to elevation of diaphragm).
+2) HR: ↑↑ by 10-15 bpm to reach plateau of 90 bpm at
+32 weeks.
+3) Stroke volume: ↑↑.
+4) COP: ↑↑ by 30-50% starting at 10 weeks, reaches
+maximum
+
+at
+
+20
+
+weeks
+
+then
+
+maintained
+
+at
+
+this
+
+maximum level up to full term.
+
+B) Blood pressure:
+● Systolic BP: ↓↓ gradually to reach nadir in late 2nd trimester then ↑↑ again thereafter
+due to:
+1) ↓↓ peripheral vascular resistance (due to ↓↓ sensitivity to angiotensin II).
+2) ↑↑ uteroplacental circulation & A-V shunts formation in placenta.
+● Diastolic BP: Relatively unchanged.
+● Supine hypotension syndrome:
+■ Definition: Hypotension in supine position that may
+occur in late pregnancy due to pressure of gravid
+uterus on IVC →
+
+impairment of VR from lower
+
+extremities → ↓↓ COP.
+■ Incidence: 10%.
+■ Effect: May ↓↓ placental blood flow → fetal distress.
+■ Prevention: By lying on Lt side.
+
+C) Venous circulation:
+● There is venous stasis in lower 1/2 of body due to:
+1) Compression of pelvic veins by gravid uterus.
+2) Relaxing effect of pregnancy hormones on smooth muscles of blood vessels.
+● This venous stasis may lead to: Slight ankle edema, hemorrhoids, varicose veins & ↑↑
+incidence of thromboembolism.
+
+D) Blood volume:
+● ↑↑ by 40% starting at 10 weeks, reaches maximum at 28-32 weeks then maintained at
+this maximum level up to full term.
+● Plasma volume ↑↑ > RBCs volume resulting in physiological anemia.
+
+E) Blood cells:
+1) Reticulocytes: Mild ↑↑.
+2) Leukocytes: ↑↑ (mainly PNLs).
+3) Platelets: Show little changes (some reported ↓↓ platelet count which may be due to
+hemodilution or ↑↑ consumption).
+
+F) Blood viscosity: Viscosity ↓↓ by about 10% & ESR ↑↑.
+
+18
+
+Maternal changes during pregnancy
+
+G) Coagulation changes: Pregnancy is hypercoagulable state due to:
+1) ↑↑ all coagulation factors except factor XI & XIII (slightly ↓↓).
+2) ↑↑ fibrinogen level (nearly double non pregnancy level).
+3) Inhibition of fibrinolytic system.
+
+Respiratory changes:
+A) Anatomical changes:
+1) Elevated diaphragm up to 4 cm by enlarged uterus.
+2) Widened subcostal angle.
+3) ↑↑ transverse diameter of thoracic cage by 2 cm.
+4) ↑↑ thoracic circumference by 6 cm.
+
+B) Functional changes:
+1) ↓↓
+
+diaphragmatic
+
+mobility:
+
+Respiration
+
+is
+
+mainly
+
+thoracic.
+2) Hyperventilation:
+● Etiology: Stimulation of respiratory center by ↑↑ estrogen & progesterone levels.
+● Effects: Dyspnea & mild respiratory alkalosis.
+3) Lung volumes & capacities:
+● Residual volume ↓↓ by 15-20% (due to elevation of diaphragm & lung compression
+by gravid uterus) & total lung capacity slight ↓↓.
+● This is compensated by hyperventilation → ↑↑ tidal volume (to 10 L/min) → vital
+capacity remains constant.
+
+Gastrointestinal changes:
+A) Gums: Become soft, hypertrophic, hyperemic & may
+bleed & there may be Epulis formation (highly vascular
+swelling).
+
+B) Ptyalism (sialorrhea): ↑↑ salivation.
+C) Morning sickness: Nausea & sometimes vomiting
+occurring during early morning (appears at 6 weeks &
+disappears spontaneously after 14 weeks).
+
+D) Appetite changes: Longing, craving or pregnancy pica
+(woman desires or refuses certain foods or odors).
+
+E) Heart burn (pyrosis): Due to regurgitation of stomach
+contents as a result of relaxation of cardiac sphincter (due to ↑↑ progesterone level).
+
+F) Hypochlorhydria: Due to regurgitation of alkaline intestinal chyle into stomach.
+G) ↓↓ gastric motility: Leads to nausea, indigestion & flatulence.
+H) Constipation: Due to pressure of gravid uterus on pelvic colon & relaxing effect of
+progesterone on smooth muscle.
+
+I) Hemorrhoids: Due to constipation & high venous pressure caused by uterine
+compression.
+
+19
+
+Maternal changes during pregnancy
+
+Liver & gall bladder changes:
+A) Liver:
+1) Position:
+
+Liver
+
+attains
+
+more
+
+superior
+
+position
+
+late
+
+in
+
+pregnancy
+
+so,
+
+any
+
+hepatomegally should be considered abnormal.
+2) SGOT & SGPT: Don't change so, any ↑↑ in their levels is abnormal.
+3) Serum alkaline phosphatase: ↑↑ (mostly placental in origin).
+
+B) Gall bladder:
+1) Hypotonia (leading to cholestasis).
+2) Thick bile (leading to ↑↑ incidence of gall stones formation).
+
+Renal & urinary tract changes:
+A) Anatomical changes:
+1) ↑↑ size of kidneys.
+2) Relaxation of bladder wall: Bladder
+
+capacity
+
+may
+
+double.
+3) Dilatation
+
+of
+
+collecting
+
+system:
+
+Most
+
+important
+
+anatomical change that starts in midtrimester & affects
+renal calices, renal pelvis & ureters.
+● Causes:
+a) Pressure against pelvic brim by gravid uterus (after 18
+weeks).
+b) Hypotonia (caused by progesterone & relaxin).
+c) Hypertrophy
+
+of
+
+lower
+
+end
+
+of
+
+ureters
+
+(caused
+
+by
+
+estrogen).
+● Effects: ↑↑ liability to infection (due to stasis of urine).
+
+B) Physiological changes:
+1) RBF & GFR: ↑↑ by 30-50% by 4th month then slowly returns to normal during 3rd
+trimester.
+2) Serum urea: ↓↓.
+3) Serum creatinine: ↓↓.
+4) Creatinine clearance: ↑↑ (it is the useful test for
+renal function during pregnancy as serum creatinine &
+urea may be misleading).
+5) Glucosuria: Occurs frequently despite normal blood
+sugar due to ↑↑ GFR & ↓↓ tubal maximum for glucose
+reabsorption.
+
+Endocrinal changes:
+A) Pituitary gland:
+1) Prolactin: ↑↑ throughout pregnancy (up to 10 times
+n`,
+  "Diagnosis of Pregnancy": `Diagnosis of pregnancy
+
+DIAGNOSIS OF PREGNANCY
+Diagnosis in 1st trimester (1-14 weeks):
+A) Symptoms:
+1) Amenorrhea: Commonest symptom denoting pregnancy.
+2) Morning sickness: Nausea & sometimes vomiting occurring
+during early morning.
+3) Appetite changes: Longing, craving or pregnancy pica
+(woman desires or refuses certain foods or odors).
+4) Frequency of micturition: Due to congestion & irritation of bladder by gravid
+uterus.
+5) Breast symptoms: Enlargement, heaviness, tingling sensation, color changes
+(darkening) & colostrum secretion.
+6) Vaginal discharge: ↑↑ from 4 weeks onwards.
+7) Easy fatigability & sleepiness.
+
+B) Signs:
+1) Breast signs: Of diagnostic importance in primigravidas but in multigravidas, they
+may have resulted from previous pregnancies (SEE BREAST CHANGES DURING
+PREGNANCY).
+2) Auscultation of FHS: Heard at 10 weeks by sonicaid (doptone).
+3) Local signs:
+a) Vulva:
+1- Hypertrophy & softening.
+2- Jacquemier's sign: Bluish or violet coloration of skin.
+3- Kluge's sign: Varicosities of vulva.
+b) Vagina: Since 6 weeks.
+1- Becomes soft, moist & warm.
+2- Chadwick's sign: Bluish or violet coloration of mucosa.
+3- Osiander sign: Pulsation in lateral fornices.
+c) Cervix: Since 6 weeks.
+1- Chadwick's
+
+sign:
+
+Bluish
+
+or
+
+violet
+
+coloration
+
+of
+
+mucosa.
+2- Goodell's sign: Softening of cervix.
+3- Loss of fern pattern of cervical mucus.
+d) Uterus:
+1- Size: Size of orange (at 8 weeks) & size of fetal head
+(at 12 weeks).
+2- Shape: Globular.
+3- Consistency: Soft.
+4- Palmer's sign: Regular, rhythmic, painless uterine
+contractions felt by bimanual examination (elicited at 4-8 weeks).
+5- McDonald's sign: Easy flexibility of uterine body on cervix (elicited at 8 weeks).
+23
+
+Diagnosis of pregnancy
+
+6- Hegar's sign: On bimanual examination with 2 fingers in anterior fornix & fingers of
+abdominal hand behind uterus → internal & external fingers can be approximated
+in gravid uterus between 6-10 weeks as lower part is soft & empty but after 10
+weeks this sign can't be elicited because growing fetus fills uterine cavity.
+
+C) Investigations:
+1) Pregnancy tests:
+a) Hormonal (immunological) tests: HCG can be detected in maternal urine or
+serum 8-9 days after fertilization or 1 day after implantation.
+1- Urine tests: Detect HCG excreted in maternal urine.
+a- Agglutination inhibition test:
+● Technique: 1 drop of urine is mixed with 1 drop of solution containing HCG Abs
+then HCG coated latex particles are added.
+● Results:
+
+ Agglutination of latex particles: –ve test.
+ No agglutination of latex particles: +ve test.
+● False results:
+False +ve
+
+False –ve
+
+1- Near menopause & time of ovulation 1- Too early test or expired test.
+2- Diluted urine or polyuria.
+(due to ↑↑ LH).
+2- HCG secreting tumors.
+
+3- Blighted ovum.
+
+3- HCG injection used for treatment of 4- Urine stored too long at room
+temperature
+
+infertility.
+4- Proteinuria, hematuria or UTI.
+● Pregnancy tests become –ve after:
+■ 1 weeks of labor.
+■ 2 weeks of abortion.
+
+■ 4-12 weeks of evacuation of vesicular mole.
+b- Home kits:
+● Technique: Add 3-4 drops of urine to kit & wait 3-5 minutes.
+● Results:
+
+ Appearance of 1 line: –ve test.
+ Appearance of 2 lines: +ve test.
+2- Blood tests: Serological tests that detect β-HCG in
+maternal serum.
+a- ELISA:
+
+Its
+
+sensitivity
+
+for
+
+HCG
+
+in
+
+serum
+
+is
+
+50 mIU/ml.
+b- Radioimmunoassay (RIA).
+b) Withdrawal bleeding test: Not used now due to
+fetal teratogenicity.
+● Method: Administration of progesterone ± estrogen
+for few days.
+● Result: Withdrawal bleeding occurs within 1 week if woman isn't pregnant.
+24
+
+Diagnosis of pregnancy
+
+2) Ultrasound: Most safe & accurate method of diagnosis.
+a) Transvaginal sonography (TVS): Can detect the following:
+1- Gestational sac (GS): At 4 weeks.
+2- Fetal pole: At 5 weeks.
+3- Fetal heart activity: At 6 weeks.
+b) Transabdominal sonography (TAS): As TVS + 2 weeks.
+
+Diagnosis in 2nd trimester (15-28 weeks):
+A) Symptoms:
+1) Amenorrhea.
+2) Morning sickness: ↓↓.
+3) Frequency of micturition: ↓↓ (uterus becomes abdominal).
+4) Breast symptoms.
+5) Abdominal enlargement: Noticed by pregnant woman.
+6) Quickening: 1st perception of fetal movements by pregnant woman.
+a) In primigravida: At 18-20 weeks.
+b) In multigravida: At 16-18 weeks.
+
+B) Signs:
+1) Breast signs:
+a) Signs of 1st trimester: Become more obvious.
+b) 2ry areola: Develops at 5th month.
+2) Abdominal signs:
+a) Inspection: Striae gravidarum & linea nigra.
+b) Palpation:
+1- Site of uterus: Uterus is felt abdominally.
+2- Braxton Hick's contractions: Can be elicited during
+examination.
+3- Palpation of fetal parts & active fetal movements: At 20
+weeks.
+4- External ballottement: At 20 weeks.
+● Technique: Exerting sudden pressure on uterus → fetus sinks in AF → rebounds to
+its original position → felt by examining fingers.
+● Explanation: Fetal size is small in comparison to AF volume.
+c) Auscultation:
+1- FHS: Heard at 20-24 weeks by Pinard's fetal stethoscope.
+2- Umbilical soufflé: Can be detected in 15% of cases.
+● Faint, rapid, blowing murmur synchronous with FHS.
+● Heard during auscultation of gravid uterus when loop of umbilical cord lies
+immediately beneath stethoscope.
+3- Uterine soufflé:
+● Soft, blowing, systolic murmur synchronous with maternal pulse.
+● Produced by blood flow in greatly dilated tortuous uterine arteries.
+25
+
+Diagnosis of pregnancy
+
+● Best heard at lowest part of lateral side of gravid uterus.
+● May be heard in large uterine fibroid.
+3) Local signs:
+a) Signs of 1st trimester: More prominent.
+b) Internal ballottement: At
+12-18 weeks.
+● Technique:
+
+Pushing
+
+by
+
+examining
+
+fingers→
+
+fetus
+
+moves in AF → rebounds to
+its original position → felt by
+fingers.
+● Explanation:
+
+Fetal
+
+size
+
+is
+
+small in comparison to AF
+volume.
+
+C) Investigations:
+1) Pregnancy tests.
+2) Ultrasound.
+3) X-ray: Not used now (ultrasound is preferred).
+
+Diagnosis in 3rd trimester (29-42 weeks):
+A) Symptoms:
+
+Amenorrhea,
+
+breast
+
+symptoms,
+
+abdominal
+
+enlargement
+
+&
+
+fetal
+
+movement.
+
+B) Signs: As in 2nd trimester.
+C) Investigations: Pregnancy tests are +ve & ultrasound & X-ray are diagnostic.
+
+Sure signs of pregnancy:
+A) Palpation of fetal parts.
+
+B) Palpation of fetal movements (by obstetrician).
+
+C) Auscultation of FHS.
+
+D) Auscultation of umbilical soufflé.
+
+E) Ultrasound (surest sign of pregnancy): Visualization of fetal parts, fetal movements &
+fetal heart activity.
+F) X-ray: Detection of fetal skeleton. not done now
+
+Signs of gravid uterus:
+A) Intermittent contractions.
+B) Ballottement
+
+C) Auscultation of FHS.
+
+D.D. of pregnancy:
+A) D.D. of early pregnancy:
+1) Causes of 2ry amenorrhea.
+2) Causes of symmetrically enlarged uterus.
+3) Extrauterine swellings: Ovarian or tubal swellings, pelvic hematocele or full
+bladder.
+26
+
+Diagnosis of pregnancy
+
+B) D.D. of late pregnancy:
+1) Pseudocyesis.
+2) Fibroids, ovarian tumors or ascites.
+3) Other causes of pelviabdominal swelling.
+
+Detection of previous pregnancy: Done for medicolegal purposes & it depends on
+effects of pregnancy & labor on different organs:
+
+A) Breast: Less firm & pendulous with ↑↑ pigmentation of areola.
+B) Abdomen: Lax with separation of recti + striae gravidarum.
+C) Perineum: Scars of previous episiotomy or lacerations.
+D) Vagina: Shows extreme relaxation.
+E) External os of cervix: Transverse slit or satellite gap.
+
+Names of products of conception:
+A) Zygote: Before implantation.
+B) Embryo: 4-8 weeks gestation (3rd – 6th weeks after fertilization).
+C) Fetus: > 8 weeks gestation & it can be classified according to weight into:
+1) Abortus: < 500 gm.
+2) Birth: ≥ 500 gm.
+a) Immature: 500-999 gm (it is 500 gm at 20 weeks & 630 gm at 24 weeks).
+b) Premature: 1000-2500 gm (it is 1000 gm at 28 weeks).
+c) Mature: > 2500 gm (it is 2500 gm at 36 weeks).
+
+Events occurring at 8 weeks:
+A) Heart is completely formed.
+B) External genitalia begin to differentiate.
+
+Events occurring at 12 weeks:
+A) Spontaneous fetal movement.
+B) Gender of fetus is evident.
+C) Kidneys begin to produce urine (urine output of term fetus is 650 ml/day).
+D) Bone is present.
+E) Placenta is formed.
+
+Perinatal period: Period from 20 weeks gestation to 4 weeks postpartum.
+
+27
+
+`,
+  "Antenatal (Prenatal) Care": `Antenatal (prenatal) care
+
+ANTENATAL (PRENATAL) CARE
+Definition: Preventive obstetric program that includes group of observations, medical
+care, investigations & advice aiming to get pregnancy, labor & puerperium as near to
+normal as possible.
+
+Objectives:
+A) Identification, prevention & management of high risk pregnancy.
+B) Detection & management of any general disease associating pregnancy (as DM).
+C) Detection of complications which affect labor (as malpresentation).
+D) Health education to woman about physiology of pregnancy & labor, problems of
+pregnancy, hygiene of pregnancy & infant care & feeding.
+E) Preparation of lady for breast feeding.
+
+Antenatal visits
+First visit:
+● Goals:
+1) Determination of GA & EDD.
+2) Determination of health status of mother & fetal condition.
+3) Detection of high risk pregnancy.
+4) Initiation of plan for continued care till delivery.
+
+● Measures to be done in this visit:
+1) Diagnosis of pregnancy & accurate dating.
+2) History taking.
+3) Physical examination: General, abdominal & pelvic.
+4) Investigations:
+a) Routine investigations:
+1- Blood group & Rh typing.
+2- CBC.
+3- Random blood sugar.
+4- Urine
+
+analysis:
+
+For
+
+proteinuria,
+
+glucosuria,
+
+acetone
+
+&
+
+bacteriuria (culture is done when needed).
+5- Ultrasound.
+b) Specific investigations: Done when needed.
+1- Anti-Rh Abs screening: Done for all Rh –ve women.
+2- Hepatitis markers & tests for HIV: Done for high risk
+groups.
+3- Tests for STDs & TORCH: Done for high risk groups.
+4- Fundus (ophthalmoscopic) examination: For hypertensive & diabetic cases.
+5- Genetic studies: Genetic referral is indicated in the following conditions:
+28
+
+Antenatal (prenatal) care
+
+a- Maternal age > 35 years.
+b- Family history of congenital anomalies.
+c- Abnormal development or mental retardation (MR) of
+previous child.
+d- Ethnic background in inherited diseases.
+e- Chemical use or exposure to teratogenes.
+f- Habitual abortion.
+6- Other investigations: According to condition.
+
+Subsequent visits:
+● Frequency of visits: (ACOG)
+1) Low risk cases: Every month till 28 weeks then every 2 weeks till 36 weeks then
+every week in last month.
+2) High risk cases: Individualized but generally every 2 weeks till 28 weeks then every
+week till 36 week then hospitalize.
+
+● Information to be checked in each visit:
+1) Warning symptoms: Pregnant lady must immediately report if any of the following
+symptoms occur:
+a) Vaginal bleeding or passage of tissue vaginally (abortion or APH).
+b) Sudden escape of watery fluid per vagina (PROM).
+c) Symptoms suggestive of severe preeclampsia (severe persistent headache, blurring
+of vision, epigastric pain, persistent vomiting & swelling of LLs, face or fingers).
+d) Diminished fetal movement or cessation of fetal movement (fetal distress or IUFD).
+e) Fever or urinary symptoms (UTI).
+f) Abdominal pain (labor).
+2) Weight of woman & rate of weight gain:
+■ Total weight gain: 25 pounds (11-12 kg) in normal pregnancy.
+■ Rate of weight gain:
+a) In 1st trimester: No or minimal weight gain (1 kg) due to
+nausea, vomiting & loss of appetite.
+b) After 1st trimester: 0.5 kg / week or 2 kg / month (about 5 kg are gained during
+each of 2nd & 3rd trimesters).
+■ Causes of abnormal weight gain:
+Causes of high weight gain
+
+Causes of low weight gain
+
+a) Macrosomia.
+
+a) IUGR.
+
+b) Multifetal pregnancy.
+
+b) IUFD.
+
+c) Polyhydramnios.
+
+c) Oligohydramnios.
+
+d) Edema.
+
+d) Chronic debilitating diseases (as TB).
+
+e) Overfeeding.
+
+e) Malnutrition.
+
+3) Blood pressure.
+4) Edema.
+29
+
+Antenatal (prenatal) care
+
+5) Fundal level.
+6) Fetal condition: Fetal size, rate of fetal growth, FHR & fetal
+activity & AF volume.
+7) Urine
+
+analysis:
+
+For
+
+proteinuria,
+
+glucosuria,
+
+acetone
+
+&
+
+bacteriuria.
+
+● Special tests done in certain visits:
+1) CBC: Repeated at 26-30 weeks.
+2) Anti-Rh Abs screening: Repeated at 28-30 weeks for all Rh –
+ve women & anti-D Ig is administered if needed.
+3) Screening for gestational DM: 50 gm 1-hour OGTT is done at
+24-28 weeks.
+4) Screening for STDs: Tests for gonorrhea, syphilis & chlamydia
+are repeated in 3rd trimester for high risk groups.
+5) Maternal serum AFP: Done between 16 & 18 weeks to screen for neural tube
+defects (NTDs) & chromosomal anomalies in selected cases.
+6) Vaginal examination: Done in late pregnancy to determine:
+a) Presentation & station of presenting part.
+b) Pelvic capacity (tests for disproportion are done at 36 weeks).
+c) Cervical consistency, effacement & dilatation.
+
+Diet in pregnancy
+The following rules should be understood:
+A) Caloric requirements are 2500 calories / day (300 calories > non pregnant).
+B) Protein requirements are ↑↑ (65-100 gm/day) & majority of required proteins should be
+1st class (animal) proteins (milk is the ideal source).
+C) Routine supplementation of multivitamins & minerals isn't recommended as any
+adequate diet supplies required vitamins & minerals.
+D) Folic acid supplementation before pregnancy & in 1st trimester ↓↓ risk of NTDs (50% of
+NTDs are related to folic acid metabolism) & it is also very effective in ↓↓ birth defects in
+offspring of epileptic women.
+E) Iron is the only nutrient for which requirements aren't met by diet alone (normal diet
+contains only 14-15 mg).
+F) Ca++ supplementation is of no benefit (2 glasses of milk / day are sufficient).
+G) Salting food to taste gives sufficient salt & there is no evidence that excess salt
+predispose to PIH but restriction is required in hypertensive & cardiac women.
+
+Components of suitable daily diet:
+A) Milk (3/4 liter) or its derivatives.
+B) Egg (one).
+
+30
+
+Antenatal (prenatal) care
+
+C) Bread (2-3 slices).
+D) Rice or potato.
+E) Fresh fruits & vegetables.
+F) Red meat (120 gm) substituted once a week by sea fish & once by calf liver.
+G) Folic acid supplementation (400 µg/day ↑↑ to 4 mg/day if there is history of NTD in
+previous pregnancies).
+H) Supplementary iron (60-80 mg/day) after 1st trimester.
+
+General instructions about diet:
+A) Advise mother to eat what she wants in amounts she desires & salt to taste.
+B) Ensure adequate weight gain.
+C) Fried food, cream, sweets, chocolates & sugar should be consumed sensibly to avoid
+excess weight gain.
+D) Avoid spices.
+E) Avoid excess fluids intake.
+F) ↓↓ coffee & dark tea intake & avoid alcohol intake.
+
+Effects of malnutrition on pregnancy:
+A) Maternal:
+1) Loss of weight.
+2) Vomiting (vitamin B6 deficiency).
+3) Anemia (iron, folic acid or vitamin B12 deficiency).
+4) Decalcification of bones & dental caries (Ca++ or vitamin D deficiency).
+5) ↓↓ resistance to infection.
+6) Abortion or preterm labor.
+7) Accidental Hge.
+8) Preeclampsia.
+9) Goiter (iodine deficiency).
+10) Uterine inertia & prolonged labor.
+11) PPH (vitamin C or vitamin K deficiency).
+12) Affection of lactation.
+
+B) Fetal & neonatal:
+1) Low birth weight.
+2) Slow rate of growth.
+3) ↑↑ incidence of anemia & rickets.
+
+Antenatal advice
+Instructions about diet: See above.
+Sleeping: 8 hours at night & 2 hours in afternoon is recommended.
+Working:
+31
+
+Antenatal (prenatal) care
+
+● Average work is allowed with taking adequate periods of rest during working day.
+● Any work causing severe physical strain or fatigue should be avoided.
+● Pregnant women shouldn't work in the following conditions:
+1) Tendency to abortion or preterm labor.
+2) PPROM.
+3) Placenta previa or APH.
+4) IUGR.
+5) Multifetal pregnancy > 28 weeks.
+6) Severe medical disorders (as PIH, complicated DM or severe heart disease).
+
+Exercise:
+● Not necessary to be limited as long as mother doesn't get ↑↑ in temperature & isn't
+dehydrated or excessively fatigued & there is no risk of injury.
+● Doesn't ↑↑ rate of spontaneous abortion.
+● Shortens active labor & is associated with lower CS rates.
+● Should be avoided in: See above (as working).
+
+Traveling:
+● Only comfortable traveling may be allowed till 36 weeks.
+● In long trips (> 6 hours), women should walk every about 2 hours to prevent DVT.
+● Prevented in patients with history of habitual abortion or preterm labor.
+● Greatest risk is to travel away from medical facilities.
+
+Coitus: Not restricted except if there is tendency to abortion or preterm labor or if there
+is obstetric problem (as PPROM or placenta previa).
+
+Bowel care: Prevention & treatment of constipation:
+A) Drinking much fluids.
+B) Eating diet rich in fresh vegetables.
+C) Physical activities.
+D) Regular habits: Evacuate bowel at the same time every day.
+E) Mild laxatives: As lactulose & senna (enemas, strong laxatives & paraffin should be
+avoided).
+
+Teeth care:
+● Regular cleaning every morning & night & after meals & consult dentist for any dental
+complaint (dental treatment isn't contraindicated in pregnancy).
+● Concept that dental caries ↑↑ with pregnancy isn't true.
+
+Breast care:
+● Support breast with well fitting brassieres (breast become heavy & pendulous).
+● Washing crusts & dried particles over nipples by warm water & soap or boric acid.
+● Massage nipples with mixture of glycerin & alcohol to ↓↓ incidence of cracking.
+● In retracted nipple, withdraw it by thumb & index fingers using lubricant.`,
+  "High Risk Pregnancy": `High risk pregnancy
+
+HIGH RISK PREGNANCY
+Definition: Pregnancy in which mother, fetus or neonate is in jeopardy.
+Etiology:
+A) Biological factors:
+1) Age: < 20 years or > 35 years (specially if primigravida).
+2) Race: Negros should be screened for sickle cell disease.
+3) Parity: Grand multiparas (women with ≥ 5 deliveries) are at ↑↑ risk.
+4) Height: Short stature (affects pelvic capacity).
+5) Weight: Underweight or obesity.
+
+B) Socioeconomic factors:
+1) Socioeconomic status (SES): Overcrowding, bad hygiene & poor nutrition.
+2) Pregnancy spacing: Rapid succession of pregnancies.
+3) Occupation: Occupational hazard.
+4) Habits: Smoking, alcohol intake or drug abuse.
+
+C) Medical factors: Any maternal medical disease (as essential HTN, DM, heart
+diseases, renal diseases, severe anemia, hemoglobinopathies & SLE).
+
+D) Obstetric factors:
+1) Previous obstetric problems: As recurrent abortion, recurrent preterm labor,
+recurrent PROM, recurrent stillbirth or precipitate labor.
+2) Current obstetric problems: As PROM, placenta previa, PIH, gestational DM, IUGR,
+Rh isoimmunization, congenital fetal anomalies or multifetal pregnancy.
+
+Identification of high risk pregnancy & assessment of risk:
+● Risk scoring is based on analysis of various risk factors which are included in uniform
+perinatal record usually organized according to the following categories:
+1) Initial screening: By history taking, examination & investigations in 1st ANC visit.
+2) Follow up of course of pregnancy: By information gained & results of specific tests
+done in subsequent ANC visits.
+3) Course of labor & process of delivery.
+4) Postpartum period.
+5) Neonatal period.
+● Data of complications in 3), 4) or 5) are analyzed to be considered in subsequent
+pregnancies.
+
+Management of high risk pregnancy:
+A) Preconceptional counseling:
+● Preconceptional counseling is of special importance in the following conditions:
+1) DM.
+2) Rh isoimmunization.
+3) History of recurrent abortion or recurrent preterm labor.
+34
+
+High risk pregnancy
+
+4) Patients having potential to transfer genetic disorders to their offspring.
+● Preconceptional counseling for high risk woman shouldn't be judgmental (i.e. the only
+role of obstetrician is to give medical facts not decisions).
+
+B) Management during pregnancy:
+1) Adequate ANC:
+● Place of ANC: According to the risk factor:
+a) At ANC clinics with frequent ANC visits: As in Rh –ve women.
+b) At 1ry care hospital: As in mild DM.
+c) At highly specialized maternity hospital: As in preeclampsia.
+● Frequency of visits: Individualized but generally every 2 weeks till 28 weeks then
+every week till 36 weeks then hospitalize.
+● Supervision: Pure obstetric problem is managed by obstetrician but medical
+problems complicating pregnancy need also special physician.
+2) Observation:
+a) Maternal: Observation for development of any complication.
+b) Fetal: Tests for fetal evaluation (surveillance).
+
+C) Management of delivery: Obstetric control.
+● Time of delivery:
+■ In most high risk pregnancies, TOP is at completed 37 weeks when mother & fetus are
+well & condition is under control without complications.
+■ If one of the above characters is abnormal, TOP is earlier than 37 weeks after
+enhancement of fetal lung maturity by corticosteroids.
+● Place of delivery: In well equipped hospital.
+● Method of delivery:
+1) Vaginal delivery: The rule (if there is no indication for CS + condition is controlled
+without complication) with the following precautions:
+a) During 1st stage: Careful observation of condition & strict monitoring of labor.
+b) During 2nd stage: Shortening of its duration.
+c) During 3rd stage: Careful observation.
+2) Cesarean section: If it is indicated.
+
+D) Neonatal care.
+E) Postnatal care:
+1) Observation of patient during puerperium.
+2) Contraception.
+3) Advice for good control of the disease before further pregnancy.
+
+35
+
+`,
+  "Abnormalities of Amniotic Fluid Volume": `Abnormalities of amniotic fluid volume
+
+ABNORMALITIES OF AMNIOTIC FLUID VOLUME
+Polyhydramnios (Hydramnios)
+Definition:
+● Clinical definition: ↑↑ AF volume (> 2000 ml).
+● Ultrasound definition: AFI ≥ 25 cm.
+
+Incidence: 1% of all pregnancies.
+Etiology:
+A) Idiopathic: Commonest cause.
+B) Fetal causes:
+1) Congenital anomalies:
+a) Anencephaly & spina bifida: In most cases &
+the causes may be:
+1- Transudation of CSF from exposed meninges.
+2- Inability of fetus to swallow.
+3- Fetal polyuria (due to irritation of spinal centers
+& ↓↓ ADH).
+b) Esophageal & jejunal atresia: Due to interference with swallowing of AF.
+2) Multifetal pregnancy with TTTS: Recipient fetus develops polyhydramnios.
+3) Placental edema: Due to fetal hydrops, fetal liver
+cirrhosis (as in syphilis) or placental congestion (due
+to true knot in cord which obstructs VR).
+4) Chorioangioma of placenta. ………………………→
+
+C) Maternal causes:
+1) Uncontrolled DM: See DM with pregnancy.
+2) Severe generalized edema: Cardiac, hepatic or
+renal edema.
+
+Types:
+A) Acute polyhydramnios
+
+B) Chronic polyhydramnios
+
+Rare (1/1200)
+
+More common (1/200)
+
+Occurs before 20 weeks
+
+Occurs after 20 weeks
+
+Rapid accumulation of AF
+
+Gradual accumulation of AF
+
+Usually due to fetal cause
+
+Usually due to maternal cause
+
+Complications:
+A) Maternal:
+1) During pregnancy:
+36
+
+Abnormalities of amniotic fluid volume
+
+a) Abortion or preterm labor.
+b) PROM.
+c) Malpresentation & non engagement of presenting part.
+d) Pressure manifestations.
+2) During labor:
+a) Cord prolapse: Due to non engagement of presenting part.
+b) Placental abruption: Due to sudden drop of intra-amniotic pressure after ROM.
+c) Uterine inertia: Due to uterine overdistension.
+d) Splanchnic shock: Due to pooling of blood in dilated splanchnic vessels as a result of
+sudden drop of intra-amniotic pressure after ROM.
+3) During puerperium:
+a) Atonic PPH: Due to uterine overdistension.
+b) Puerperal sepsis.
+c) Subinvolution of uterus.
+
+B) Fetal & neonatal: Perinatal mortality is 10-30% mainly due to:
+1) Prematurity & its complications.
+2) Asphyxia: Due to cord prolapse or placental separation.
+3) Birth injuries.
+
+Diagnosis:
+A) Symptoms: Pressure symptoms by overdistended uterus (dyspnea, palpitation,
+nausea, vomiting, abdominal discomfort, backache & edema LLs).
+● In acute polyhydramnios: Symptoms are severe & of sudden onset.
+● In chronic polyhydramnios: Symptoms are slight & of gradual onset.
+
+B) Signs:
+1) General: Anxiety, breathlessness, edema LLs & varicose veins.
+2) Abdominal:
+a) Inspection: Overdistended abdomen + stretched & glistening skin with visible
+dilated veins.
+b) Palpation:
+1- Uterus: Tense, tender & larger than period of amenorrhea.
+2- Fetal parts aren't easily felt.
+3- Malpresentation & non engagement of
+presenting part.
+c) Percussion: Fluid thrill.
+d) Auscultation: FHS is faint or inaudible.
+3) Local: Boggy fornices + cervix is pulled
+high up & may be dilated.
+
+C) Ultrasound:
+● Diagnostic criteria:
+
+AFI
+
+≥
+
+25 cm
+
+OR
+
+presence of 1 vertical pocket of AF ≥ 8 cm.
+● Other findings: As congenital anomalies,
+twins or malpresentation.
+37
+
+Abnormalities of amniotic fluid volume
+
+● Grading of polyhydramnios according to deepest vertical pocket:
+1) Mild: 8-11 cm.
+
+2) Moderate: 12-25 cm.
+
+3) Severe: > 25 cm.
+
+D.D.:
+A) Causes of oversized uterus.
+
+B) Causes of oversized abdomen.
+
+Treatment:
+● Plan of treatment:
+1) Acute polyhydramnios: TOP by AROM.
+2) Chronic polyhydramnios:
+a) If there is lethal fetal anomalies: TOP by AROM regardless GA.
+b) If there is no lethal fetal anomalies:
+1- Immature fetus: Expectant treatment.
+
+2- Mature fetus: TOP.
+
+● Lines of treatment:
+1) Expectant treatment:
+a) Bed rest & sedative.
+b) Correction of DM: Leads to gradual resolution of polyhydramnios.
+c) Indomethacin:
+■ Action: ↓↓ fetal urine output & pulmonary fluid production.
+■ Side effects: Premature closure of ductus arteriosus (if given after 32 weeks).
+d) Therapeutic amniocentesis: Done for maternal indication only (dyspnea & pain
+relief).
+2) Termination of pregnancy:
+a) AROM & vaginal delivery: Perform controlled amniotomy by doing high ROM to
+allow slow drainage of AF (to avoid premature placental separation) & don't remove
+your fingers from vagina except after engagement of presenting part (to avoid cord
+prolapse). Drew Smythe catheter can be used in such condition.
+b) CS: If there is general obstetric indication.
+3) Neonatal care:
+a) Diagnose & treatment of congenital anomalies, anemia, jaundice & infection.
+b) Care of preterm baby & care of infant of diabetic mother.
+
+Oligohydramnios
+Definitions:
+● Oligohydramnios:
+■ Clinical definition: ↓↓ AF volume (< 500 ml at term).
+■ Ultrasound definition: AFI ≤ 5 cm.
+
+● Anhydramnios: Complete absence of AF (very rare).
+
+Incidence: 1/750.
+Etiology:
+A) PROM: Commonest cause.
+B) Fetal causes:
+38
+
+Abnormalities of amniotic fluid volume
+
+1) Congenital anomalies:
+a) Renal anomalies: Renal agenesis or polycystic kidney.
+b) Urinary tract obstruction: Posterior urethral valve in male fetus urethra.
+2) Multifetal pregnancy with TTTS: Donor fetus develops oligohydramnios.
+3) Postterm pregnancy: Due to placental insufficiency.
+4) IUGR or IUFD.
+
+C) Idiopathic.
+
+Complications:
+A) Maternal: Malpresentation & prolonged labor.
+B) Fetal:
+1) Pulmonary hypoplasia: Most serous complication that occurs due to:
+a) Compression of fetal thorax by uterus.
+b) Lack of inhaled fluid (AF is essential for lung distention & maturation).
+2) Cutaneous & skeletal abnormalities: Due to:
+a) Adhesions between fetal parts & membranes.
+b) Absence of free fetal movement.
+
+c) Unequal pressure around fetus.
+
+3) Asphyxia: Due to cord compression.
+
+Diagnosis:
+A) Symptoms: Failure of abdominal enlargement.
+B) Signs:
+1) Uterus is smaller than period of amenorrhea.
+
+2) Easily felt fetal parts.
+
+3) Hyperflexed fetal attitude & breech presentation is common.
+
+C) Ultrasound:
+● Diagnostic criteria: AFI ≤ 5 cm OR absence of 1 vertical pocket of AF ≥ 1 cm.
+● Other findings: As congenital anomalies, IUGR, IUFD or malpresentation.
+
+D.D.: Causes of undersized uterus.
+Treatment:
+A) In PROM: Treatment of PROM.
+B) In postterm pregnancy: TOP.
+C) If there is lethal fetal anomalies or IUFD: TOP.
+D) If there is fetal risk (cord compression or IUGR): Immediate CS.
+E) If there is no fetal risk: Vaginal delivery is allowed with careful electronic fetal
+monitoring to detect any change in FHR which indicates CS.
+
+F) Amnioinfusion: Method in which physiological solution (normal saline) is infused via
+double lumen catheter through cervix into uterine cavity.
+
+39
+
+`,
+  "Premature Rupture of Membranes (PROM)": `Premature rupture of membranes (PROM)
+
+PREMATURE RUPTURE OF MEMBRANES (PROM)
+Definitions:
+● PROM: ROM before onset of labor after 37 weeks gestation.
+● Preterm PROM (PPROM): ROM before completed 37 weeks gestation (in between
+20-37 weeks).
+
+● Early rupture of membranes (EROM): ROM during 1st stage of labor.
+
+Incidence: 2% of all pregnancies.
+Etiology & risk factors:
+A) Idiopathic.
+B) Genital infection: Specially bacterial vaginosis.
+C) Trauma: Direct or coital trauma.
+D) Congenital weakness in membrane: Affects its tensile strength.
+E) ↑↑ intrauterine pressure: As in polyhydramnios, placental abruption & multifetal
+pregnancy.
+
+F) Malpresentation & malposition.
+G) Cervical incompetence.
+H) Other risk factors: Previous PROM, previous preterm labor, uterine anomalies,
+smoking, malnutrition & low SES.
+
+Complications:
+A) Chorioamnionitis:
+● Symptoms: Fever, rigors, abdominal pain & foul odor of fluid.
+● Signs:
+1) Maternal: Fever, tachycardia, uterine tenderness & offensive vaginal discharge.
+2) Fetal: Fetal tachycardia (earliest sign).
+● Investigations:
+1) CBC: Leukocytosis.
+2) C-reactive protein (CRP): ↑↑.
+3) AF analysis: Leukocytosis & organisms.
+4) AF culture & sensitivity testing.
+
+B) Cord prolapse: Specially in polyhydramnios or malpresentation.
+C) Premature placental separation: Specially in polyhydramnios.
+D) Fetal compression syndrome: Rare (except with ROM before 25 weeks).
+● Etiology: Drainage of liquor.
+● Characters: Pulmonary hypoplasia, abnormal facies & contracture of extremities.
+
+E) Prematurity with its complications.
+F) Neonatal pneumonia.
+G) Puerperal infection.
+40
+
+Premature rupture of membranes (PROM)
+
+Diagnosis:
+A) History: Sudden passage of watery fluid per vagina or leaking in dribbles.
+B) Examination:
+1) General: Signs of infection (fever & tachycardia) may be present.
+2) Abdominal:
+a) Fundal level may be < period of amenorrhea.
+b) Fetal parts may be more easily felt & uterus is felt molded on fetus in severe cases.
+3) Local:
+a) Inspection: Fluid leakage per vagina with characteristic seminal odor.
+b) Palpation: Fluid contamination of examining fingers (however, palpation should be
+avoided when PROM is suspected to avoid infection).
+c) Sterile dry speculum examination: Fluid leakage from external os (definitive
+diagnosis) or presence of pool of AF in posterior fornix.
+
+C) Investigations:
+1) Confirmation of nature of fluid:
+a) Nitrazine strip test: fluid from vagina exam placed on
+strip of nitrazine paper→ paper turn blue in presence of
+alkaline PH (7-7.5) of AF
+b) Ferning test: AF is fern +ve due to its NaCl content
+(most reliable test).
+c) Nile blue sulfate test: Staining desquamated fetal cells in AF
+by orange color.
+d) Analysis of fluid for AFP.
+e) Ultrasound: For estimation of AF volume.
+2) Evaluation of fetal condition: Tests for fetal evaluation (see
+later).
+3) Detection of infection: Investigations of chorioamnionitis ( ).
+
+Prevention:
+A) Treatment of genital infection.
+B) Avoid coitus in late pregnancy (specially for high risk cases).
+C) More rest in cases of multifetal pregnancy & polyhydramnios.
+D) Cervical cerclage for cervical incompetence.
+E) Prohibition of smoking.
+
+Treatment:
+● Plan of treatment:
+1) If there is infection: TOP regardless GA.
+2) If there is no infection:
+a) Mature fetus + Uterine activity: Follow with continuous fetal monitoring.
+b) Mature fetus + No uterine activity: Waite for 12-24 hours & give prophylactic
+antibiotics:
+41
+
+Premature rupture of membranes (PROM)
+
+1- If labor starts: Follow.
+2- If labor doesn't start: TOP.
+c) Immature fetus + Uterine activity: Give short term tocolysis + prophylactic
+antibiotics + corticosteroids then TOP.
+d) Immature fetus+ No uterine activity:Expectant treatment till maturity then TOP.
+
+● Lines of treatment:
+1) Expectant treatment:
+a) Hospitalization: At high risk pregnancy unit.
+b) Rest: Complete bed rest to prevent more stress on amniotic sac.
+c) Avoid vaginal examination: Because it carries risk of introducing infection (it is
+indicated if patient is in labor to exclude cord prolapse & assess degree of cervical
+dilatation & effacement & it should be done under complete aseptic conditions using
+sterile gloves).
+d) Observation: Maternal & fetal.
+e) Drugs:
+1- Antibiotics: Erythromycin.
+2- Corticosteroids: To enhances fetal lung maturity (in cases of PPROM).
+3- Tocolytics: Given for 36-48 hours (short term tocolysis) in cases of PPROM with
+uterine activity to delay delivery & give time for action of corticosteroids.
+2) Termination of pregnancy:
+■ Indications:
+a) Chorioamnionitis.
+b) GA ≥ 34 weeks.
+c) Proved fetal lung maturity by L/S ratio & phosphatidyl glycerol.
+d) Other obstetric indications (as fetal distress or cord prolapse).
+■ Methods: Either vaginal delivery or CS according to condition.
+
+42
+
+`,
+  "Abortion": `Abortion
+
+ABORTION
+Definitions:
+● Recent definition: Interruption or termination of pregnancy before fetal medical
+viability (20 weeks or 500 gm fetal weight). Viability means that fetus is capable of
+extrauterine survival.
+
+● Old definition: Interruption or termination of pregnancy before age of legal viability
+(28 weeks in Egypt, 24 weeks in England & 20 weeks in USA).
+
+Types:
+A) Spontaneous abortion (miscarriage or early pregnancy loss).
+B) Induced abortion: See induction of abortion.
+
+Spontaneous abortion (Miscarriage)
+Definition: Interruption or termination of pregnancy before fetal viability through
+natural passage without any mechanical or medical intervention.
+
+Incidence: 10-15% of clinical pregnancies.
+Etiology:
+A) Fetal causes:
+1) Fetal death.
+2) Chromosomal abnormalities:
+● Incidence: Commonest cause (responsible
+for 50-80 % of early abortion).
+● Types: Numerical disorders (monosomy &
+trisomy) or structural disorders.
+● Effects: Non formation of embryo (blighted ovum) or congenital malformation of
+embryo.
+
+B) Maternal causes:
+1) Anatomical factors:
+a) Congenital
+
+b) Acquired
+
+1- Cervical incompetence.
+
+1- Cervical incompetence.
+
+2- Mullerian duct abnormalities.
+
+2- Intrauterine synechiae.
+
+3- Uterine hypoplasia.
+
+3- Tumors (fibroid polyps or submucous fibroid).
+4- Displacement (fixed RVF or uterine prolapse).
+5- Endometriosis & adenomyosis.
+
+2) Infection: STORCH, AIDS, mycoplasma & typhoid.
+3) Endocrinal factors: LPD, DM or thyroid disorders.
+43
+
+Abortion
+
+4) Immunological factors: Rh isoimmunization, antiphospholipid syndrome (APS) &
+SLE.
+5) Hereditary thrombophilia.
+6) Miscellaneous causes:
+a) Psychological factor.
+b) Chronic diseases: HTN, heart diseases, chronic renal failure or TB.
+c) Nutritional deficiencies.
+d) Environmental factors: Smoking, alcoholism, caffeine (> 5 cups coffee /day),
+drugs (quinine, ergot & cytotoxic drugs), inhalation anesthetics, toxins (heavy
+metals & organic solvents) & ionizing radiation.
+e) Trauma: External abdominal trauma or trauma during abdominal operations.
+
+C) Paternal causes: Abnormal sperms give rise to pathological zygot.
+D) Abnormalities of placenta & AF:
+1) Acute polyhydramnios (due to uterine distention).
+2) Circumvallate or marginate placenta or partial vesicular mole.
+
+E) Idiopathic.
+
+Types:
+A) According to time:
+1) Early abortion: In 1st trimester (80%).
+2) Late abortion: In 2nd trimester (20%).
+
+B) According to number:
+1) Accidental (isolated) abortion.
+2) Repeated abortion: Occurrence of 2 successive abortions.
+3) Recurrent (habitual) abortion: Occurrence of ≥ 3 successive abortions.
+
+Mechanism:
+A) < 8 weeks: Repeated attacks of choriodecidual separation → complete separation of
+GS → sac is in uterine cavity → uterus deals with it as a FB → uterine contraction →
+expulsion of products of conception outside uterus.
+
+B) 8-12 weeks: Rupture of decidua capsularis → expulsion of fetus followed by
+separation & expulsion of decidua.
+
+C) > 12 weeks: ROM → expulsion of fetus followed by expulsion of placenta.
+
+Pathological changes in abortus:
+A) Blighted ovum (anembryonic pregnancy or oval dysgenesis):
+● Definition: Sac with large volume of fluid & absent embryonic pole.
+● Sonographic features:
+1) Ill defined GS.
+2) Small GS in relation to GA.
+3) Absent embryonic pole with sac > 30 mm (8 weeks gestation).
+
+44
+
+Abortion
+
+B) Carneous mole: Variety of missed abortion in which dead embryo in early pregnancy
+is surrounded by clotted blood forming "bloody mole" then later on, fibrosis of blood
+clots occurs forming "fleshy mole".
+
+C) Dissolution: Occurs in early weeks.
+D) Fetus compressus: AF is absorbed & fetus is compressed & desiccated.
+E) Fetus papyraceous (fetal mummification): Fetus is so dry & compressed like
+parchment.
+
+F) Fetal maceration.
+G) Lithopedion: Calcified fetus.
+
+Complications:
+A) Early complications:
+1) Hge.
+2) Infection (septic abortion).
+3) Shock: Hypovolemic, septic or neurogenic.
+4) Trauma: Uterine perforation & cervical or vaginal lacerations during attempts of
+surgical evacuation by inexperienced personnel.
+5) Rh isoimmunization: In Rh –ve females (so, anti-D Ig should be given to Rh –ve
+females in all types of abortion).
+6) Incomplete evacuation & retained products of conception.
+
+B) Late complications:
+1) Intrauterine synechiae & 2ry infertility.
+2) Ectopic pregnancy.
+3) Placenta previa.
+4) Placental abruption.
+5) Cervical incompetence.
+6) LBW (premature & IUGR) in subsequent pregnancies.
+
+Clinical picture:
+A) Symptoms:
+1) Symptoms of pregnancy.
+2) Vaginal bleeding: Usually occurs before pain & is variable in amount & color
+according to type of abortion.
+3) Pain: Usually occurs after bleeding & is variable according to type of abortion.
+4) Passage of products of conception.
+5) Passage of watery fluid per vagina: Due to ROM in 2nd trimester abortions.
+
+B) Signs:
+1) General: Pallor, tachycardia & hypotension (according to amount of blood loss).
+2) Local:
+a) Uterine size → In relation to period of amenorrhea.
+b) Cervix: Closed or opened.
+c) Membranes: Intact or ruptured.
+45
+
+Abortion
+
+C) Investigations:
+1) To detect abortion: Pregnancy test (to document pregnancy) & ultrasound.
+2) To detect the cause: As chromosomal or immunological studies.
+
+Clinical types: Spontaneous abortion may be one of the following types:
+1- Threatened abortion
+2- Inevitable abortion
+3- Incomplete abortion
+4- Complete abortion
+5- Cervical abortion
+6- Missed abortion
+7- Septic abortion
+Inevitable abortion
+
+Incomplete abortion
+
+Cervical abortion
+
+Threatened abortion
+
+Missed abortion
+
+Types of Abortion
+
+46
+
+Abortion
+
+Definition
+
+A) Threatened
+
+B) Inevitable
+
+C) Incomplete
+
+D) Complete
+
+abortion
+
+abortion
+
+abortion
+
+abortion
+
+Mild attack of choriodecidual
+
+Abortion which can't be
+
+Partial expulsion of
+
+Complete expulsion of
+
+separation
+
+stopped
+
+products of conception
+
+products of conception
+
++ve
+
++ve
+
++ve
+
+Start to disappear
+
+Mild
+
+Severe
+
+Severe
+
+Minimal or absent
+
+Mild or absent
+
+Severe
+
+Severe
+
+Minimal or absent
+
+– ve
+
+– ve
+
++ve (some parts)
+
++ve (all parts)
+
+– ve
+
+– ve or +ve
+
++ve
+
++ve
+
+= period of amenorrhea
+
+≤ period of amenorrhea
+
+Slightly < period of
+
+Markedly < period of
+
+amenorrhea
+
+amenorrhea
+
+Partially opened
+
+Closed (reformed)
+
++ve
+
++ve
+
+– ve after 2 weeks
+
+Interrupted intrauterine
+
+Remnants of products
+
+pregnancy
+
+of conception
+
+Symptoms of
+pregnancy
+Vaginal bleeding
+Pain
+
+Diagnosis
+
+Passage of products
+of conception
+ROM (after 12 W)
+Uterine size
+Cervix
+
+Closed
+
+Pregnancy test
+
++ve
+
+Ultrasound
+
+Intact intrauterine pregnancy
+
+1) 1st aid measures & resuscitation.
+
+2) Rest (physical & mental).
+
+2) TOP: According to GA.
+
+4) Natural progesterone (given
+only if progesterone deficiency
+is proved).
+5) Observation (for bleeding &
+pain).
+6) Follow up by ultrasound (for
+fate of pregnancy).
+
+Fate
+
+conception can be felt)
+
+1) Reassurance.
+3) Avoid intercourse.
+
+Treatment
+
+Opened (products of
+
+1) Continuation of pregnancy.
+2) Inevitable or missed abortion.
+
+a) < 12 weeks: Surgical evacuation (by ovum
+forceps or MVA).
+
+Empty uterine cavity
+1) Nothing is needed in
+most of cases.
+2) Ecbolics.
+3) Antibiotics.
+
+b) > 12 weeks: Medical evacuation (by PGs or
+oxytocin) or hysterotomy (rarely indicated if
+medical evacuation failed or if there is severe
+uncontrolled bleeding).
+N.B.:
+● Most important clinical feature differentiating between types of abortion is
+the state of cervix.
+● Most reliable investigation for abortion is ultrasound.
+
+47
+
+Abortion
+
+E) Cervical abortion:
+● Definition: Variety of inevitable abortion in which products of conception is separated
+from uterus & retained in cervical canal.
+● Etiology: Stenosis of external os.
+● Diagnosis: Considerable bleeding + severe colicky pain + enlarged barrel shaped
+cervix.
+● Treatment: Cervical dilatation (under anesthesia) + removal of products of conception.
+
+F) Missed abortion:
+● Definition: Retention of dead embryo or fetus within uterus for days or weeks (some
+define missed abortion as retention of dead products of conception for ≥ 4 weeks).
+● Mechanism: Repeated attacks of choriodecidual separation → choriodecidual Hge →
+death of embryo or fetus but progesterone is still secreted → relaxation of uterus &
+prevention of expulsion of embryo or fetus.
+● Complications: If retained within uterus for ≥ 4 weeks.
+1) Infection: Septic abortion.
+2) Coagulopathies: Hypofibrinogenemia & DIC.
+● Diagnosis:
+1) Symptoms:
+a) Gradual regression of symptoms of pregnancy.
+b) Dark brown (prune juice) vaginal discharge may be present.
+c) Failure to feel fetal movement (no quickening) or cessation of fetal movements.
+d) Failure of abdominal enlargement.
+2) Signs:
+a) Uterine size: < period of amenorrhea.
+b) Cervix: Closed
+c) FHS: Absent.
+3) Investigations:
+a) Pregnancy test: Becomes –ve after 2 weeks from death of embryo or fetus.
+b) Ultrasound: Diagnostic (missed abortion & blighted ovum will usually give typical
+picture of deformed GS with absence of heart beats or fetal pole).
+● D.D.:
+1) Causes of undersized uterus.
+2) Causes of snow storm appearance on ultraso`,
+  "Ectopic Pregnancy": `Ectopic pregnancy
+
+ECTOPIC PREGNANCY
+Definition: Implantation of fertilized ovum outside normal uterine cavity.
+Incidence: 2% of all pregnancies & incidence is ↑↑ due to:
+1) ↑↑ incidence of chronic PID & STDs.
+2) ↑↑ use of IUCD (specially progesterone releasing IUCD).
+3) ↑↑ rate of ART.
+4) Better diagnostic tools.
+
+Risk factors (Predisposing factors):
+A) History of PID or STDs.
+B) History of tubal surgery.
+C) Contraceptive failure:
+1) Failure
+
+with
+
+use
+
+(specially
+
+of
+
+IUCD
+
+progesterone
+
+releasing IUCD).
+2) Failure
+
+with
+
+use
+
+of
+
+progesterone
+
+only
+
+contraceptives
+
+(not
+
+conclusive).
+3) Pregnancy
+
+after
+
+tubal
+
+sterilization.
+
+D) Use of fertility drugs or
+pregnancy by ART.
+E) Previous ectopic pregnancy: Recurrence rate is 10%.
+F) ↑↑ maternal age: Highest rate occurs in women aged 35-44 years.
+G) Smoking: Due to altered tubal motility, ciliary action & blastocyst implantation
+process.
+
+H) Others: Previous DES exposure, previous abdominal surgery or ruptured appendix,
+uterine malformations & salpingitis isthmica nodosa (microscopic presence of tubal
+epithelium in myosalpinx or beneath tubal mucosa).
+
+Types & sites:
+A) Tubal pregnancy (98%)
+
+B) Non tubal ectopic pregnancy (2%)
+
+1) Ampullary (80%).
+
+1) Abdominal pregnancy (1.4%).
+
+2) Isthmic (12%).
+
+2) Ovarian pregnancy (0.2%).
+
+3) Fimbrial (5%).
+
+3) Intrauterine ectopic pregnancy:
+
+4) Interstitial (2%).
+
+a) Cervical pregnancy (0.2%).
+b) Angular pregnancy.
+c) Pregnancy in rudimentary horn.
+54
+
+Ectopic pregnancy
+
+d) Intramural pregnancy.
+
+Complications:
+A) Early complications:
+1) Hge & shock.
+2) DIC.
+3) Rh isoimmunization: In Rh –ve females.
+4) Complications of surgery: Hge, infection or injury to surrounding organs.
+5) Anesthetic complications.
+6) Maternal mortality: Ectopic pregnancy is the leading cause of maternal death in 1st
+trimester & accounts for 11% of all pregnancy related deaths.
+
+B) Late complications:
+1) 2ry infertility.
+2) Pelvic adhesions.
+
+Tubal pregnancy
+Definition: Implantation of fertilized ovum into tubal wall.
+Etiology:
+A) Tubal factors: They lead to delayed tubal transport → dissolution of zona →
+implantation in tube.
+1) Mechanical:
+a) Congenital: Long tortuous tube, diverticulum or accessory ostium.
+b) Traumatic: Microsurgery of tube or after tubal sterilization.
+c) Inflammatory: PID (commonest cause of tubal pregnancy) which causes chronic
+salpingitis → entrapment of ovum & interference with ovum transport due to:
+1- Absent cilliary movement of tubes.
+2- Adhesions, narrowing & development of strictures or diverticulae.
+d) Neoplastic: Tumors kinking the tube (as broad ligamentary swellings).
+e) Endometriosis.
+2) Functional:
+a) Tubal spasm: Due to parasympathetic overactivity.
+b) Abnormal ciliary movements.
+c) Abnormal peristalsis: As in IUCD & progesterone only contraceptives use.
+
+B) Factors in ovum:
+55
+
+Ectopic pregnancy
+
+1) Rapid dissolution of zona pellucida: Implantation in tube.
+2) Migration theory (wandering ovum):
+● Types: Transperitoneal migration (accepted) or transuterine migration (rare).
+● Evidence: Pregnancy may be in one side while corpus luteum is in other side.
+
+Pathology:
+A) Uterine pathology: Due to effect of pregnancy hormones.
+1) Size: Enlarged (but not > size of 8 weeks).
+2) Consistency: Soft.
+
+3) Decidual reaction.
+
+4) Arias-Stella reaction: Areas of hypersecretory endometrium characterized by
+nuclear pleomorphism & hyperchromatosis (present also in normal pregnancy, GTD &
+endometriosis).
+5) Absence of chorionic villi.
+
+B) Tubal pathology:
+● There is decidual reaction but it is patchy, incomplete & deficient in function (no
+sufficient hormones) so, trophoblasts erode into tubal wall & implantation occurs deep
+in muscle layer of tubal wall & ovum becomes surrounded by:
+1) From one side: Thin muscle layer + peritoneum.
+2) From other side: Thin muscle layer + mucosa.
+● After
+
+implantation,
+
+there
+
+is
+
+picture
+
+of
+
+undisturbed ectopic pregnancy
+
+but
+
+pregnancy will not continue due to unfavorable environment (deficient decidual function
+& thin tubal wall which ruptures easily) & disruption will occur (usually at 6-10 weeks)
+giving picture of disturbed ectopic pregnancy which have one of the following
+pathological types (fate) depending on whether disruption occurs towards lumen or
+towards outer surface:
+
+1) If disruption occurs towards lumen: This may lead to:
+a) Tubal mole:
+■ Pathogenesis: Repeated attacks of slight Hge → embryo
+dies but is still attached to tubal wall & becomes
+surrounded by clotted blood forming mole.
+■ Fate:
+
+Shrinkage
+
+&
+
+absorption,
+
+hematosalpinx
+
+or
+
+pyosalpinx (if infected).
+b) Tubal abortion:
+■ Incidence:
+
+Most
+
+common
+
+in
+
+ampullary
+
+or
+
+fimbrial
+
+pregnancy.
+■ Pathogenesis: Separation of embryo from tubal wall
+followed by its expulsion into peritoneal cavity through
+abdominal ostium.
+■ Fate (types):
+1- Complete: Bleeding stops & products of conception are
+absorbed.
+56
+
+Ectopic pregnancy
+
+2- Incomplete: Bleeding continues (due to incomplete separation or bleeding from
+implantation site) leading to:
+a- Hematosalpinx: Blood collects in tube when
+both tubal ends are closed.
+b- Peritubal hematocele: Blood collects around
+abdominal ostium.
+c- Pelvic hematocele: Blood collects in Douglas
+pouch.
+d- Diffuse intraperitoneal Hge.
+
+2) If disruption occurs towards outer surface: This may be:
+a) Tubal rupture:
+■ Incidence: Occurs in 55% of cases & is
+more common in isthmic pregnancy.
+■ Fate: According to site of rupture:
+1- Rupture in roof or sides of tube (parts
+covered by peritoneum):
+a- Pelvic hematocele.
+b- Diffuse intraperitoneal Hge.
+2- Rupture in floor of tube (in between 2 layers of broad ligament): Broad ligament
+hematoma.
+b) Tubal erosion: Very rarely, minute erosion occurs in tubal wall → escape of
+embryo surrounded by living chorionic tissue outside tube → attaches itself to
+neighboring organs, omentum or peritoneum giving picture of 2ry abdominal
+pregnancy.
+
+Clinical picture (Clinical types): The classic clinical triad of ectopic pregnancy is
+amenorrhea, pain & vaginal bleeding (however, only 50% of cases present typically)
+so, ectopic pregnancy should be highly suspect in any woman in reproductive age presents
+with these symptoms & presents with signs of pelvic tenderness, enlarged uterus & adnexal
+mass or tenderness.
+
+A) Undisturbed ectopic pregnancy:
+1) Symptoms: Symptoms of early pregnancy (present in all clinical types).
+2) Signs:
+a) General: Breast signs of pregnancy (present in all clinical types).
+b) Abdominal: Lower abdominal tenderness (in 90% of cases).
+c) Local:
+1- Signs of early pregnancy (present in all clinical types).
+2- Tender cervical motion (Dodd's sign): Pain on cervical mobility from side to side.
+3- Tender adnexal swelling (50%).
+
+B) Subacute disturbed ectopic pregnancy: Mostly with tubal abortion.
+1) Symptoms:
+57
+
+Ectopic pregnancy
+
+a) Amenorrhea: Short period of amenorrhea or no amenorrhea if pregnancy is
+disturbed before time of next menstruation (specially in isthmic pregnancy).
+b) Pain: Commonest symptom (occurs in 90% of cases) & it may be:
+1- Dull aching pain: Due to tubal distension.
+2- Colicky pain: In tubal abortion (due to tubal contraction to expel its contents).
+3- Stabbing pain: In tubal rupture (due to erosion or perforation of tube).
+4- Shoulder pain: If blood accumulates under diaphragm.
+c) Vaginal bleeding: Occurs in 70% of cases (due to shedding of decidua) & it follows
+pain.
+d) Fainting attacks: Due to repeated attacks of Hge & colicky pain.
+e) Bathroom sign: Urge to have bowel action followed by sudden syncope while
+straining at defecation (it is due to vasomotor disturbance following peritoneal
+irritation).
+2) Signs:
+a) General: Pallor, tachycardia & hypotension.
+b) Abdominal:
+1- Lower abdominal tenderness & rigidity ± shifting dullness.
+2- Cullen's sign: Bluish discoloration around umbilicus (due to intraperitoneal Hge).
+c) Local:
+1- Pulsation in lateral fornix (Nixon's sign).
+2- Tenderness & fullness in posterior fornix (Johnson's sign): Due to accumulation of
+blood in Douglas pouch.
+3- Tender cervical motion.
+4- Tender adnexal swelling.
+
+C) Acute disturbed ectopic pregnancy: Mostly with tubal rupture.
+1) Symptoms:
+a) Short period of amenorrhea followed by acute lower abdominal pain & sudden
+collapse.
+b) Shoulder pain (due to accumulation of blood under diaphragm).
+2) Signs:
+a) General: Signs of shock (rapid weak pulse, low BP & subnormal temperature).
+b) Abdominal: Marked lower abdominal tenderness & rigidity + shifting dullness.
+c) Local: Doesn't give much information because of marked vaginal tenderness,
+however, there is severe tender cervical motion.
+
+D) Chronic disturbed ectopic pregnancy: Pelvic hematocele.
+1) Symptoms:
+a) History of recurrent lower abdominal pain & vaginal bleeding.
+b) Pelvic heaviness.
+c) Dysuria, dyschezia & rectal tenesmus.
+d) Deep dyspareunia.
+2) Signs:
+58
+
+Ectopic pregnancy
+
+a) General: Pallor.
+b) Abdominal: Pelviabdominal swelling + Cullen's sign may be present.
+c) Local:
+1- Tender cystic swelling in posterior fornix pushing uterus forw`,
+  "Gestational Trophoblastic Disease (GTD)": `Gestational trophoblastic disease (GTD)
+
+GESTATIONAL TROPHOBLASTIC DISEASE (GTD)
+Definition: Term used for spectrum of trophoblastic proliferative disorders.
+Classification:
+A) Benign: Vesicular mole (discussed in obstetrics).
+B) Malignant: Gestational trophoblastic tumor (discussed in gynecology).
+
+Vesicular mole
+Definition: Benign trophoblastic proliferative disorder in which
+products of conception are totally or partially replaced by
+vesicular structure.
+
+Synonyms: Hydatidiform mole or molar pregnancy.
+Incidence: 1/1500 in most of world.
+Types & pathogenesis:
+
+Definition
+Risk factors
+
+Complete (classic) mole
+
+Partial (incomplete) mole
+
+All products of conception are
+
+Only part of placenta is changed into
+
+changed into vesicles
+
+vesicles
+
+Related to certain risk factors
+
+Not related to risk factors
+
+Results from fertilization of Results from one of the following
+anucleate ovum or ovum with events:
+inactive nucleus by one of the
+following events:
+1) 1
+
+sperm
+
+of
+
+normal
+
+ovum by 2 sperms.
+followed
+
+by
+
+2) Replication
+
+of
+
+male
+
+pronucleus.
+
+duplication
+Pathogenesis
+
+1) Fertilization
+
+of
+
+male
+
+chromosomes.
+2) 2 sperms.
+
+Karyotype
+Sources of
+chromosomes
+
+46XX (90%) or 46XY (10%)
+All conceptus chromosomes
+are paternal (paternal
+androgenesis)
+
+69XXY or 69XXX (triploid)
+2 sets of conceptus chromosomes are
+paternal & 1 set is maternal
+66
+
+Gestational trophoblastic disease (GTD)
+
+Risk factors: For complete mole.
+A) Age: More common in extremities of reproductive age (< 20 & > 40 years).
+B) Parity: More common with low parity (GTT is more common with high parity).
+C) Race: Highest incidence (1/125) is in south east Asia (specially Philippines).
+D) SES: More in poor classes.
+E) Diet: More common in rice eating & spicy cooking populations.
+F) Genetic factor: Trisomy 16 is common association.
+G) Previous molar pregnancy: Recurrence rate is 1-2%.
+
+Pathology:
+A) Uterus:
+1) N/E:
+Size
+
+Complete mole
+
+Partial mole
+
+> period of amenorrhea (in 50% of cases)
+
+≤ period of amenorrhea
+
+Soft & doughy
+
+Soft
+
+Consistency
+
+Filled with grape like vesicles which are:
+
+a) Vesicles.
+
+1- Attached to each others & to uterine b) Part of normal placenta.
+wall.
+c) Membranes & cord.
+
+Contents
+
+2- Unilocular & variable in size & shape.
+
+d) Fetus.
+
+3- Thin walled & contain clear watery fluid.
+2) M/E:
+Complete mole
+
+Partial mole
+
+Diffuse
+
+Focal & variable
+
+Diffuse & severe
+
+Focal & moderate
+
+Blood vessels in villi
+
+Absent
+
+Present
+
+Normal villi
+
+Absent
+
+Present
+
+Amnion
+
+Absent
+
+Present
+
+Fetal tissue & fetal RBCs
+
+Absent
+
+Present
+
+Villous edema
+Trophoblastic proliferation
+
+B) Ovaries: Theca lutein cysts:
+● Etiology: Excessive HCG secretion (causes ovarian hyperstimulation).
+● Incidence: Common with complete mole (25-30%) & rare with partial mole.
+● N/E:
+
+ilateral
+
+enlargement
+
+by
+
+ovarian
+multiple
+
+variable sized (up to 10 cm)
+cysts.
+● M/E:
+
+Cysts
+
+are
+
+lined
+
+with
+
+luteinized granulosa & theca
+cells.
+● Fate: Disappear spontaneously within 2-4 months of treatment of vesicular mole.
+67
+
+Gestational trophoblastic disease (GTD)
+
+Complications:
+A) Maternal:
+1) Hge: Due to separation of vesicles & it may be fatal.
+2) Infection: Because there is no amniotic sac.
+3) Uterine perforation: Due to invasion of myometrium (perforating mole).
+4) Trophoblastic embolization: ARDS.
+5) Metastasis: In some cases (more with complete mole), vesicles may get way to
+uterine vein & then to lung & heart (metastatizing mole).
+6) Hyperemesis gravidarum: Due to ↑↑ HCG.
+7) Preeclampsia: May occur before 20 weeks & is due to ↑↑ HCG & uterine distension.
+8) Thyrotoxicosis: Due to thyrotropic activity of HCG.
+9) DIC: Due to tissue necrosis → release of thromboplastin → thrombosis.
+10) Complications in theca lutein cysts: Torsion, rupture or Hge.
+11) Complications of treatment: Suction, hysterectomy or chemotherapy.
+12) Persistent trophoblastic disease: 15-20% with complete mole & 4% with partial
+mole.
+13) Late complications: Infertility, abortion & recurrence.
+
+B) Fetal: In partial mole.
+1) Abortion.
+2) IUGR or IUFD.
+
+Diagnosis:
+A) Symptoms:
+1) Symptoms of pregnancy.
+2) Vaginal bleeding: Commonest symptom.
+● Results from separation of vesicles & it varies from spotting to severe bleeding.
+● May be prune juice discharge (mixture of blood & intravesicular fluid due to rupture of
+some vesicles).
+3) Spontaneous expulsion of grape-like vesicles per vagina.
+4) Pain: Usually absent but there may be:
+a) Dull aching pain: Due to uterine distension.
+b) Colicky pain: Due to uterine contraction.
+c) Stabbing pain: Due to uterine invasion or perforation.
+d) Sharp pain: Due to complication in theca lutein cysts.
+5) Symptoms of complications:
+
+As
+
+hyperemesis
+
+gravidarum,
+
+preeclampsia
+
+or
+
+thyrotoxicosis.
+
+B) Signs:
+1) General:
+a) Breast signs of pregnancy.
+b) Pallor, tachycardia & hypotension.
+c) Signs of complications.
+68
+
+Gestational trophoblastic disease (GTD)
+
+2) Abdominal:
+a) Uterine size is > period of amenorrhea (may be ≤ period of amenorrhea in partial
+mole or if partial expulsion occurs).
+b) Uterus is soft & doughy.
+c) No palpable fetal parts, ballottement or audible FHS (in complete mole).
+3) Local:
+a) Signs of early pregnancy.
+b) Expulsion of vesicles may occur during examination (diagnostic).
+c) Bilateral cystic ovaries.
+
+C) Investigations:
+1) Urine pregnancy test: +ve in high dilution.
+2) Serum β-HCG level: Important diagnostic & prognostic test.
+● In complete mole: Level > 100 000 mIU/ml is strongly suggestive.
+● In partial mole: Not significantly ↑↑.
+3) Ultrasound: Most important diagnostic test.
+● In complete mole: Snow storm or honey comb
+appearance.
+● In partial mole: Fetus & placenta + partial
+molar changes.
+4) Histopathological examination of expelled
+vesicles.
+
+D.D.:
+A) Causes of bleeding in early pregnancy.
+B) Causes of oversized uterus.
+C) Causes of snow storm appearance on ultrasound.
+
+Treatment: Vesicular mole is emergency even if discovered accidentally.
+A) 1st aid measures: Treatment of shock if present.
+B) TOP (evacuation of mole):
+● Pretreatment evaluation:
+1) Blood grouping & Rh typing.
+
+2) CBC & coagulation profile.
+
+3) Liver, kidney & thyroid function tests.
+4) Searching for metastasis: Chest X-ray (cannon ball appearance).
+5) Serum β-HCG estimation: To be used as a baseline level for follow up.
+● Pretreatment preparation: At least 1 liter of matched blood should be ready for
+transfusion if needed.
+● Methods of evacuation:
+1) Suction evacuation & curettage: Method of choice whatever the uterine size.
+■ Procedure: Dilatation of cervix & evacuation of uterine contents (by suction cannula
+connected to suction apparatus or MVA syringe) followed by gentle curettage.
+■ Precautions:
+69
+
+Gestational trophoblastic disease (GTD)
+
+a) Ultrasound guidance is preferred.
+b) Give IV ecbolics (oxytocin or ergometrine) to enhance uterine involution &
+↓↓ blood loss.
+c) Give antibiotics (intraoperative & postoperative) to prevent infection.
+d) Send biopsy from uterine contents & from curettage for histopathological
+examination.
+■ Complications: Hge, shock, introduction of infection, uterine perforation, cervical
+laceration & incomplete evacuation.
+2) Surgical evacuation & curettage: Inferior to suction evacuation.
+■ Indication: Small sized uterus (< 16 weeks) in absence of suction apparatus.
+■ Procedure: Dilatation of cervix & evacuation of uterine contents (by ring or ovum
+forceps) followed by gentle curettage.
+3) Medical evacuation:
+■ Indication: Large sized uterus (> 16 weeks) in absence of suction apparatus.
+■ Method: Using PGs or oxytocin.
+4) Hysterotomy: Done when suction apparatus isn't available & uterine size is > 16
+weeks with severe bleeding & closed cervix.
+5) Hysterectomy: Rarely done in certain circumstances:
+a) Patient is > 40 years & completed her family.
+b) Uterine perforation with internal Hge.
+● Postevacuation complications:
+1) ARDS (due to fluid overload or trophoblastic emboli).
+2) Thyrotoxic crisis (thyroid storm).
+3) Persistent GTD (due to incomplete evacuation).
+4) DIC.
+
+C) Prophylactic chemotherapy: Indicated in:
+1) High risk cases for development of GTT (see below).
+2) Suspicion of malignancy during follow up (see below).
+
+D) Follow up:
+● Objective: Early detection of malignant transformation.
+● Method:
+1) Contraception:
+■ Duration: For at least 1 year (to avoid production of HCG during follow up period).
+■ Method: The best method is COCs (very effective contraceptive method +
+suppresses endogenous LH which can cause cross reaction with HCG).
+2) Serial serum β-HCG measurement: Most accepted method for follow up.
+■ Serum β-HCG is measured 48 hours after evacuation then weekly till 3 successive
+results are –ve then monthly for next 6 months then yearly.
+■ HCG becomes –ve after 9-12 weeks from evacuation of mole depending on:
+a) Initial β-HCG level.
+b) Amount of trophoblastic tissue remaining after evacuation.
+70
+
+Gestational trophoblastic disease (GTD)
+
+■ If HCG level doesn't ↓↓ or ↑↑ after evacuation, this may be due to:
+a) Pregnancy.
+b) Persistent GTD (due to incomplete eva`,
+  "Antepartum Hemorrhage (APH)": `Antepartum hemorrhage (APH)
+
+ANTEPARTUM HEMORRHAGE (APH)
+Definition: Bleeding in or from genital
+tract from 20 weeks gestation (28 weeks
+previously) till birth (including 1st & 2nd
+stages of labor).
+
+Etiology:
+A) Obstetric causes
+1) Placental site
+
+2) Extraplacental site
+
+bleeding
+
+bleeding
+
+B) Associated local
+gynecological causes
+1) Severe infection.
+
+a) Placenta previa.
+
+a) Excessive bloody show.
+
+2) Cervical erosion.
+
+b) Placental abruption.
+
+b) Rupture uterus.
+
+3) Ruptured varicosities.
+
+c) Placental edge bleeding. c) Ruptured vasa previa (rare).
+
+4) Ulcers, polyps or cancer.
+
+Placenta previa
+Definition: Placenta is partially or totally implanted in LUS after fetal viability (≥ 20
+weeks). Before 20 weeks, it is termed low lying placenta.
+
+Incidence: During first 1/2 of pregnancy, sonographic incidence of low lying placenta is
+50% but this incidence ↓↓ to 1/200 (0.5%) in late pregnancy due differential growth of
+uterus (i.e. rapid growth of uterus compared to placental growth) so, placenta moves
+towards UUS (placental migration).
+
+Etiology: Unknown but there are theories:
+A) Pure chance theory: Idiopathic implantation in LUS.
+B) Delayed development of chorion.
+C) Decidua capsularis theory: Placenta develops from decidua capsularis instead of
+decidua basalis so, placenta lies at any site in uterine cavity.
+
+D) Deficient decidua: Placenta extends over large area to get more blood.
+E) Large placenta.
+F) Abnormal placenta: Placenta membranacea or bilobate, bipartite or succenturiate
+placenta.
+
+Risk factors:
+A) Age: Old age (9 fold ↑↑ in incidence in women > 40 years).
+B) Parity: More common in multiparas (due to deficient decidua).
+72
+
+Antepartum hemorrhage (APH)
+
+C) Previous placenta previa: Commonest risk factor.
+D) Previous uterine scar: Due to deficient decidua.
+1) Previous CS (4 times more common).
+2) Previous myomectomy.
+3) Previous deep curettage or surgical evacuation of abortion.
+
+E) Multifetal pregnancy: Due large placenta.
+F) Rh isoimmunization: Due large placenta.
+G) DM: Due large placenta.
+H) Anemia.
+I) Smoking: Due to deficient decidua.
+
+Classification:
+A) Type I (placenta previa lateralis or low lying placenta): Placenta lies in LUS
+but its lower edge doesn't reach internal os (within 5 cm from internal os by
+ultrasound).
+
+B) Type II (placenta previa marginalis): Lower edge of placenta reaches margin of
+internal os but doesn't cover partially dilated cervix.
+
+C) Type III (placenta previa incomplete centralis): Internal os is partially
+covered by placenta (placenta covers partially dilated cervix but not fully dilated cervix).
+
+D) Type IV (placenta previa complete centralis): Internal os is completely
+covered by placenta (placenta covers fully dilated cervix).
+N.B.:
+● Types I & II are termed placenta previa minor degree whereas types III & IV are
+termed placenta previa major degree.
+● Placenta previa may be anterior (in 60%) or posterior.
+
+Incompelet
+
+I
+
+II
+
+III
+
+IV
+
+Pathophysiology:
+● Mechanism of bleeding:
+■ During 3rd trimester, LUS progressively enlarges but inelastic placenta can't stretch to
+accommodate this enlargement → shearing action between placenta & LUS → inevitable
+separation of part of placenta → unavoidable bleeding.
+73
+
+Antepartum hemorrhage (APH)
+
+■ Separation is aggravated during labor by progressive taking up of LUS combined with
+downward advancement of lower pole of intact sac of membranes making double
+shearing mechanism on placenta.
+■ No mechanism to stop bleeding because:
+1) LUS is non retractile.
+2) Muscle fibers of LUS are atonic with absence of decussating muscle layer.
+
+● Source of bleeding: Maternal blood.
+● Amount of bleeding: 1st attack is variable but recurrent attack is usually dangerous.
+
+Complications:
+A) Maternal:
+1) During pregnancy:
+a) Hge: Leading to shock, renal failure, Sheehan's syndrome & anemia.
+b) Preterm labor.
+c) PROM.
+d) Malpresentation & non engagement of presenting part.
+2) During labor:
+a) Uterine inertia.
+b) Cord prolapse.
+c) Lacerations of cervix & LUS: Due to friability & manipulation.
+d) ↑↑ incidence of placenta accreta.
+e) ↑↑ incidence of CS.
+f) Air embolism.
+3) During puerperium:
+a) Retained placental fragments.
+b) PPH:
+1- Atonic: Due to non retraction of LUS, retained placental fragments & anemia.
+2- Traumatic: Due to lacerations of cervix & LUS.
+c) Subinvolution of uterus.
+d) Puerperal sepsis: Due to low placental site (organisms can reach easily),
+↓↓ immunity, retained placental fragments & lacerations.
+
+B) Fetal:
+1) Prematurity.
+2) IUGR: Due to placental insufficiency.
+3) Fetal asphyxia: Due to placental separation.
+4) IUFD: If separation of > 50% of placental occurs.
+5) Fetal birth injuries.
+
+Diagnosis:
+A) History: The cardinal symptom is vaginal bleeding in 3rd trimester which is
+characterized by being:
+1) Painless (however, it may be associated with labor pains).
+74
+
+Antepartum hemorrhage (APH)
+
+2) Causeless (however, it may follow vaginal examination or sexual intercourse).
+3) Recurrent (however, patient may present during 1st attack of bleeding).
+
+B) Examination:
+1) General: Signs of hypovolemic shock (according to amount of blood loss).
+2) Abdominal:
+a) Uterine size = period of amenorrhea.
+b) Uterus is neither tender nor hard.
+c) Easily felt fetal parts.
+d) FHS is usually normal.
+e) Malpresentation & non engagement are common.
+f) Suprapubic fullness may be felt in placenta previa type II anterior (rare).
+3) Local:
+● Indication: It has no role in modern obstetrics however, it can be done only when
+active treatment is indicated.
+● Precautions: Done under double setup condition:
+a) Done in operating room under complete aseptic precautions & everything is ready
+for immediate CS if needed.
+b) Cross matched blood should be available for transfusion if needed.
+● Information gained:
+a) Amount of bleeding.
+b) Degree of cervical effacement & dilatation.
+c) Relation of placental edge to internal os.
+d) Condition of membranes.
+e) Presentation.
+f) Pelvic capacity.
+● Disadvantages:
+a) May initiate severe attack of bleeding.
+b) False diagnosis (mistaken for blood clots).
+4) Speculum examination: For exclusion of local gynecological causes of bleeding.
+
+C) Investigations:
+1) Ultrasound: Main tool in diagnosis of placenta previa.
+● Advantages: Safe, simple, rapid & accurate.
+● Types used:
+a) TAS.
+b) TVS (more accurate but risky).
+c) Transperineal ultrasound.
+● Values:
+a) Diagnosis of placenta previa & determination of its type.
+b) Determination of fetal age, viability, size, presentation & position.
+c) Exclusion of multifetal pregnancy & congenital anomalies.
+2) MRI: Safe but expensive.
+3) Other investigations: For maternal & fetal evaluation.
+75
+
+Antepartum hemorrhage (APH)
+
+D.D.: From other causes of APH.
+Treatment:
+● Plan of treatment: Depends on:
+a) Severity of bleeding.
+b) Patient is in labor or not.
+c) Type of placenta previa.
+d) Fetal age & maturity.
+1) Severe attack of bleeding: Resuscitation then immediate CS.
+2) Mild to moderate attack of bleeding:
+a) Patient is in labor:
+1- Type I & type II anterior: Vaginal delivery (if there is no indication for CS).
+a- If succeeded (bleeding stopped): Continue vaginal delivery.
+b- If failed (bleeding ↑↑): CS.
+2- Type II posterior, type III & type IV: CS.
+b) Patient isn't in labor:
+1- Mature fetus (≥ 37 weeks): CS (no induction of labor in placenta previa).
+2- Immature fetus (< 37 weeks): Expectant treatment.
+
+● Lines of treatment:
+1) 1st aid measures & resuscitation:
+a) Hospitalization.
+b) Establishment of IV lines: Insert 2 large wide pore cannulas & CVP catheter.
+c) Antishock measures:
+1- Cross matched fresh blood transfusion.
+2- IV fluids (crystalloid solutions as Ringer's lactate & saline).
+3- Corticosteroids.
+d) Insertion of urinary catheter & monitoring of urine output.
+e) Laboratory investigations: CBC, coagulation profile, arterial blood gases & serum
+creatinine.
+f) Close monitoring of vital data.
+g) Confirmation of diagnosis & detection of type of placenta previa: By
+ultrasound & double setup vaginal examination.
+h) Evaluation of fetal condition: Living or dead, age, maturity & wellbeing.
+i) Determine if patient is in labor or not.
+2) Expectant treatment:
+■ Aim: To delay TOP till fetus is mature enough (till end of 37th week).
+■ Prerequisites:
+a) Mild to moderate attack of bleeding + stopping of bleeding & patient is
+hemodynamically stable.
+b) Immature fetus & no fetal distress.
+c) Patient isn't in labor.
+d) No associated complications or maternal disease.
+■ Measures to be done:
+a) Hospitalization: In high risk pregnancy unit.
+76
+
+Antepartum hemorrhage (APH)
+
+b) Complete bed rest.
+c) No vaginal examination.
+d) Correction of anemia: Tonics & blood transfusion.
+e) Corticosteroids: To enhance fetal lung maturity.
+f) Maternal observation: For vaginal bleeding or labor pains.
+g) Fetal observation: Tests for fetal wellbeing.
+3) Termination of pregnancy:
+■ Indications:
+a) Severe bleeding.
+b) Patient is in labor.
+c) Mature fetus (patient 1st seen after 37 weeks).
+d) Patient under expectant treatment in the following c`,
+  "Hyperemesis Gravidarum": `Hyperemesis gravidarum
+
+HYPEREMESIS GRAVIDARUM
+Definitions:
+● Emesis gravidarum: Vomiting that occurs mostly during early morning, usually
+appears at 6 weeks & disappears after 14 weeks & doesn't affect the general condition of
+woman.
+
+● Hyperemesis gravidarum: Severe vomiting during first 14 weeks affecting the
+general condition of woman OR persistent vomiting after 14 weeks & before 20 weeks.
+Morning Sickness
+
+Hyperemesis Gravidarum
+
+Nausea sometimes accompanied by vomiting
+
+Nausea accompanied by severe vomiting
+
+Nausea that subsides at 12 weeks or soon after
+
+Nausea that does not subside
+
+Vomiting that does not cause severe dehydration
+
+Vomiting that causes severe dehydration - decrease in
+urine output
+
+Vomiting that allows you to keep some food
+
+Vomiting that does not allow you to keep any food down
+
+down
+
+causing electrolyte imbalance
+Weight loss of 5% or more of pre-pregnancy weight
+Headaches, confusion, fainting, jaundice
+
+Incidence: 1/500.
+Etiology: Exact cause is unknown & the following theories are suggested:
+A) Hormonal (HCG) theory: High HCG level stimulates CRTZ (this may explain high
+incidence in vesicular mole & multifetal pregnancy).
+
+B) Psychological & emotional factors: May play role through stimulation of CRTZ
+(this may be evidenced by improvement of condition after hospitalization & isolation
+from stressful home environment).
+
+C) Allergic theory: Allergic reaction to pregnancy hormones (HCG, estrogen &
+progesterone).
+
+D) Infection theory: Infection with Helicobacter Pylori bacteria (gastritis) may play role.
+E) Nutritional theory: Vitamins B1 & B6 deficiency.
+F) Thyroid gland activation in early pregnancy: May play role.
+
+Pathology:
+A) Biochemical changes:
+1) Electrolyte changes: ↓↓ Na+ & Clˉ & ↑↑ blood urea.
+2) Metabolic changes: Hypoglycemia & ketoacidosis (ketone bodies).
+3) Circulatory changes: Hypovolemia & hemoconcentration.
+4) Urinary changes: Oliguria, ketonuria, proteinuria & ↑↑ urinary urea.
+
+B) Multisystem affection: In severe cases.
+84
+
+Hyperemesis gravidarum
+
+1) Liver: Fatty degeneration.
+2) Kidney: Tubular & glomerular degeneration.
+3) Heart: Subendocardial Hge.
+4) CNS: Peripheral neuritis, Wernicke's encephalopathy & Korsakoff's syndrome.
+5) Eye: Optic neuritis, retinal Hge & visual field defects.
+
+Diagnosis:
+A) Clinical picture: Starts as morning sickness that become aggravated gradually.
+1) Manifestations of dehydration: Sunken eyes, dry wrinkled skin, dry tongue &
+oliguria.
+2) Manifestations of starvation: As emaciation & loss of weight.
+3) General manifestations:
+a) Vital
+
+signs:
+
+Tachycardia,
+
+hypotension
+
+&
+
+subnormal temperature.
+b) Jaundice: In severe cases.
+c) Oliguria: In late cases.
+4) Nervous manifestations:
+a) Peripheral
+
+neuritis:
+
+Pain
+
+&
+
+tingling
+
+sensation.
+b) Wernicke's encephalopathy: Nystagmus, optic neuritis & diplopia.
+c) Korsakoff's syndrome: Confusion & memory loss for recent events.
+
+B) Investigations:
+1) Laboratory:
+a) CBC.
+b) Liver & kidney function tests.
+c) Serum electrolytes & arterial blood gases.
+d) Urine analysis: For ketonuria, oliguria, proteinuria & culture & sensitivity testing.
+2) Ultrasound: To exclude vesicular mole & multifetal pregnancy.
+3) Fundus examination.
+
+D.D.: Causes of vomiting with pregnancy:
+1) Obstetric causes
+a) In early pregnancy:
+
+2) Non obstetric causes
+a) Gynecological:
+
+1- Emesis & hyperemesis gravidarum.
+
+1- Red degeneration in fibroid.
+
+2- Vesicular mole.
+
+2- Torsion of ovarian cyst.
+
+3- Multifetal pregnancy.
+4- Acute polyhydramnios.
+5- RVF gravid uterus.
+b) In late pregnancy:
+1- Placental abruption.
+2- Severe preeclampsia & imminent
+eclampsia.
+3- Labor pains.
+
+b) Gastrointestinal:
+
+Hiatus
+
+hernia,
+
+peptic
+
+ulcer, gastroenteritis, intestinal obstruction,
+appendicitis or cholecystitis.
+c) Hepatic: Viral hepatitis.
+d) Renal: Pyelonephritis.
+e) ↑↑ ICT: ICH or brain tumors.
+f) Infectious fevers.
+85
+
+Hyperemesis gravidarum
+
+Treatment:
+A) Mild cases:
+1) Reassurance.
+2) Isolation:
+
+Form
+
+stressful
+
+home
+
+environment
+
+(hospitalization may be needed).
+3) Diet: Small, frequent, semisolid, rich in CHO & poor in fat
+& proteins.
+4) Fluids:
+
+Ample
+
+amounts
+
+must
+
+be
+
+taken
+
+to
+
+avoid
+
+dehydration.
+5) Drugs:
+a) Antiemetics: Cortigen B6 & metoclopramide (primperan
+& plasil).
+b) Vitamin B1 & B6.
+c) Antihistaminics.
+d) Corticosteroids: In resistant cases.
+
+B) Severe cases:
+1) Hospitalization.
+2) Isolation: In single room & no visitors are allowed.
+3) Nothing by mouth (NPO): For 48 hours.
+4) IV fluids: Glucose 5% & normal saline 0.9%.
+5) Drugs: As above + sedatives.
+6) Observation:
+a) Maternal:
+1- Frequency, amount & characters of vomiting.
+2- Vital signs & urine analysis for acetone: Twice / day.
+3- Fluid chart & serum electrolytes: Daily.
+4- Liver & kidney function tests: Weekly.
+5- Fundus examination: Weekly.
+b) Fetal: By serial ultrasound.
+7) TOP: Rarely done nowadays & is indicated in the following conditions:
+a) Severe persistent vomiting unresponsive to all measures.
+b) Jaundice.
+
+c) High blood urea.
+
+e) Wernicke's encephalopathy.
+
+f) Retinal Hge.
+
+d) Oliguria or anuria.
+
+86
+
+`,
+  "Hypertensive Disorders with Pregnancy": `Hypertensive disorders with pregnancy
+
+HYPERTENSIVE DISORDERS WITH PREGNANCY
+Definition: HTN during pregnancy is defined as BP ≥ 140/90 mmHg measured on
+2 different occasions with at least 4-6 hours apart.
+
+Classifications:
+A) National High Blood Pressure Education Program classification: Recent.
+1) Chronic HTN: HTN that antedates pregnancy, is diagnosed before 20 weeks gestation
+or lasts for > 12 weeks postpartum.
+2) Gestational HTN: HTN without proteinuria that is 1st diagnosed after 20 weeks
+gestation with return of BP to normal within 12 weeks postpartum.
+3) Preeclampsia: HTN with pathological proteinuria after 20 weeks gestation.
+4) Eclampsia: Occurrence of tonic-colonic convulsive seizures that can't be attributed to
+other causes in woman with preeclampsia.
+5) Superimposed preeclampsia on chronic HTN: New development of pathological
+proteinuria after 20 weeks gestation in woman with chronic HTN.
+
+B) ACOG classification: Old.
+1) Chronic HTN.
+2) Pregnancy induced HTN (PIH):
+a) HTN without proteinuria (gestational HTN).
+b) Preeclampsia.
+c) Eclampsia.
+3) Pregnancy aggravated HTN:
+a) Superimposed preeclampsia.
+b) Superimposed eclampsia.
+
+Preeclampsia
+Definitions:
+● Recent definition: Development of HTN with pathological proteinuria after 20 weeks
+gestation (may occur earlier in cases of vesicular mole & multifetal pregnancy).
+
+● Old definition: Development of HTN with proteinuria &/or edema after 20 weeks
+gestation.
+
+Old synonyms: Preeclamptic toxemia (PET) or Toxemia of pregnancy (these old names
+had originated from old belief that these cases were caused by placental toxin).
+
+Incidence:
+● Disease of human only affecting 5-15 % of all pregnancies.
+● Commonest hypertensive disorder in pregnancy.
+87
+
+Hypertensive disorders with pregnancy
+
+Risk factors:
+A) Maternal specific:
+1) Age: < 20 or > 35 years.
+2) Gravidity & parity: More in primigravidas specially elderly primigravidas.
+3) Race: More in black races.
+4) Low SES.
+5) Medical disorders: Chronic HTN, chronic nephritis or DM.
+6) Obesity.
+7) Past or family history of hypertensive disorder with pregnancy.
+
+B) Pregnancy specific:
+1) Vesicular mole.
+2) Multifetal pregnancy.
+3) Polyhydramnios.
+4) Seasonal variation: More common in winter.
+
+Etiology: Preeclampsia is a disease of theories & any theory concerning etiology &
+pathophysiology of the disease must explain high incidence in women who are:
+1) Exposed to trophoblasts for 1st time (primigravidas).
+2) Exposed to superabundance of trophoblasts (vesicular mole or multifetal pregnancy).
+3) with known vascular disease or with genetic predisposition to HTN.
+
+A) ↑↑ pressor response:
+● In normal pregnancy:
+
+There
+
+is
+
+↓↓
+
+response
+
+to
+
+pressor
+
+agents
+
+(specially
+
+to
+
+angiotensin-II) than in non pregnant states.
+● In preeclampsia: There is ↑↑ response to pressor agents that may be explained by:
+1) ↑↑ amount of pressor agents or ↑↑ angiotensin-II binding sites.
+2) ↓↓ production of VD agents.
+3) ↑↑ intracellular free Ca++.
+
+B) Abnormal placentation: Presence of trophoblasts is necessary & sufficient to
+causes the disease (preeclampsia is a placental disease).
+● In normal pregnancy:
+■ During first 12 weeks, cytotrophoblasts invade intradecidual portion of spiral arterioles
+→ destroy intima & media → media is replaced by fibrinoid material → vessels become
+dilated & insensitive to pressor stimuli.
+■ 2nd wave of trophoblastic invasion occurs at 12-16 weeks which extend into
+myometrial portion of spiral arterioles (in inner 1/3 of myometrium).
+● In preeclampsia: There is inadequate trophoblastic invasion → vessels are responsive
+to pressor stimuli.
+
+C) Genetic predisposition: Risk of preeclampsia ↑↑ in women when their mothers or
+grandmothers had PIH.
+
+D) Immunological factor: May be evidenced by high incidence in women who are:
+1) Exposed to trophoblasts for 1st time (primigravidas).
+2) Exposed to superabundance of trophoblasts (vesicular mole or multifetal pregnancy).
+3) Exposed to new paternal Ag (multipara with 1st pregnancy from new husband).
+88
+
+Hypertensive disorders with pregnancy
+
+E) Inflammatory factors: In preeclampsia, there is activation of leukocytes → release
+of cytokines → contribute to oxidative stresses resulting in:
+1) ↑↑ O2 free radicals (causes endothelial cell damage).
+2) Activation of microvascular coagulation (causes thrombocytopenia).
+3) ↑↑ capillary permeability (causes edema & proteinuria).
+
+F) Others:
+1) Prostaglandins (PGs):
+● Prostacycline (PGI2) is VD while thromboxane A2 (TxA2) is VC.
+● In preeclampsia, there is ↓↓ PGI2/TxA2 ratio leading to VC & tendency to thrombosis.
+2) Nitric oxide: Endothelial product with VD action & its deficiency ↑↑ BP & ↓↓ HR &
+reverses pregnancy induced refractoriness to pressor agents.
+3) Endothelins-1: Potent VC that was found to ↑↑ in preeclampsia.
+4) Vascular endothelial growth factor (VEGF): ↑↑ in preeclampsia.
+5) Free radical theory: Levels of free radicals are higher in preeclampsia than in
+normotensive pregnancy leading to endothelial damage.
+6) Vitamin E / lipid peroxides imbalance.
+7) Prorenin: Its production ↑↑ in preeclampsia.
+8) Endothelial cell activation: This leads to:
+a) ↑↑ production of VC.
+
+d) ↑↑ production of procoagulants.
+
+b) ↓↓ production of VD.
+
+e) ↓↓ production of anticoagulants.
+
+c) Altered PGI2/TxA2 ratio.
+
+f) DIC.
+
+89
+
+Hypertensive disorders with pregnancy
+
+Pathophysiology:
+
+Pathology:
+A) Cardiovascular changes:
+1) Generalized arteriolar vasospasm: ↑↑ peripheral resistance & endothelial cell
+dysfunction & damage.
+2) ↑↑ pressor response: .
+3) Hemodynamic changes:
+a) Cardiac preload: Normal or low in severe cases (due to VC & hypovolemia).
+b) Cardiac afterload: ↑↑ (due to HTN).
+c) COP: ↓↓ (due to ↑↑ peripheral resistance).
+4) Blood volume: Hemoconcentration & ↑↑ Hct value (due to ↑↑ capillary permeability →
+excessive shift of intravascular fluid to extravascular compartment).
+5) Blood cells:
+a) RBCs: Become bizarre shaped (easily hemolysed) in severe cases.
+b) WBCs: ↑↑ eosinophils (denoting immunological nature).
+c) Platelets: Thrombocytopenia.
+6) Activation of coagulation system: In severe cases.
+7) Salt & water retention: Due to ↑↑ DOC & ↑↑ sensitivity to ADH.
+
+B) Endocrinological changes:
+1) Rennin-angiotensin system: In uteroplacental hypoperfusion, there is ↑↑ rennin →
+↑↑ angiotensin-II → compensatory ↑↑ in PGI2 production → uteroplacental VD.
+90
+
+Hypertensive disorders with pregnancy
+
+2) Deoxycorticosterone (DOC): ↑↑ → Na+ retention.
+3) ADH: ↑↑ sensitivity to ADH → edema & oliguria.
+4) Placental hormones: ↑↑ HCG, estrogen & progesterone.
+
+C) Uteroplacental pathology:
+1) Absent 2nd wave of trophoblastic invasion.
+2) ↓↓ placental perfusion.
+3) Red infarcts & placental abruption.
+
+D) Renal pathology:
+1) ↓↓ RBF & GFR.
+2) Proteinuria: Due to damage of tubular epithelium.
+3) Glomerular capillary endotheliosis:
+
+Glomerular
+
+cell
+
+swelling,
+
+mesangeal
+
+cell
+
+proliferation & fibrin like deposits intraendothelially & subendothelially.
+4) Acute tubular necrosis (reversible) or acute cortical necrosis (irreversible).
+
+E) Liver pathology: In severe cases.
+1) Periportal vasospasm, focal Hge & hematoma (subcapsular or in hepatic substance).
+2) Acute fatty degeneration.
+
+F) CNS pathology: In severe cases.
+1) Cerebral edema & hyperemia.
+2) Thrombosis or Hge.
+
+G) Retinal pathology:
+1) Retinal arterial vasospasm.
+2) Retinal exudate, Hge or detachment.
+
+H) Hge in any organ: As adrenal glands, stomach & intestine.
+
+Complications:
+A) Maternal:
+1) Eclampsia
+2) HELLP syndrome:
+● Definition:
+
+Fatal
+
+condition
+
+characterized by:
+a) Hemolysis:
+
+Bilirubin
+
+≥
+
+1.2 mg/dl.
+b) Elevated
+
+Liver
+
+enzymes:
+
+SGOT > 70 IU/L.
+c) Low Platelet count: < 100 000/mm3.
+● D.D.:
+a) Acute fatty liver in pregnancy.
+b) Thrombotic thrombocytopenic purpura.
+c) Hemolytic uremic syndrome.
+d) Hepatitis (viral or drug induced).
+● Maternal mortality: 80-90%.
+● Recurrence rate: 5%.
+91
+
+Hypertensive disorders with pregnancy
+
+3) Placental abruption.
+4) DIC.
+5) ICH: Due to severe HTN.
+6) Blindness: Due to retinal detachment & it is reversible.
+7) HF & acute pulmonary edema: Treated by immediate IV furosemide (lasix).
+8) Ruptured subcapsular hepatic hematoma.
+9) Acute renal failure: Acute tubular necrosis or acute cortical necrosis.
+10) PPH: In preeclampsia & eclampsia, PPH is diagnosed if there is blood loss > 200 ml
+(normally, > 500 ml) because there are hypovolemia & hemoconcentration.
+11) Maternal mortality:
+● Incidence: 2% in severe preeclampsia & 10% in eclampsia.
+● Etiology: Due to complications (commonest cause is ICH).
+12) Remote complications:
+a) Residual HTN: 25%.
+b) Residual proteinuria.
+c) Recurrence:
+● Primigravida with mild preeclampsia: No recurrence.
+● Primigravida
+
+with
+
+severe preeclampsia:
+15-50%.
+● Multipara with severe
+preeclampsia
+
+or
+
+eclampsia: 70%.
+
+B) Fetal:
+1) Prematurity:
+
+Due
+
+to
+
+preterm
+
+labor
+
+or
+
+premature
+
+TOP
+
+in
+
+severe cases.
+2) IUGR: Due to placental insufficiency.
+3) Fetal asphyxia or IUFD: Due to marked impairment of placental circulation or
+placental separation.
+4) Perin`,
+  "Diabetes Mellitus with Pregnancy": `Diabetes mellitus with pregnancy
+
+DIABETES MELLITUS WITH PREGNANCY
+Definitions:
+● Diabetes mellitus (DM): Chronic metabolic disorder in CHO metabolism with impact
+on fat & protein metabolism due to insulin dysfunction (deficiency or resistance).
+
+● Gestational DM (GDM): DM firstly discovered during current pregnancy.
+● DM in pregnancy: Gestational DM + pregnancy in patients known to be diabetic.
+
+Incidence: 2-5% of all pregnancies (80-90% are GDM).
+Stages of DM:
+A) Potential DM: Normal glucose tolerance but there is high risk to develop DM.
+B) Latent DM: Abnormal GTT under stress only.
+C) Subclinical (chemical) DM: Abnormal GTT without manifestations of DM.
+D) Clinical (overt) DM: Symptomatic or complicated DM.
+
+National Diabetes Data Grouping (NDDG) of WHO classification of DM:
+A) Type I:
+
+Insulin
+
+dependant
+
+DM
+
+(IDDM).
+
+B) Type II: Non insulin dependant DM
+(NIDDM).
+
+C) Type III: Gestational DM (GDM).
+D) Type IV: 2ry DM (due to genetic
+disorders, endocrinopathies, drugs or
+infection).
+
+Modified White's classification
+of DM in pregnancy:
+Class
+
+Age of onset
+
+Duration
+
+Complications
+
+Treatment
+
+A1
+
+Gestational
+
+-----
+
+-----
+
+Diet
+
+A2
+
+Gestational
+
+-----
+
+-----
+
+Insulin
+
+B
+
+> 20 years
+
+< 10 years
+
+None
+
+Insulin
+
+C
+
+10-19 years
+
+10-19 years
+
+None
+
+Insulin
+
+D
+
+< 10 years
+
+> 20 years
+
+Benign retinopathy
+
+Insulin
+
+F
+
+Any
+
+Any
+
+Nephropathy
+
+Insulin
+
+H
+
+Any
+
+Any
+
+Heart disease
+
+Insulin
+
+R
+
+Any
+
+Any
+
+Proliferative retinopathy
+
+Insulin
+
+T
+
+Any
+
+Any
+
+After renal transplantation
+
+Insulin
+
+102
+
+Diabetes mellitus with pregnancy
+
+N.B.:
+● A1: FBS < 105 mg/dl & PPS < 120 mg/dl.
+● A2: FBS > 105 mg/dl & PPS > 120 mg/dl.
+
+Risk factors for GDM:
+A) Past history of GDM.
+B) Family history of DM in 1st degree relatives.
+C) Advanced maternal age: > 35 years.
+D) Multiparity.
+E) Bad obstetric history:
+1) Previous polyhydramnios, macrosomia, unexplained IUFD or congenital anomalies.
+2) Previous traumatic or operative delivery.
+3) Previous neonatal metabolic changes (hypoglycemia, hypocalcemia or jaundice).
+
+F) Maternal obesity.
+
+Effects of pregnancy on DM:
+A) Pregnancy is diabetogenic: DM is aggravated during pregnancy & clinical diabetes
+may appear for 1st time during pregnancy (GDM) due to:
+1) Anti-insulin effect of pregnancy hormones (as HPL, estrogen & progesterone).
+2) ↑↑ peripheral insulin resistance.
+3) Secretion of insulinase enzyme by placenta.
+
+B) Change in insulin requirements according to GA: Difficult diabetic control.
+1) In 1st trimester: ↓↓ dose for fear of maternal hypoglycemia.
+2) After that: ↑↑ dose due to diabetogenic effect of pregnancy hormones.
+3) During labor: ↓↓ dose to avoid hypoglycemia (due to muscular effort).
+4) During puerperium: ↓↓ dose due to withdrawal of pregnancy hormones.
+
+C) ↑↑ incidence of development of diabetic complications:
+1) Hypoglycemia: Blood glucose level < 60 mg/dl.
+2) Diabetic ketoacidosis (DKA).
+3) Starvation ketosis.
+4) Diabetic comas: Hyperglycemic or hypoglycemic.
+
+D) Aggravation of retinopathy & nephropathy.
+
+Effects of DM on pregnancy (complications of DM):
+A) Maternal:
+1) During pregnancy:
+a) Abortion: Due to Ag-Ab reaction associating DM or chromosomal abnormalities.
+b) Preterm labor: 3-4 times higher in diabetics (MgSO4 is the tocolytic of choice).
+c) Polyhydramnios: Pathogenesis isn't clear but may be due to:
+1- ↑↑ osmotic pressure in AF (due to high glucose content).
+2- ↑↑ fetal urination (due to fetal hyperglycemia).
+103
+
+Diabetes mellitus with pregnancy
+
+3- Fetal congenital anomalies (specially open NTDs).
+4- ↑↑ placental size.
+d) Hypertensive disorders: Due to vasculopathy or nephropathy.
+e) Infection: UTI, vulvovaginitis (specially monilia) or chorioamnionitis (after ROM).
+2) During labor:
+a) Obstructed
+
+labor
+
+&
+
+dystocia:
+
+Due
+
+to
+
+macrosomia & congenital anomalies.
+b) ↑↑ incidence of instrumental deliveries &
+CS.
+3) During puerperium:
+a) PPH & puerperal sepsis.
+b)
+
+Abnormal lactation: Due to changes in
+glucose level.
+
+4) Late complication: 50% of cases with GDM
+will develop overt DM later on.
+
+B) Fetal:
+1) Congenital anomalies: 5-10 times > normal.
+a) CNS: Anencephaly & spina bifida.
+b) CVS: Specially VSD (commonest).
+c) GIT: Tracheoesophageal fistula or imperforate
+anus.
+d) Renal: Renal agenesis or polycystic kidney.
+e) Sacral agenesis
+
+(caudal
+
+regression
+
+or
+
+caudal dysplasia): Most specific fetal anomaly
+for DM (mothers of all reported cases were
+diabetic).
+2) Macrosomia: 10 times > normal.
+● Etiology: Maternal hyperglycemia → fetal hyperglycemia → stimulation of fetal
+pancreas to secrete insulin (maternal insulin doesn't cross placenta) → fetal
+hyperinsulinemia → transformation of glucose into lipids → deposition of fat in all fetal
+tissues except brain → macrosomia.
+● Prevention: Strict diabetic control before 2nd
+trimester.
+3) IUGR: Due to chronic placental insufficiency
+(due to vasculopathy).
+4) IUFD: Causes may be:
+a) Preeclampsia.
+b) Congenital anomalies.
+c) Severe maternal hypoglycemia.
+d) Unexplained IUFD: Exact cause for these cases is unknown but there are theories:
+1- ↑↑ incidence of fetal hypoxia: Due to:
+a- Chronic placental insufficiency.
+104
+
+Diabetes mellitus with pregnancy
+
+b- ↑↑ levels of HbA1c (has higher affinity to O2).
+c- ↑↑ O2 consumption by fetal cells.
+d- Maternal ketoacidosis (has dangerous effects on O2 dissociation curve).
+2- Maternal or fetal hormonal imbalance.
+
+C) Neonatal:
+1) Respiratory distress syndrome (RDS): Due to delayed lung maturity (because
+hyperinsulinemia inhibits secretion of pulmonary surfactant).
+2) Hypoglycemia: Blood glucose level < 40 mg/dl (due to hyperinsulinemia).
+3) Hypocalcemia & hypomagnesemia.
+4) Hyperbilirubinemia: Due to delay in liver maturation.
+5) Polycythemia: Hct value > 65% (due to chronic intrauterine hypoxia → ↑↑
+erythropoietin production).
+6) Hypertrophic cardiomyopathy.
+7) Poor feeding: Due to prematurity, RDS or congenital anomalies.
+8) Birth trauma.
+9) Late complication: ↑↑ risk of development of type I DM later in life (1-3% if mother
+only is diseased & 6% if father is diseased also).
+N.B.: Criteria of infant of diabetic mother:
+● Size: Long, large, fatty, > 4 kg, with broad shoulders.
+● Color:
+
+Cyanosed
+
+(RDS),
+
+plethoric
+
+(polycythemia),
+
+yellow
+
+(jaundice).
+● Congenital anomalies.
+● Hypoglycemia.
+
+Diagnosis:
+A) History:
+1) Risk factors for GDM: .
+2) Symptoms of DM: Polyuria, polydepsia, polyphagia & pruritus.
+3) Symptoms of complications: Maternal or fetal.
+
+B) Examination: Signs of complications (maternal or fetal).
+C) Investigations:
+1) Test for glucosuria: Done in each ANC visit & if +ve → blood investigations.
+2) Oral glucose tolerance tests (OGTTs):
+a) 50 gm 1-hour OGTT: The best screening test.
+● Method: Measuring plasma glucose level 1 hour after ingestion of 50 gm glucose.
+● Results: Values ≥ 140 mg/dl are abnormal & 100 gm 3-hours OGTT is indicated.
+b) 100 gm 3-hours OGTT: The gold standard for diagnosis of GDM.
+● Method: Measuring FBS (after 8 hours fasting) & plasma glucose level 1 & 2 & 3
+hours after ingestion of 100 gm glucose.
+● Results: GDM is diagnosed if ≥ 2 values are > the following values:
+105
+
+Diabetes mellitus with pregnancy
+
+Time
+
+Plasma glucose level
+
+Fasting
+
+105 mg/dl
+
+After 1 hour
+
+190 mg/dl
+
+After 2 hours
+
+165 mg/dl
+
+After 3 hours
+
+145 mg/dl
+
+3) Glycosylated HbA1 (HbA1c):
+● Normal level: < 8-10%.
+● Values: Reflects glycemic control for the past 4-8 weeks & it can determine the risk of
+congenital
+anomalies
+
+(with
+
+high levels).
+4) Investigations
+to
+
+detect
+
+complications:
+Maternal & fetal.
+
+Management:
+A) Preconceptional
+care:
+1) History
+
+&
+
+examination
+
+(to
+
+evaluate patient's
+condition
+
+&
+
+fitness
+
+her
+for
+
+pregnancy).
+2) Diabetic control before pregnancy: Prevents abortion & congenital anomalies.
+3) Folic acid supplementation before pregnancy.
+4) Health education programs.
+
+B) Management during pregnancy:
+1) Adequate ANC:
+● Frequency
+
+of
+
+visits:
+
+As
+
+any
+
+high
+
+risk
+
+pregnancy (every 2 weeks till 28 weeks then
+every week till 36 weeks) with hospitalization in
+the following conditions:
+a) For adjusting insulin dose.
+b) At 36 weeks in uncomplicated cases.
+c) At 32 weeks in patients with vasculopathy:
+Due
+
+to
+
+high
+
+incidence
+
+of
+
+hypertensive
+
+disorders & IUGR.
+d) At any time when complications occur.
+106
+
+Diabetes mellitus with pregnancy
+
+● Supervision: By team work of obstetrician & internist.
+2) Glycemic control (control of DM):
+a) Dietary recommendation:
+● Total caloric intake: 30 calories/kg/day (for patients with ideal body weight) &
+24 calories/kg/day (for obese patients).
+● Components of diet: 35-55% CHO, 25% proteins & 20% fat.
+● Number of meals/day:
+■ In type I DM: 6 meals/day (3 meals + 3 snacks in between meals).
+■ In type II DM & GDM: 4 meals/day (3 meals + bed time snack).
+b) Insulin therapy: The standard treatment for DM with pregnancy.
+● Goals: Keeping FBS < 105 mg/dl & 2 hours PPS < 120 mg/dl.
+● Insulin preparations: Ultrashort, short, intermediate & long acting.
+● Route of administration: SC.
+● Calculation of total dose/day:
+1- In 1st half of pregnancy: Body weight  `,
+  "Heart Diseases with Pregnancy": `Heart diseases with pregnancy
+
+HEART DISEASES WITH PREGNANCY
+Cardiovascular changes during pregnancy: .
+Incidence: 1-3% of all pregnancies.
+Types:
+A) Rheumatic heart diseases (RHD): 90% of cases.
+B) Congenital heart diseases: 7% of cases.
+C) Others: Hypertensive heart diseases or IHD (rare in childbearing period).
+
+Classification of heart diseases in pregnancy:
+A) New York Heart Association (NYHA) classification: Clinical classification.
+Class
+
+Description
+
+Class I
+
+Asymptomatic (uncompromised).
+
+Class II
+
+Symptomatic with heavy exertion (slightly compromised).
+
+Class III
+
+Symptomatic with light exertion (markedly compromised).
+
+Class IV
+
+Symptomatic at rest (severely compromised).
+
+B) ACOG classification: According to risk of maternal mortality.
+Group
+
+Cardiac disorder
+
+Mortality
+
+● MS (NYHA class I & II).
+● Pulmonary or tricusped valve diseases.
+
+Group I
+
+● ASD, VSD or PDA.
+
+(Minimal risk)
+
+0-1%
+
+● Fallot's tetralogy (corrected).
+● Natural valve replacement.
+● MS (NYHA class III & IV).
+● AS.
+● Fallot's tetralogy (uncorrected).
+
+Group II
+
+IIA
+
+● Aortic coarctation (without valvular
+involvement).
+● Marfan's syndrome (without aortic
+
+(Moderate risk)
+
+5-15%
+
+involvement).
+● Previous myocardial infarction.
+IIB
+Group III
+(Major risk)
+
+● MS (with AF).
+● Prosthetic valve replacement.
+● Pulmonary HTN.
+● Aortic coarctation (with valvular involvement).
+
+25-50%
+
+● Marfan's syndrome (with aortic involvement).
+
+Effects of pregnancy on heart diseases:
+A) Heart failure (HF): More liable to occur in the following times:
+110
+
+Heart diseases with pregnancy
+
+1) At 28-32 weeks: Maximum ↑↑ in blood volume.
+2) At 36 weeks: Due to elevation of diaphragm & lungs & heart compression.
+3) During 1st stage of labor: Due to uterine contractions → ejection of blood from
+uteroplacental circulation → ↑↑ VR.
+4) During 2nd stage of labor: Due to straining → ↑↑ VR.
+5) During 3rd stage of labor & immediately postpartum: Due to sudden passage of
+large amount of blood from retracted uterus into general circulation & ↓↓ compression
+on IVC → ↑↑ VR.
+6) During puerperium: Due to infective endocarditis.
+
+B) Acute pulmonary edema: Due to acute LSHF.
+C) Activation of rheumatic fever.
+D) Infective endocarditis: More with puerperal sepsis.
+E) Atrial fibrillation (AF).
+F) Thromboembolic complications.
+G) Aggravation of heart disease.
+
+Effects of heart diseases on pregnancy:
+A) Maternal:
+1) Abortion.
+2) Preterm labor: β-agonists are contraindicated as tocolytics in cardiac patients.
+3) Polyhydramnios: Due to systemic venous congestion.
+4) PPH & puerperal sepsis.
+
+B) Fetal & neonatal:
+1) Congenital cardiac anomalies: 6 times > normal.
+2) IUGR: Due to chronic placental insufficiency.
+3) IUFD: Due to hypoxia.
+4) Early neonatal death.
+
+Diagnosis:
+A) Clinical picture:
+1) History: Past or family history of rheumatic fever, past history of cardiac troubles or
+past history of cardiac surgery (valvotomy or valve replacement).
+2) Clinical indicators of heart disease during pregnancy:
+a) Symptoms
+
+b) Signs
+
+1- Severe or progressive dyspnea.
+
+1- Cyanosis.
+
+2- Progressive orthopnea.
+
+2- Clubbing of fingers.
+
+3- Paroxysmal nocturnal dyspnea.
+
+3- Congested neck veins.
+
+4- Nocturnal cough.
+
+4- Persistent arrhythmia.
+
+5- Chest pain related to effort or emotion.
+
+5- Persistent splitted S2.
+
+6- Syncope with exertion.
+
+6- Systolic murmur ≥ grade 3/6.
+
+7- Hemoptysis.
+
+7- Diastolic murmur.
+8- Cardiomegaly.
+9- Signs of pulmonary HTN.
+111
+
+Heart diseases with pregnancy
+
+B) Investigations:
+1) ECG.
+2) Echocardiography: Most reliable investigation in pregnancy.
+3) Chest X-ray: For evaluation of size of heart.
+4) Cardiac catheterization: Not indicated during pregnancy.
+
+Management:
+A) Preconceptional care:
+1) History & examination (to evaluate patient's condition & her fitness for pregnancy).
+2) Life threatening cardiac abnormalities can be reversed by corrective cardiac surgery
+that makes subsequent pregnancy less dangerous.
+3) Health education programs.
+4) Pregnancy is contraindicated in some conditions (= indications of induction of
+therapeutic abortion in cardiac patients).
+
+B) Management during pregnancy:
+1) Adequate ANC:
+● Frequency of visits: Depends on class of heart disease.
+a) In classes I & II: As any high risk pregnancy (every 2 weeks till 28 weeks then
+every week till 36 weeks) with hospitalization in the following conditions:
+1- between 28-32 weeks.
+2- At 36 weeks.
+3- At any time when complications occur.
+b) In classes III & IV: Pregnancy is contraindicated & induction of therapeutic abortion
+is indicated if GA is < 12 weeks however, if patient refused TOP or if GA is > 12
+weeks → continue pregnancy with hospitalization of patient for the rest of
+pregnancy.
+● Supervision: By team work of obstetrician, cardiologist & other specialists as needed.
+2) Medical care:
+a) Antibiotics: Long acting penicillin every 2 weeks.
+b) Prevention of HF:
+1- Rest: Physical rest (bed rest in semisetting position is the most important
+measure) & mental rest (avoid anxiety & stress).
+2- Diet: Dietary salt restriction.
+3- Habits: Prohibition of smoking.
+4- Prevention of any precipitating factor: Infection, anemia or arrhythmia.
+5- Early detection & treatment of PIH.
+6- Drugs: Prophylactic diuretics & digitalis if needed.
+c) Prevention of acute pulmonary edema:
+1- Prevention of HF.
+2- Avoid administration of β-agonists (specially with corticosteroids).
+3) Observation:
+a) Maternal: Observation for development of any complication.
+112
+
+Heart diseases with pregnancy
+
+b) Fetal:
+1- Confirmation of fetal viability (by ultrasound).
+2- Diagnosis of congenital anomalies:
+a- Ultrasound.
+b- Fetal echo (to detect cardiac anomalies) at 19-22 weeks.
+3- Fetal wellbeing tests.
+4- Determination of fetal maturity.
+5- Observation for development of any fetal complication.
+4) Corrective cardiac surgery:
+● Indication: Although it is better to be done after pregnancy, it is indicated in
+chronically ill patients not responding to medical treatment.
+● Time: When indicated, it is better to be done during 2nd trimester (general rule of
+surgery during pregnancy).
+● Types of operations:
+a) Closed cardiac surgery (valvotomy): Safer during pregnancy.
+b) Opened cardiac surgery (valve replacement): Not preferred during pregnancy.
+5) TOP (induction of therapeutic abortion):
+● Indications:
+a) Class III & IV with no improvement after proper treatment.
+b) History of HF in previous pregnancy (occurrence in this pregnancy is inevitable).
+c) Tight MS.
+d) Symptomatic AS despite absolute bed rest.
+e) 1ry pulmonary HTN.
+f) Eisenmenger's syndrome (2ry pulmonary HTN with Rt to Lt shunt).
+g) Aortic coarctation with valvular involvement.
+h) Marfan's syndrome with aortic involvement.
+i) Constrictive or dilated cardiomyopathy.
+j) IHD with severe cardiac disability.
+● Time: Done before 12 weeks (after 12 weeks, risk of TOP is > risk of continuation).
+● Method: Suction evacuation under heavy sedation & prophylactic antibiotics.
+6) Treatment of complications:
+a) Treatment of HF:
+1- Identification & correction of any precipitating factor: Treatment of infection,
+correction of anemia (by packed RBCs) & treatment of arrhythmia.
+2- Rest: In semisetting position or leg hanging down position in severe cases.
+3- Diet: Good balanced diet with salt restriction.
+4- Fluid balance.
+5- Drugs: Sedatives, diuretics (as furosemide), vasodilators & +ve inotropic drugs
+(digitalis, dopamine & aminophylline).
+b) Treatment of acute pulmonary edema.
+1- Correction of any precipitating factor: Discontinuation of β-agonists.
+2- O2 inhalation & suction of secretions.
+3- Anti-failure measures.
+113
+
+Heart diseases with pregnancy
+
+c) Treatment of infective endocarditis: Antibiotics.
+d) Treatment of arrhythmias: Antiarrhythmic drugs.
+
+C) Management of delivery:
+● Time of delivery: Usually pregnancy is allowed to continue till term & elective preterm
+delivery is rarely indicated in cardiac cases.
+● Methods of delivery:
+1) Vaginal delivery:
+■ Indications: The rule unless CS is indicated.
+■ Success: Vaginal delivery is usually easy due to:
+a) Small sized fetus (IUGR).
+b) Soft birth canal (due to congestion & edema).
+■ Team work:
+
+Obstetrician
+
++
+
+anesthesiologist
+
++
+
+cardiologist
+
+(if
+
+needed)
+
++
+
+neonatologist.
+■ Precautions:
+a) During 1st stage:
+1- Position: Semisetting position with Lt lateral tilt.
+2- O2 supply: By mask.
+3- Antibiotics: To guard against infective endocarditis.
+4- Analgesia: Morphine or epidural anesthesia (the preferred).
+5- Fluid balance chart.
+6- Avoid EROM: To avoid infection.
+7- Avoid bearing down: Straining ↑↑ VR.
+8- Maternal observation for signs of HF.
+9- Partogram & continuous fetal monitoring.
+b) During 2nd stage:
+1- Avoid bearing down.
+2- Shortening of 2nd stage by ventouse (better) or low forceps.
+c) During 3rd stage:
+1- Guard against PPH: By uterine massage + oxytocin (the ecbolic of choice but
+should be used with cautions) + PGs (if needed) & avoid ergometrine (causes
+VC & ↑↑ BP).
+2- Immediate postpartum diuretics: To avoid HF & pulmonary edema.
+3- Immediate postp`,,
+  "Fetal hydrops": `FETAL HYDROPS (HYDROPS FETALIS)
+Definition: Presence of excess fluid in ≥ 2 body areas (as thorax, abdomen & skin).
+Classification:
+A) Immune fetal hydrops: When there is circulating Abs against fetal RBCs Ag in maternal serum (in cases of Rh isoimmunization).
+B) Non immune fetal hydrops: When there is no circulating Abs against fetal RBCs Ag in maternal serum.
+Non immune fetal hydrops (NIFH):
+Definition: Presence of excess fluid in ≥ 2 body areas with absence of circulating Abs against fetal RBCs Ag in maternal serum.
+Causes: A) Cardiac causes (25%): Structural defects, arrhythmias. B) Chromosomal causes (13%): Trisomy 21, 18, Turner syndrome. C) Hematological causes (10%): Alpha-thalassemia (Hb Barts disease). D) Infectious causes: CMV, toxoplasma, parvovirus B19 (most important viral cause → aplastic anemia). E) Placental causes. F) Idiopathic (25%).
+Rh isoimmunization:
+Pathophysiology: Rh -ve mother → sensitization by Rh +ve fetal RBCs → IgG anti-D formation → crosses placenta → hemolysis of fetal RBCs → anemia → heart failure → hydrops.
+Sensitizing events: Delivery, abortion, amniocentesis, CVS, trauma, ectopic pregnancy.
+Prevention: Anti-D immunoglobulin (300 mcg) within 72 hours of sensitizing event. Also given at 28 weeks prophylactically.
+Diagnosis: Kleihauer-Betke test (quantifies fetomaternal hemorrhage). Maternal anti-D titer. MCA Doppler (peak systolic velocity > 1.5 MoM indicates fetal anemia). Amniocentesis (OD450 measurement - Liley chart).
+Treatment: If mild: Conservative. If severe: Intrauterine transfusion (IUT) of Rh -ve blood into fetal umbilical vein or peritoneal cavity. Timing of delivery based on severity.`,
+  "Teratology & congenital fetal anomalies": `TERATOLOGY & CONGENITAL FETAL ANOMALIES
+Teratology:
+Definition: Study of abnormal fetal development.
+Factors affecting teratogenicity:
+A) Genetic predisposition: Both maternal & embryonic.
+B) Route & duration of exposure to teratogen.
+C) Developmental stage at time of exposure: 1) Resistant period (day 0-11 of pregnancy): All or none effect. 2) Maximum susceptibility (3-8 weeks): Organogenesis period - most teratogenic. 3) Fetogenic period (after 8 weeks): Growth & functional abnormalities, less structural.
+D) Dose of teratogen.
+Teratogens:
+A) Drugs: 1) Thalidomide: Phocomelia (limb reduction defects). 2) Warfarin: Nasal hypoplasia, stippled epiphyses (warfarin embryopathy), CNS defects (in 2nd trimester). 3) ACE inhibitors: Renal agenesis, IUGR, oligohydramnios. 4) Isotretinoin (Vit A): Craniofacial, cardiac, CNS defects - most teratogenic known drug. 5) Valproate: NTDs (spina bifida), cardiac defects. 6) Carbamazepine: NTDs. 7) Phenytoin: Fetal hydantoin syndrome (cleft palate, cardiac, IUGR, hypoplastic nails). 8) Lithium: Ebstein's anomaly (cardiac). 9) DES (diethylstilbestrol): Vaginal adenocarcinoma in daughters. 10) Tetracycline: Teeth & bone abnormalities (after 20 weeks). 11) Aminoglycosides: Ototoxicity. 12) Methotrexate: Multiple malformations. 13) Misoprostol: Möbius syndrome.
+B) Infections (TORCH): Toxoplasma, Other (syphilis, VZV, parvovirus), Rubella, CMV, Herpes. Rubella: Cataracts, cardiac (PDA), deafness (classic triad). CMV: Most common congenital infection. Periventricular calcifications, microcephaly, sensorineural deafness. Toxoplasma: Intracranial calcifications (basal ganglia), hydrocephalus, chorioretinitis. Herpes: Skin lesions, CNS damage. Syphilis: Saddle nose, Hutchinson's teeth.
+C) Physical agents: X-rays (>10 rads teratogenic). Hyperthermia.
+D) Chemicals: Alcohol - Fetal alcohol syndrome (FAS): Facial (small eyes, thin upper lip, absent philtrum, flat face), CNS (microcephaly, intellectual disability), growth retardation. No safe dose in pregnancy. Mercury: Minamata disease. Lead poisoning.
+Neural tube defects (NTDs):
+Types: Anencephaly (most severe, incompatible with life). Spina bifida (myelomeningocele > meningocele > spina bifida occulta). Encephalocele.
+Risk factors: Folate deficiency, valproate, carbamazepine, maternal hyperthermia, diabetes.
+Prevention: Folic acid 0.4 mg/day (5 mg/day if previous NTD or on anticonvulsants).
+Diagnosis: Elevated maternal serum AFP. Detailed ultrasound. Amniocentesis (AFP & AChE).`,
+  "Fetal birth injuries": `FETAL BIRTH INJURIES
+Definition: Injuries sustained during labor & delivery.
+Types:
+A) Soft tissue injuries: 1) Caput succedaneum: Edema of presenting part (crosses suture lines, resolves in 24-48 hours). 2) Subcutaneous fat necrosis: Firm, palpable nodules over cheeks, shoulders. 3) Petechiae: On face after face presentation or cord around neck.
+B) Cephalohematoma: Subperiosteal hemorrhage (does NOT cross suture lines, resolves in weeks-months). Complications: Anemia, jaundice. Does NOT need aspiration (risk of infection). Distinguished from caput: Does not pit on pressure, does not cross suture lines, appears hours after birth.
+C) Intracranial hemorrhage: 1) Subdural: Torn tentorium or falx cerebri (in large babies or precipitate labor). 2) Subarachnoid: Most common, usually benign. 3) Periventricular/Intraventricular: In premature infants (most common serious type). 4) Epidural: Rare.
+D) Nerve injuries: 1) Facial nerve palsy: Due to forceps pressure. Lower motor neuron palsy (all muscles affected). Usually resolves spontaneously. 2) Erb's palsy (C5-C6): Waiter's tip position (arm adducted, medially rotated, elbow extended, forearm pronated, wrist flexed). Due to shoulder dystocia or forceps. 3) Klumpke's palsy (C8-T1): Claw hand. 4) Phrenic nerve palsy (C3-C5): Respiratory distress.
+E) Fractures: 1) Clavicle: Most common fracture in newborn. Due to shoulder dystocia. Management: Immobilization (pin sleeve to chest). 2) Humerus & femur: Less common. 3) Skull: Linear (most common skull fracture) or depressed.
+F) Organ injuries: 1) Liver: Subcapsular hemorrhage (large babies, forceps, breech). 2) Spleen: Similar to liver. 3) Adrenal: Hemorrhage (especially right side).
+G) Spinal cord injuries: Cervical cord injury (excessive traction, rotation). Neonatal death or permanent disability.`,
+  "Episiotomy": `EPISIOTOMY
+Definition: Surgical incision of perineum & posterior vaginal wall during 2nd stage of labor.
+Types:
+A) Mediolateral: Most common in UK & Egypt. Advantages: More room, less risk of extension to anal sphincter. Disadvantages: More painful, more blood loss, more difficult repair.
+B) Median (midline): Common in USA. Advantages: Less painful, less blood loss, easier repair. Disadvantages: High risk of extension to anal sphincter (3rd & 4th degree tears).
+C) J-shaped, lateral: Less common.
+Indications:
+A) Fetal indications: 1) Fetal distress. 2) Preterm delivery (to decrease pressure on fetal head). 3) Breech delivery. 4) Forceps & ventouse delivery.
+B) Maternal indications: 1) Rigid perineum (to prevent severe irregular tears). 2) Previous perineal surgery. 3) To shorten 2nd stage (in cardiac disease, hypertension). 4) Shoulder dystocia (to allow maneuvers).
+Timing: Crown of head visible between contractions (crowning).
+Anesthesia: Local infiltration with lidocaine (or pudendal block).
+Repair (Mediolateral): 1) Vaginal mucosa: Continuous suture starting above apex of tear. 2) Deep tissues (levator ani): Interrupted sutures. 3) Skin: Subcuticular continuous or interrupted sutures.
+Complications:
+A) Immediate: 1) Hemorrhage. 2) Hematoma. 3) Extension: 3rd degree (involving external sphincter) & 4th degree (involving rectal mucosa).
+B) Late: 1) Infection. 2) Abscess. 3) Fistula (rectovaginal). 4) Painful scar. 5) Dyspareunia. 6) Failure to heal.`,
+  "Cesarean section": `CESAREAN SECTION (CS)
+Definition: Delivery of fetus through incisions in abdominal wall & uterus.
+Incidence: Increasing worldwide (20-30% in developed countries).
+Types:
+A) Lower segment CS (LSCS): Most common. Transverse incision in lower uterine segment. Advantages: Less bleeding, better healing, fewer adhesions, lower risk of rupture in subsequent pregnancy.
+B) Classical CS: Vertical midline incision in upper uterine segment. Indications: Anterior placenta previa, transverse lie with PROM, very premature (lower segment not formed), fibroids in lower segment, cervical cancer. Disadvantages: More bleeding, higher risk of rupture in subsequent pregnancy (3-9%).
+C) Hysterotomy (J or T incision): Rare.
+Indications:
+A) Absolute (mandatory): 1) Placenta previa (major). 2) Brow presentation. 3) Transverse lie in labor. 4) Active genital herpes at term. 5) Obstructed labor. 6) 2 or more previous CS (relative).
+B) Relative: 1) Fetal distress not responding to conservative management. 2) Failed induction of labor. 3) Severe preeclampsia/eclampsia. 4) Breech presentation (especially in primigravida). 5) Macrosomia (EFW >4.5 kg in diabetic). 6) Previous uterine surgery (myomectomy entering cavity). 7) Cord prolapse. 8) Failed trial of forceps/ventouse.
+Procedure:
+Anesthesia: Spinal (most common), epidural, or GA. Incision: Pfannenstiel (transverse skin incision - most common) or midline vertical. Uterine incision: Transverse lower segment. Delivery: Manual or instrumental. Uterine closure: Single or double layer. Peritoneum: May not be closed (equal outcomes). Skin: Subcuticular or staples.
+Complications:
+A) Immediate: 1) Hemorrhage (PPH). 2) Bladder or ureter injury. 3) Bowel injury. 4) Anesthetic complications. 5) Thromboembolism (DVT/PE).
+B) Late: 1) Wound infection, dehiscence. 2) Ileus. 3) Adhesions. 4) Scar endometriosis. 5) Uterine rupture in subsequent pregnancy.
+Subsequent delivery:
+VBAC (Vaginal Birth After CS): Possible in selected cases. Contraindications: Classical CS, T/J incision, >1 previous CS (relative), unknown scar, pelvis inadequate. Risks: Uterine rupture (0.5-1% with transverse LSCS scar, 3-9% with classical). Benefits: Avoids CS complications, faster recovery.`,
+  "Instrumental delivery": `INSTRUMENTAL DELIVERY
+Types: Forceps delivery & Ventouse (vacuum extraction) delivery.
+FORCEPS DELIVERY:
+Definition: Application of forceps to fetal head to assist delivery.
+Parts of forceps: 2 blades (each has blade, shank, lock & handle). Fenestrated blades. Pelvic curve (cephalopelvic fit). Cephalic curve (conforms to fetal head).
+Classification:
+A) By station: 1) Outlet forceps: Head at perineum, visible, +2 station or below. 2) Low forceps: Head at +2 station or below but not at perineum. 3) Mid forceps: Head engaged (at 0 station), above +2. 4) High forceps: Head not engaged - ABANDONED.
+B) By function: 1) Traction forceps (most common). 2) Rotation forceps: Kielland's (no pelvic curve, for OP/OT positions). 3) Axis traction forceps: Pajot's maneuver. 4) Special: Piper's forceps (for aftercoming head in breech).
+Prerequisites (conditions that must be met):
+1) Head must be engaged. 2) Cervix fully dilated. 3) Membranes ruptured. 4) Position of head known. 5) No CPD. 6) Bladder empty. 7) Adequate anesthesia (pudendal block or epidural). 8) Patient's consent. 9) Operator skilled & equipped for CS if needed.
+Indications: 1) Prolonged 2nd stage. 2) Fetal distress in 2nd stage. 3) Maternal exhaustion. 4) Medical conditions contraindicating pushing (cardiac, CVA, hypertension). 5) Aftercoming head in breech.
+VENTOUSE (VACUUM EXTRACTION):
+Cups: Metal (Malmstrom) or soft silicone. Chignon (artificial caput) forms under cup.
+Advantages over forceps: Fewer maternal lacerations, less anesthesia required, no increase in head size.
+Disadvantages: Higher neonatal scalp trauma, cephalohematoma, intracranial hemorrhage (controversial), retinal hemorrhage.
+Contraindications to ventouse: 1) Gestation <34 weeks (immature scalp). 2) Face, brow, aftercoming head. 3) Clotting disorders. 4) Recent fetal scalp blood sampling.
+Failed instrumental delivery: If 3 pulls without progress, abandon → CS. Never apply both instruments (forceps then ventouse or vice versa) → increases trauma.
+Complications of instrumental delivery:
+Maternal: Genital tract lacerations (3rd/4th degree tears), PPH, hematoma, urinary/anal sphincter injuries. Fetal: Cephalohematoma, subgaleal hemorrhage, facial nerve palsy, intracranial hemorrhage, shoulder dystocia (with traction).`,
+  "Induction of abortion & labor": `INDUCTION OF LABOR
+Definition: Initiation of uterine contractions before spontaneous onset of labor.
+Indications:
+A) Maternal: 1) Pre-eclampsia/eclampsia. 2) Diabetes with poor control. 3) Renal disease. 4) Postdates (>41 weeks). 5) Prelabor rupture of membranes (PROM). 6) Antepartum hemorrhage.
+B) Fetal: 1) Intrauterine growth restriction (IUGR). 2) Rh isoimmunization. 3) Intrauterine death.
+Assessment before induction - Bishop score: Criteria: Cervical dilation (0-3), effacement (0-3), station (-3 to +2 = 0-3), consistency (0-2), position (0-2). Total maximum = 13. Score ≥6: Favorable cervix → direct oxytocin induction. Score <6: Unfavorable → cervical ripening first.
+Methods of cervical ripening:
+A) Mechanical: 1) Balloon catheter (Foley catheter 30-60 ml): Inserted through cervix → mechanical dilation. Safe, no uterine hyperstimulation. 2) Laminaria tents (hygroscopic dilators): Absorb moisture → expand → dilate cervix. 3) Membrane stripping (sweeping): Separates membranes from cervix → releases prostaglandins.
+B) Pharmacological: 1) Prostaglandins: PGE2 (Dinoprostone) gel or pessary intravaginally. PGE1 (Misoprostol) 25 mcg intravaginally or 50 mcg orally. Most effective cervical ripening agents. Risk: Uterine hyperstimulation → fetal distress. Contraindicated with previous CS (risk of rupture with misoprostol). 2) Mifepristone (antiprogestin): Increases cervical sensitivity.
+C) Surgical: 1) Stripping of membranes (already mentioned). 2) AROM (artificial rupture of membranes/amniotomy): Up to 88% deliver within 24 hours with favorable cervix. Risks: Cord prolapse (if presenting part not engaged), infection if prolonged.
+Oxytocin induction: Start low dose 1-2 mU/min IV. Increase by 1-2 mU/min every 30-60 min. Maximum 20-40 mU/min. Target: 3 contractions/10 min each lasting 60 sec. Contraindications: Previous classical CS, transverse lie, placenta previa, cord presentation.`,
+  "Uterine stimulants (Ecbolics)": `UTERINE STIMULANTS (ECBOLICS)
+Definition: Drugs that stimulate uterine contractions.
+Synonyms: Uterotonic agents or uterotonins.
+Types: A) Oxytocin. B) Prostaglandins (PGs). C) Ergot alkaloids.
+OXYTOCIN:
+Chemistry: Nonapeptide (9 amino acids) formed in supraoptic & paraventricular nuclei of hypothalamus & stored in posterior pituitary.
+Mechanism: Binds to oxytocin receptors (G-protein coupled) → increases intracellular calcium → uterine contraction. Receptor number increases near term & with estrogen.
+Pharmacological effects: 1) Uterine: Stimulates contractions (rhythmic at low doses, sustained at high doses). Sensitivity increases with advanced gestation. 2) Cardiovascular: Vasodilation (at high doses) → hypotension, tachycardia. 3) Antidiuretic: Water retention (ADH-like effect) → risk of water intoxication with large volumes.
+Uses: 1) Induction & augmentation of labor. 2) Prevention & treatment of PPH (3rd stage management). 3) Incomplete/inevitable abortion.
+Dose: Induction: 1-2 mU/min IV, increase by 1-2 mU/min every 30 min (max 20-40 mU/min). PPH: 10 IU IM or 5 IU slow IV or 20-40 IU in 500 ml infusion.
+Side effects: Uterine hyperstimulation → fetal distress. Water intoxication. Hypotension (IV bolus). Tachycardia.
+Contraindications: Previous classical CS. Transverse lie. CPD. Placenta previa. Cord presentation/prolapse.
+PROSTAGLANDINS (PGs):
+PGE2 (Dinoprostone): Cervical ripening (gel or pessary). Stimulates uterine contractions. Bronchospasm (avoid in asthma). Most common brand: Prepidil, Cervidil.
+PGE1 (Misoprostol): Cervical ripening & induction. PPH treatment. Incomplete/inevitable abortion. Medical management of ectopic. Cheaper & more stable than PGE2. Risk: Uterine hyperstimulation especially with previous CS.
+PGF2α (Carboprost/Hemabate): PPH not responding to oxytocin. Dose: 250 mcg IM every 15-90 min (max 8 doses). Contraindicated in asthma.
+ERGOT ALKALOIDS:
+Types: Ergometrine (Ergonovine) & Methylergometrine (Syntometrine: oxytocin + ergometrine).
+Mechanism: Alpha-adrenergic & serotonin receptor agonists → sustained tonic uterine contraction.
+Uses: PPH prevention & treatment (3rd stage of labor). PPH after CS (IM or slow IV).
+Contraindications: Hypertension, heart disease, peripheral vascular disease, Raynaud's phenomenon. NOT given during labor (causes fetal asphyxia due to sustained contraction). Eclampsia (raises BP).
+Side effects: Nausea, vomiting, hypertension, vasospasm. Ergometrine with oxytocin (Syntometrine): More effective for PPH than either alone.`,,
+  "Normal Labor": `Dispositions of fetus in utero (Fetomaternal relationship) 
+ 
+ 
+138
+1) Complete flexion: Chin approaches chest wall (the usual attitude). 
+2) Deflexion. 
+3) Military position: Midway between flexion & extension. 
+4) Partial extension. 
+5) Complete extension: Occiput approaches back. 
+Asynclitism: 
+● Definition: 
+■ Synclitism: Presence of sagittal suture midway between symphysis pubis & 
+promontory of sacrum. 
+■ Asynclitism: Lateral inclination of fetal head making sagittal suture lies nearer to either 
+promontory of sacrum or symphysis pubis & parietal bones not lie at the same 
+horizontal level (one parietal bone is lower than the other). 
+● Incidence: 
+■ Occurs when true conjugate diameter is shortened (as in contracted flat pelvis). 
+■ Mild degree of asynclitism may occur in normal labor. 
+● Significance of asynclitism: ↓↓ engaging transverse diameter of fetal head to allow 
+its passage through pelvis [supraparietal-subparietal diameter (9 cm) enters pelvis 
+instead of BPD (9.5 cm)]. 
+● Types: 
+1) Naegele's obliquity 
+(posterior asynclitism or 
+anterior parietal bone presentation) 
+2) Litzmann's obliquity 
+(anterior asynclitism or 
+posterior parietal bone presentation) 
+Head inclines to posterior shoulder. 
+Head inclines to anterior shoulder. 
+Sagittal suture is nearer to promontory of 
+sacrum. 
+Sagittal suture is nearer to symphysis 
+pubis. 
+Anterior parietal bone is lower than 
+posterior. 
+Posterior parietal bone is lower than 
+anterior. 
+More common in multipara (due to uterine 
+& abdominal wall laxity). 
+More common in primigravida (due to 
+tense abdominal wall). 
+More favorable because: 
+a) Head is more in line 
+with pelvic axis. 
+b) When 
+head 
+passes 
+downwards, it will face 
+mild 
+resistance 
+of 
+promontory of sacrum 
+(1/2 cm). 
+Less favorable because: 
+a) Head isn't in line with pelvic axis. 
+b) When head passes downwards, it will 
+face resistance of whole posterior 
+surface of symphysis pubis (3 cm). 
+
+ 
+ 
+Dispositions of fetus in utero (Fetomaternal relationship) 
+ 
+ 
+139
+ 
+Engagement: 
+● Definition: Passage of largest transverse diameter of presenting part (BPD in vertex 
+presentation) through plane of pelvic inlet (selection of transverse diameter is done to 
+eliminate effect of change in fetal head 
+attitude 
+which 
+will 
+change 
+the 
+engaging longitudinal diameter). 
+● Time: 
+1) In primigravida: Usually occurs in 
+last 3-4 weeks of pregnancy due to 
+strong abdominal wall & uterine 
+muscles). 
+2) In multipara: May occur normally 
+at start of 2nd stage of labor. 
+● Significance: Excludes disproportion 
+between presenting part & pelvic inlet. 
+● Diagnosis: 
+1) History: Disappearance of upper abdominal pressure 
+symptoms & appearance of lower abdominal & pelvic 
+pressure symptoms. 
+2) Examination: 
+a) Abdominal: 
+1- 1st pelvic grip: Failure to grasp presenting part. 
+2- 2nd pelvic grip: Fingers of both hands are divergent & 
+hands can't be insinuated below head. 
+3- Role of fifths (Crichton's technique): 
+■ Floating head: When head is completely felt abdominally 
+& is mobile. 
+■ Fixed head: When only 4/5 of head is felt abdominally. 
+
+ 
+ 
+Dispositions of fetus in utero (Fetomaternal relationship) 
+ 
+ 
+140
+■ Engaging head: When only 3/5 of 
+head is felt abdominally. 
+■ Engaged head: When only 2/5 of 
+head is felt abdominally. 
+■ Deeply engaged head: When only 
+≤ 1/5 of head is felt abdominally. 
+b) Vaginal: Station of presenting part in pelvis (Delee stations): 
+■ It is the relation of leading point of presenting part to ischial spines. 
+■ Ischial spines are midway between pelvic inlet & outlet. 
+■ It starts from (-5) which means that leading point is 5 cm above ischial spines till 
+(+5) which means that leading point is 5 cm below ischial spines. 
+■ Station (0) means engagement. 
+■ Previously, station was calculated by 
+dividing distance from plane of pelvic 
+inlet & plane of ischial spines & 
+distance from plane of ischial spines 
+& plane of pelvic outlet into thirds, so 
+that stations are (-3), (-2), (-1), (0), 
+(+1), (+2) & (+3). 
+3) Investigations: Ultrasound or X-ray. 
+● Causes 
+of 
+non engagement 
+of 
+head 
+in 
+last 
+3-4 
+weeks 
+of 
+pregnancy in primigravida: 
+1) Miscalculation. 
+2) Faults in power: 
+a) Atony of abdominal wall. 
+b) Tonic LUS. 
+3) Faults in passages: 
+a) Placental previa. 
+b) Contracted pelvis. 
+c) Pelvic bone tumors. 
+d) Pelvic mass. 
+e) Rigid cervix. 
+f) Tough vagina. 
+g) Full bladder & rectum. 
+4) Faults in passengers: 
+a) Malpresentation & malposition. 
+b) Short cord or cord around fetal neck. 
+c) Polyhydramnios or oligohydramnios. 
+d) Macrosomia. 
+e) Hydrocephalus. 
+f) Multifetal pregnancy. 
+ 
+
+ 
+ 
+Normal labor 
+ 
+ 
+141
+NORMAL LABOR 
+Definitions: 
+● Labor: Series of regular, coordinated uterine contractions that result in progressive 
+cervical effacement & dilatation allowing for fetal descent & expulsion. 
+● Normal labor: Spontaneous expulsion of single, living, full term fetus, presented by 
+vertex, through natural birth canal, within reasonable time (3-24 hours), without 
+assistance (except episiotomy or oxytocin drip) & without complications to mother or 
+fetus. 
+Causes of onset of labor: Unknown but there are theories. 
+A) Oxytocin theory: Oxytocin is known to cause uterine contractions when given late in 
+pregnancy so, endogenously produced oxytocin may play role in spontaneous onset of 
+labor but oxytocin influence must rely on presence of oxytocin receptors: 
+● Receptors are found in non pregnant uterus. 
+● Receptors level ↑↑ 6 fold at 13-17 weeks gestation & 80 fold at term. 
+● In preterm labor, receptors level is 2-3 times higher than would be expected at the 
+same GA in absence of labor. 
+B) Estrogen-oxytocin theory: ↑↑ free estrogen before labor → ↑↑ myometrial 
+sensitivity to circulating oxytocin. 
+C) Fetal cortisol theory: 
+● In sheep, infusion of either 
+cortisol or ACTH into fetus with 
+intact adrenal gland causes 
+premature 
+labor 
+while 
+hypophysectomy, 
+adrenalectomy or transection 
+of hypophyseal portal vessels 
+result in prolonged pregnancy. 
+● In humans, anencephalic fetus 
+has prolonged pregnancy caused by faulty brain-pituitary-adrenal function. 
+D) PGs theory: PGE2 & PGF2α are both uterotropins & uterotonins & both are formed by 
+decidua (PGE2 is formed also by membranes) & their blood, urine & AF levels ↑↑ 
+markedly before labor so, it is thought to have role in onset of labor. 
+E) Progesterone withdrawal theory: Progesterone level at placental site may ↓↓ 
+before onset of labor → ↑↑ PGs release from decidua & membranes. 
+F) Uterine distention theory: Uterus contracts to empty itself so, preterm labor is 
+common with uterine overdistention (as in multifetal pregnancy & polyhydramnios). 
+G) Role of gap junctions: ↑↑ number of gap junctions between uterine muscle fibers is 
+supposed to play role in onset of labor. 
+ 
+
+ 
+ 
+Normal labor 
+ 
+ 
+142
+Stages of labor: 
+A) 1st stage: Stage of cervical dilatation. 
+B) 2nd stage: Stage of expulsion of fetus. 
+C) 3rd stage: Stage of separation, descent & expulsi`,
+  "Malpresentations": `Malpresentations & malpositions 
+ 
+ 
+159
+MALPRESENTATIONS & MALPOSITIONS 
+Definitions: The only normal presentations & positions are LOA & ROA. 
+● Malposition: Normal presentation (vertex) but with malposition of occiput which is 
+directed posteriorly (OP). 
+● Malpresentation: Presentation other than normal presentation (vertex). 
+General causes: 
+A) Faults in power: 
+1) Laxity of uterine & abdominal muscles (pendulous abdomen): Commonest cause in 
+multiparas. 
+2) Marked dextrorotation of uterus. 
+B) Faults in passages: 
+1) Bony pelvis: 
+a) Contracted pelvis: Commonest cause in nulliparas. 
+b) Abnormal pelvic shape: As android & anthropoid pelvis. 
+2) Soft tissue passages: 
+a) Uterine anomalies: As septate, bicornuate or arcuate uterus. 
+b) Tumors: As uterine fibroid, ovarian tumors & pelvic tumors. 
+c) Excessive obliquity of uterus. 
+C) Faults in passengers: 
+1) Fetus: 
+a) Prematurity: Commonest cause in general. 
+b) Large sized fetus. 
+c) Congenital anomalies: As hydrocephalus & anencephaly. 
+d) Multifetal pregnancy. 
+e) Dead fetus: Absence of fetal movements prevents flexion. 
+2) Placenta: Placenta previa or fundal insertion of placenta (resulting in transverse lie). 
+3) Umbilical cord: Short cord (resulting in transverse lie) or coils of cord around fetal 
+neck (resulting in face presentation). 
+4) Amniotic fluid: Polyhydramnios & oligohydramnios. 
+General features: 
+A) History: ↑↑ fetal movements or lump in epigastrium. 
+B) Examination: 
+1) Abdominal: 
+a) Pendulous abdomen. 
+b) Unengaged head in last 3-4 weeks in primigravida. 
+c) FHS are heard above level of umbilicus. 
+d) Delay in descent of presenting part during labor. 
+ 
+
+ 
+ 
+Malpresentations & malpositions 
+ 
+ 
+160
+2) Vaginal: 
+a) Feeling anything other than vertex. 
+b) PROM or membranes are bulging through undilated cervix (membranes are felt as a 
+sausage shaped projection). 
+c) High presenting part. 
+C) Ultrasound & X-ray: Diagnosis of malpresentation & fetopelvic disproportion. 
+General complications: 
+A) Maternal: 
+1) PROM: Leading to cord prolapse, dry labor & chorioamnionitis. 
+2) 1ry uterine inertia & delayed engagement. 
+3) Prolonged labor: Leading to maternal exhaustion. 
+4) Obstructed labor: Leading to rupture uterus. 
+5) ↑↑ incidence of instrumental deliveries. 
+6) ↑↑ incidence of maternal birth injuries. 
+7) PPH: Due to prolonged labor, anesthesia, maternal exhaustion & instrumental 
+deliveries. 
+8) Puerperal sepsis: Due to PROM & frequent vaginal examinations. 
+B) Fetal: 
+1) Asphyxia: Due to prematurity, cord prolapse, placental compression & ICH. 
+2) Fetal birth injuries. 
+D.D. of irregular presenting part: 
+A) Face presentation. 
+B) Brow presentation. 
+C) In breech presentation: Complete breech, footling presentation & knee presentation. 
+D) Shoulder presentation. 
+E) Complex presentation. 
+F) Cord presentation. 
+Head is delivered by flexion in: 
+A) Face to pubis. 
+B) Face direct MA. 
+C) Aftercoming head of breech. 
+ 
+
+ 
+ 
+Malpresentations & malpositions 
+ Occipitoposterior position 
+ 
+ 
+161
+Occipitoposterior position 
+Definition: Malposition of head (not malpresentation) in which presenting part is vertex, 
+denominator is occiput which is directed posteriorly & head shows certain degree of 
+deflexion. 
+Incidence: 30-40% during last weeks of pregnancy & 20% at onset of labor. 
+Positions: 
+● There are 2 positions: ROP & LOP. 
+● ROP is more common than LOP because: 
+1) In ROP, head engages in Rt oblique diameter of 
+pelvic inlet which is slightly longer than the Lt 
+one. 
+2) Uterus is dextrorotated. 
+Types: 
+A) 1ry OP: Occurs late in pregnancy before onset of 
+labor (it occurs in association with anthropoid pelvis). 
+B) 2ry OP: 
+Develops 
+during 
+labor 
+(it 
+occurs 
+in 
+association with android pelvis). 
+Etiology: 
+A) Abnormal shape of pelvis: Commonest cause 
+(85%). 
+● Any pelvis with narrow forepelvis (as android pelvis & 
+anthropoid pelvis). 
+● In these types, the best way for head to engage is with 
+occiput posteriorly. 
+B) Minor degree of maternal kyphosis: Fetal back is accommodated in concavity of 
+lumbar kyphosis. 
+C) Anterior insertion of placenta. 
+D) Other general causes: . 
+E) Idiopathic: In 10-30% of cases. 
+Mechanism of labor: 
+● Certain degree of deflexion is present in all cases of OP position due to: 
+1) Apposition of 2 convexities of fetal & maternal spines: Leads to loss of flexion 
+of fetal spines which is transmitted to head → deflexion. 
+2) Easy descent of sinciput with delayed descent of occiput: Because the wide 
+BPD (9.5 cm) enters pelvis in the narrow sacrocotyloid diameter (9.5 cm) while the 
+
+ 
+ 
+Malpresentations & malpositions 
+ Occipitoposterior position 
+ 
+ 
+162
+smaller bitemporal diameter (8 cm) enters pelvis in the wider oblique diameter 
+(12 cm). 
+● Deflexion may be: 
+1) Mild: Occiput is at lower level than sinciput. 
+2) Moderate: Both occiput & sinciput are felt at the same level. 
+3) Marked: Sinciput is at lower level than occiput. 
+A) Descent: Delayed. 
+B) Engagement: Delayed because: 
+1) Engaging longitudinal diameter is SOF (10 cm) or OF (11.5 cm). 
+2) BPD (9.5 cm) enters pelvis in sacrocotyloid diameter (9.5 cm). 
+C) Internal rotation: Depends on degree of deflexion, efficiency of uterine contractions 
+& pelvic configuration. 
+1) Normal mechanism (long anterior rotation): 90%. 
+● In minimal degree of deflexion + efficient uterine contractions → correction of 
+deflexion into complete flexion → occiput reaches pelvic floor 1st → rotates anteriorly 
+3/8 circle → becomes DOA → delivered (as OA) by extension. 
+● Restitution occurs (its degree depends on how shoulders follow head during internal 
+rotation) then external rotation then delivery of shoulders, trunk & the rest of body. 
+2) Abnormal mechanism (failed long anterior rotation): 10%. 
+a) Short anterior rotation: 1%. 
+● In mild deflexion → occiput reaches pelvic floor 1st → rotates anteriorly 1/8 circle → 
+becomes DOT → arrest of rotation → deep transverse arrest (DTA). 
+● In this condition, head can't be delivered spontaneously (undeliverable presentation) 
+because longitudinal diameter of head isn't in A-P diameter of pelvic outlet. 
+b) No rotation: 3%. 
+● In moderate deflexion → occiput & sinciput reach pelvic floor simultaneously → no 
+rotation → persistent oblique OP. 
+● In this condition, head can't be delivered spontaneously (undeliverable presentation) 
+because longitudinal diameter of head isn't in A-P diameter of pelvic outlet. 
+
+ 
+ 
+Malpresentations & malpositions 
+ Occipitoposterior position 
+ 
+ 
+163
+c) Posterior rotation: 6%. 
+● In marked deflexion → sinciput reaches pelvic floor 1st → rotates anteriorly 1/8 circle 
+→ occiput rotates posteriorly 1/8 circle → becomes DOP (face to pubis). 
+● Head is delivered by flexion. 
+ 
+ 
+Factors helping long anterior 
+rotation (Good omens of OP) 
+Causes of failure of long anterior 
+rotation (Bad omens of OP) 
+Power 
+Good efficient uterine contractions 
+Weak uterine contractions 
+Passages 
+Roomy pelvis & no cavity or outlet 
+contraction 
+Abnormal shap`,
+  "Abnormal Uterine Action": `Malpresentations & malpositions 
+ Occipitoposterior position 
+ 
+ 
+166
+● Advantages: It may be the ideal due to minimal pelvic curve & sliding lock on 
+shank (allows locking in cases of asynclitism). 
+● Disadvantages: Used only in some centers by efficient obstetrician who is 
+experienced in using it. 
+b- Double application of ordinary forceps (Scanzoni method): 
+● One application for rotation & the other for traction. 
+● Not used in modem obstetrics due to excessive trauma to maternal tissues & risk 
+of fetal ICH. 
+3- Vacuum extraction & deep episiotomy: 
+advantages: 
+a- It encourages flexion of head. 
+b- It allows head to rotate in direction most 
+suitable for delivery. 
+c- It takes no space necessary for rotation. 
+d- It can be used under pudendal block or 
+perineal infiltration. 
+e- Degree of skills & training required for Kielland's forceps isn't required here. 
+4- Cesarean section: The best method & it is indicated in the following conditions: 
+a- Head isn't engaged. 
+b- Contracted outlet. 
+c- If manual rotation or forceps can't be done or considered dangerous. 
+d- Other indications for CS. 
+5- Craniotomy: If fetus is dead (not done now). 
+3) 3rd stage: 
+a) Exploration of birth canal. 
+b) Guard against PPH. 
+c) Guard against puerperal sepsis. 
+Complications: General complications of malpresentations ( ) specially Triad of OP 
+which is: 
+A) Prolonged labor: Due to long anterior rotation & abnormal uterine action. 
+B) PROM: Due to ovoid plane of engagement of fetal head. 
+C) Perineal & vaginal lacerations & tears: More common in face to pubis delivery 
+due to: 
+1) Distension of perineum by large occiput instead of the smaller sinciput. 
+2) Distension of vulva by large OF diameter (11.5 cm) instead of the smaller SOB 
+diameter (9.5 cm). 
+3) Over distension of upper part of vagina as shoulders enter vagina before escaping of 
+head. 
+
+ 
+ 
+Malpresentations & malpositions Face presentation 
+ 
+ 
+167
+Face presentation 
+Definition: Cephalic malpresentation in which presenting part is face, denominator is 
+mentum (chin) & head is extended. 
+Incidence: 1/300-1/400 of deliveries. 
+Positions: 
+● There are 4 classical positions: 
+1) Rt mentoposterior (RMP): 1st position (back is Lt anterior). 
+2) Lt mentoposterior (LMP): 2nd position (back is Rt anterior). 
+3) Lt mentoanterior (LMA): 3rd position (back is Rt posterior). 
+4) Rt mentoanterior (RMA): 4th position (back is Lt posterior). 
+● MA positions (70%) are more common than MP positions (30%) because face 
+presentation is the result of extension of deflexed head in OP position (ROP extends to 
+LMA while LOP extends to RMA). 
+● Commonest position is LMA. 
+Types & Etiology: 
+A) 1ry face: Occurs during pregnancy before onset of labor (rare) & may be due to: 
+1) Congenital anomalies: 
+a) Anencephaly: Commonest. 
+b) Dolicocephaly: Head with long A-P diameters. 
+
+ 
+ 
+Malpresentations & malpositions Face presentation 
+ 
+ 
+168
+ 
+2) Abnormalities of neck that prevent flexion of head: 
+a) Abnormal tone of extensor muscles of neck. 
+b) Multiple coils of cord around neck. 
+c) Tumors of neck (as cystic hygroma & goiter). 
+3) Idiopathic. 
+B) 2ry face: Develops during labor (common) & occurs in cases of OP positions 
+associated with any condition which retards descent of occiput & encourages descent of 
+sinciput as in the following conditions: 
+1) Contracted pelvis: Specially flat pelvis. 
+2) Pendulous abdomen. 
+3) Large sized fetus. 
+Mechanism of labor: 
+A) Mentoanterior positions: 
+1) Descent: Slow. 
+2) Engagement: 
+Engaging 
+longitudinal diameter is SMB 
+(9.5 cm). 
+3) ↑↑ extension: Chin becomes 
+the lower most part of head. 
+4) Internal rotation: 
+Chin 
+reaches pelvic floor 1st → rotates 
+anteriorly 1/8 circle → becomes 
+direct mentoanterior (DMA). 
+5) Flexion: 
+Submental 
+region 
+impinges under symphysis pubis 
+& head is delivered by flexion. 
+6) Restitution: Chin rotates 1/8 
+circle in opposite direction of internal rotation. 
+7) External rotation: Chin rotates 1/8 circle in the same direction of restitution due to 
+internal rotation of anterior shoulder from oblique diameter to A-P diameter. 
+8) Delivery of shoulders, trunk & the rest of body: As normal labor. 
+B) Mentoposterior positions: 
+1) Descent: Slower. 
+2) Engagement: Engaging longitudinal diameter is SMB (9.5 cm). 
+3) ↑↑ extension: Chin becomes the lower most part of head. 
+4) Internal rotation: 
+a) Normal mechanism (long anterior rotation): 2/3 of cases. 
+● In fully extended head + roomy pelvis & strong uterine contractions → chin reaches 
+pelvic floor 1st → rotates anteriorly 3/8 circle → becomes DMA → delivered by 
+flexion. 
+● Restitution occurs (its degree depends on how shoulders follow head during internal 
+rotation) then external rotation then delivery of shoulders, trunk & the rest of body. 
+
+ 
+ 
+Malpresentations & malpositions Face presentation 
+ 
+ 
+169
+b) No mechanism (failed long anterior rotation): 1/3 of cases. 
+1- Short anterior rotation: 
+● Chin reaches pelvic floor 1st → rotates anteriorly 1/8 circle → becomes direct 
+mentotransverse → arrest of rotation → deep transverse arrest (DTA). 
+● In 
+this 
+condition, 
+head can't be 
+delivered spontaneously 
+(undeliverable 
+presentation) because longitudinal diameter of head isn't in A-P diameter of pelvic 
+outlet. 
+2- No rotation: 
+● Chin & sinciput reach pelvic floor simultaneously → no rotation → persistent 
+oblique MP. 
+● In 
+this 
+condition, 
+head can't be 
+delivered spontaneously 
+(undeliverable 
+presentation) because longitudinal diameter of head isn't in A-P diameter of pelvic 
+outlet. 
+3- Posterior rotation: 
+● Sinciput reaches pelvic floor 1st → rotates anteriorly 1/8 circle → chin rotates 
+posteriorly 1/8 circle → becomes direct mentoposterior (DMP). 
+● In this condition 
+(unlike 
+DOP), head can't be 
+delivered spontaneously 
+(undeliverable presentation) because: 
+a- Head needs to be extended to be delivered & it is already maximally extended. 
+b- Length of sacrum is 10 cm & length of extended fetal neck is 5 cm so, neck 
+can't hinge on sacrum to allow head to be delivered by flexion (this is also 
+against power). 
+c- Shoulders enter pelvis at the same time with occiput → impaction → prevention 
+of further descent. 
+Diagnosis: 
+A) During pregnancy: Rarely diagnosed during pregnancy. 
+1) History: In MA positions, fetal movements are painful & felt on both sides of 
+abdomen. 
+2) Abdominal examination: 
+ 
+MA positions 
+MP positions 
+Inspection 
+Subumbilical flattening 
+Subumbilical transverse groove (neck) & 
+suprapubic bulge (occiput) 
+Palpation 
+Fundal level 
+≥ period of amenorrhea (due to non engagement) 
+Fundal grip 
+Buttocks are felt 
+Umbilical 
+grip 
+Back is felt posterior with difficulty 
+Back is felt anterior 
+Smooth curve of flexed fetal spines isn't felt (extended) 
+1st pelvic 
+grip 
+Head is felt smaller & chin is felt as 
+a horse shoe shaped structure 
+Cephalic prominence (occiput) is felt at the same 
+side of back (it is important diagnostic sign of 
+extension attitude) 
+2nd pelvic 
+grip 
+Diffic`,
+  "Obstructed Labor": `Obstructed labor 
+ 
+ 
+207
+Pathophysiology: 
+● In presence of obstruction, the followings occur: 
+1) UUS contracts & retracts to overcome obstruction → UUS becomes thick & short. 
+2) Greater bulk of fetus is pushed into LUS → LUS becomes thin & stretched. 
+● Point of junction between thick UUS & thin LUS is called pathological retraction ring 
+(Bandl's ring) which rises higher & higher & becomes visible, palpable & oblique in 
+position. 
+● If obstruction isn't relieved, rupture of LUS will occur. 
+Complications: 
+A) Maternal: 
+1) Maternal distress & exhaustion. 
+2) Rupture uterus. 
+3) Other obstetric injuries. 
+4) PPH (atonic or traumatic). 
+5) Puerperal sepsis. 
+6) Necrotic vesicovaginal fistula. 
+B) Fetal: 
+1) Fetal distress. 
+2) High perinatal mortality (due to asphyxia, birth injuries, excessive moulding & 
+infection). 
+Clinical picture: 
+A) History: 
+1) Prolonged labor. 
+2) ROM since long time. 
+3) Labor pains are frequent, strong & accompanied with continuous abdominal pain. 
+4) The cause of obstruction may be detected. 
+B) Examination: 
+1) General: Signs of maternal distress (anxious face, restlessness, tachypenia, rapid 
+pulse, raised temperature, dry tongue, cracked lips & vomiting). 
+2) Abdominal: 
+a) Uterus is hard, tender & molded on fetus. 
+b) Rapid & strong uterine contractions with little or no relaxation in between. 
+c) Pathological retraction ring (Bandl's ring) is seen & felt as oblique groove across 
+abdomen above umbilicus (obliquity is due to molded uterus on flexed fetus). 
+d) Fetal parts aren't easily felt. 
+e) FHS shows fetal distress or is inaudible (fetal death). 
+3) Vaginal: 
+a) Vulval edema. 
+b) Vagina is dry, hot & ballooned. 
+c) Cervix is edematous, hanging & usually not fully dilated. 
+
+ 
+ 
+Obstructed labor 
+ 
+ 
+208
+d) Ruptured membranes & meconium stained liquor. 
+e) Presenting part is high or impacted in pelvic cavity with excessive moulding & large 
+caput in cephalic presentation. 
+f) The cause of obstruction is detected. 
+D.D. of retraction ring: 
+A) Contraction ring: . 
+B) Full bladder: Transverse groove relieved by evacuation. 
+C) Fundal fibroid: Asymmetrical uterus from start. 
+Prevention: 
+A) Antenatal diagnosis of fetal macrosomia, congenital anomalies or soft tissue obstruction. 
+B) Early diagnosis of contracted pelvis & CPD. 
+C) Early diagnosis & correction of malpresentations or its proper management. 
+D) Proper management of labor using partogram for early detection of dysfunctional labor. 
+E) Never to be reluctant in doing CS when indicated. 
+Treatment: 
+A) 1st aid measures & correction of general condition of patient: 
+1) Correction of dehydration (by IV fluids). 
+2) Antibiotics. 
+3) Sedatives. 
+B) Immediate termination of process of labor: By least possible manipulation. 
+1) CS: The best method even if fetus is dead (to avoid rupture uterus). 
+2) Vaginal delivery: It may be possible in some cases if the obstructing cause could be 
+corrected as in the following conditions: 
+a) After perforation of hydrocephalic head. 
+b) After specific vaginal manipulations (such as in some cases of OP position, face, 
+breech or cervical dystocia). 
+C) Exploration of birth canal: Is mandatory after any vaginal manipulations to 
+exclude any traumatic lesion specially rupture uterus. 
+N.B.: Dystocia: 
+● Definition: It means difficult labor & is characterized by abnormal progress of labor. 
+● Etiology: It can result from 3 distinct causes that may exist separately or in 
+combination. 
+1) Abnormalities in power: Uterine contractility & auxiliary forces of bearing down. 
+2) Abnormalities in passages: Bony pelvis & soft tissue passages. 
+3) Abnormalities in passengers: Fetus & placenta. 
+ 
+
+ 
+ 
+Contracted pelvis & cephalopelvic disproportion (CPD) 
+ 
+ 
+209
+CONTRACTED PELVIS (PELVIC DYSTOCIA) 
+& CEPHALOPELVIC DISPROPORTION (CPD) 
+Definitions: 
+● Contracted pelvis (CP): 
+■ Obstetric definition: Pelvis in which ≥ 1 of pelvic diameters is ↓↓ enough to cause 
+difficulty in vaginal delivery of average sized fetus. 
+■ Anatomical definition: Pelvis in which ≥ 1 of pelvic diameters is ↓↓ below average by 
+≥ 1 cm. 
+● Cephalopelvic or fetopelvic disproportion: Disproportion between head & pelvis 
+(in cephalic presentation) or between fetus & pelvis (in presentations other than 
+cephalic). 
+Factors affecting size & shape of pelvis: 
+A) Developmental factors: Hereditary or congenital. 
+B) Racial factors. 
+C) Nutritional factors: Malnutrition results in small pelvis. 
+D) Sexual factors: Excessive androgen may produce android pelvis. 
+E) Metabolic factors: As rickets & osteomalacia. 
+F) Diseases, trauma or tumors of bony pelvis, spines or 
+LLs. 
+Etiology of contracted pelvis: 
+A) Causes in pelvis: 
+1) Congenital: 
+a) Small gynecoid pelvis (generally contracted pelvis). 
+b) Small anthropoid pelvis. 
+c) Android pelvis. 
+d) Platypelloid pelvis. 
+e) Naegele's pelvis: Absence of 1 ala of sacrum (obliquely CP 
+or asymmetric pelvis). 
+f) Robert's pelvis: Absence of 2 alae of sacrum (transversely 
+CP). 
+g) High assimilation pelvis: Sacrum is made of 6 fused 
+segments. 
+h) Low assimilation pelvis: Sacrum is made of 4 fused 
+segments. 
+i) Split pelvis: Absent pubic bone (usually associated with ectopia vesica). 
+2) Metabolic diseases:`,
+  "Cephalopelvic Disproportion (CPD)": `Contracted pelvis & cephalopelvic disproportion (CPD) 
+ 
+ 
+209
+CONTRACTED PELVIS (PELVIC DYSTOCIA) 
+& CEPHALOPELVIC DISPROPORTION (CPD) 
+Definitions: 
+● Contracted pelvis (CP): 
+■ Obstetric definition: Pelvis in which ≥ 1 of pelvic diameters is ↓↓ enough to cause 
+difficulty in vaginal delivery of average sized fetus. 
+■ Anatomical definition: Pelvis in which ≥ 1 of pelvic diameters is ↓↓ below average by 
+≥ 1 cm. 
+● Cephalopelvic or fetopelvic disproportion: Disproportion between head & pelvis 
+(in cephalic presentation) or between fetus & pelvis (in presentations other than 
+cephalic). 
+Factors affecting size & shape of pelvis: 
+A) Developmental factors: Hereditary or congenital. 
+B) Racial factors. 
+C) Nutritional factors: Malnutrition results in small pelvis. 
+D) Sexual factors: Excessive androgen may produce android pelvis. 
+E) Metabolic factors: As rickets & osteomalacia. 
+F) Diseases, trauma or tumors of bony pelvis, spines or 
+LLs. 
+Etiology of contracted pelvis: 
+A) Causes in pelvis: 
+1) Congenital: 
+a) Small gynecoid pelvis (generally contracted pelvis). 
+b) Small anthropoid pelvis. 
+c) Android pelvis. 
+d) Platypelloid pelvis. 
+e) Naegele's pelvis: Absence of 1 ala of sacrum (obliquely CP 
+or asymmetric pelvis). 
+f) Robert's pelvis: Absence of 2 alae of sacrum (transversely 
+CP). 
+g) High assimilation pelvis: Sacrum is made of 6 fused 
+segments. 
+h) Low assimilation pelvis: Sacrum is made of 4 fused 
+segments. 
+i) Split pelvis: Absent pubic bone (usually associated with ectopia vesica). 
+2) Metabolic diseases: 
+
+ 
+ 
+Contracted pelvis & cephalopelvic disproportion (CPD) 
+ 
+ 
+210
+a) Rickets: Causes flat rachitic pelvis, generally contracted rachitic pelvis or generally 
+contracted flat rachitic pelvis. 
+b) Osteomalacia: Causes triradiate or rosette shaped pelvis. 
+3) Trauma: Fractures. 
+4) Tumors: As osteoma. 
+B) Causes in spines: Kyphosis, scoliosis & spondylolisthesis. 
+C) Causes in LLs: 
+1) Dislocation of hip joint. 
+2) Missing or shortening of one limb during childhood or adolescence before ossification 
+of pelvis (leading to stress on pelvis). 
+3) Fractures (accidents). 
+4) Inflammation (TB osteomyelitis). 
+N.B.: 
+● Low assimilation pelvis & split pelvis are usually not associated with contracted pelvis. 
+● Asymmetric or oblique pelvis is that pelvis in which one oblique diameter is shorter than 
+the other & this type includes: 
+1) Naegele's pelvis. 
+2) Scoliotic pelvis. 
+3) Diseases, fractures or tumors affecting one side. 
+Etiology of CPD: It can result from: 
+A) ↓↓ pelvic capacity. 
+B) ↑↑ fetal size or abnormal fetal development. 
+C) Combination of both (more common). 
+Classification of contracted pelvis: 
+A) Pelvic inlet contraction. 
+B) Midpelvis contraction. 
+C) Pelvic outlet contraction. 
+D) Generally contracted pelvis (just minor pelvis). 
+Complications of CP & CPD: 
+A) Maternal: 
+1) During pregnancy: 
+a) Malpresentations. 
+b) Pendulous abdomen. 
+c) Incarcerated RVF gravid uterus (in presence of jutting promontory). 
+d) Pyelonephritis (specially in high assimilation pelvis due to more compression on 
+ureters). 
+2) During labor: 
+a) Early rupture of membranes & cord prolapse. 
+b) Inertia, slow cervical dilatation, delayed or non engagement & prolonged labor. 
+c) Obstructed labor with its complications. 
+d) ↑↑ incidence of instrumental deliveries & CS. 
+
+ 
+ 
+Contracted pelvis & cephalopelvic disproportion (CPD) 
+ 
+ 
+211
+e) ↑↑ incidence of maternal birth injuries. 
+3) During puerperium: PPH & puerperal sepsis. 
+B) Fetal & neonatal: 
+1) Asphyxia. 
+2) Fetal birth injuries (ICH, skull fractures & nerve injuries). 
+3) Infection (early neonatal sepsis). 
+Diagnosis of contracted pelvis & CPD: 
+A) History: 
+1) Past history of trauma or disease that cause pelvic contraction: Rickets, 
+osteomalacia, poliomyelitis, TB, fractures or orthopedic surgery. 
+2) Bad obstetric history: Malpresentation, prolonged labor, instrumental deliveries or 
+CS. 
+B) Examination: 
+1) General: 
+a) Abnormal gait (limping or waddling) suggests abnormalities in pelvis, spines or LLs. 
+b) Short stature (height < 150 cm is usually suggestive of contracted pelvis). 
+c) Dystocia dystrophia syndrome (short, obese, hirsute, subfertile & has android pelvis). 
+d) Manifestations of rickets. 
+e) Disease or lesion of spines & LLs. 
+2) Abdominal: 
+a) Malpresentation. 
+b) Pendulous abdomen in primigravida. 
+c) Non engagement of head in last 3-4 weeks in 
+primigravida. 
+C) Pelvimetry: Done for all primigravidas in last weeks 
+of pregnancy & multiparas with bad obstetric history. 
+1) Clinical pelvimetry: 
+a) Internal pelvimetry: Done at 36 weeks through 
+vaginal examination by Rt hand with patient in 
+lithotomy position without anesthesia & assess the 
+followings: 
+1- Sacral promontory: Normally, not easily palpable. 
+2- Diagonal 
+conjugate 
+diameter: 
+Normally 
+= 
+12.5 cm. 
+● Touch sacral promontory by tip of middle finger, mark the point that impinges on 
+lower border of symphysis pubis on radial border of index finger then withdraw the 
+2 fingers & measure distance between tip of middle finger & that point by ruler. 
+● True conjugate diameter can be measured by subtracting 1.5 cm from diagonal 
+conjugate. 
+● This assessment isn't done if head is engaged. 
+3- Sacrum: For width, curve & any anomaly (normally it is broad & concave from 
+above downwards & from side to side). 
+
+ 
+ 
+Contracted pelvis & cephalopelvic disproportion (CPD) 
+ 
+ 
+212
+4- Side walls of pelvis: To determine whether they are straight, divergent or 
+convergent. 
+5- Ischial spines: To determine whether they are prominent or not & measure 
+distance between them (normally = 10 cm). 
+6- Sacrospinous ligament: Normally = 2 fingers breadth (3.5 cm). 
+7- Width of sacrosciatic notch: Normally accommodates 2 fingers. 
+8- Mobility of coccyx: Normally, it is mobile & can recede backwards easily. 
+9- A-P diameter of outlet: Measured by the same manner as diagonal conjugate but 
+tip of middle finger touches tip of sacrum. 
+ 10- Capacity of subpubic angle: Normally, angle can accommodate 2 fingers near apex 
+without any difficulty. 
+b) External pelvimetry: 
+1- Inlet pelvimetry: Measure diameters of false pelvis by Martin's pelvimeter (has little 
+importance). 
+2- Outlet pelvimetry: 
+a- Subpubic angle: Normally = 
+90-100° & can be measured 
+by: 
+ Placing 2 index fingers along 
+2 pubic arches & noting the 
+angle between them. 
+ Morris disc. 
+b- Bituberous diameter: Normally = 11 cm & measured by: 
+ Pushing knuckles of 4 fingers or closed fist of hand 
+between 2 ischial tuberosities (normally, this diameter 
+can accommodate knuckles of 4 fingers or closed fist 
+easily). 
+ Thom's, Jarco's or crossing pelvimeter. 
+c- A-P diameter of outlet: Normally = 11 cm & can be measured by Thom's, Jarco's 
+or crossing pelvimeter. 
+d- Posterior sagittal diameter of outlet: Normally = 7-10 cm & can be measured by 
+Thom's pelvimeter. 
+N.B.: Pelvic outlet is accessible clinically so, obstetrician must not be surprised by 
+outlet contraction during labor (o`,
+  "Third Stage Complications": `Complications of third stage of labor 
+ 
+ 
+223
+COMPLICATIONS OF THIRD STAGE OF LABOR 
+ 
+Retained placenta 
+Definition: Failure of delivery of placenta within 30 minutes after delivery of fetus. 
+Incidence: 1% of all deliveries. 
+Types & etiology: 
+A) Retained separated placenta: Due to: 
+1) Uterine atony. 
+2) Constriction ring. 
+3) Rupture uterus: Placenta passes to peritoneal cavity. 
+B) Retained non separated placenta: Due to: 
+1) Uterine atony. 
+2) Abnormally adherent placenta: 
+● Pathogenesis: Layer of fibrinoid tissue between trophoblasts & decidua basalis 
+(Nitabuch layer) is absent or defective so, chorionic villi penetrate deeply. 
+● Etiology & risk factors: 
+a) Placenta previa (with or without previous CS). 
+b) Previous CS (the most important risk factor). 
+c) Previous uterine surgery (previous endometrial curettage, endometrial ablation, 
+myomectomy or hysteroscopic surgery). 
+d) Previous manual separation of placenta. 
+e) Endometritis & adenomyosis. 
+f) Pregnancy in uterine diverticulum. 
+g) Implantation over myoma. 
+● Types: 
+a) Ordinary (simple) adherence: Due to failure 
+of normal separation through decidua 
+spongiosa layer (manual separation can be 
+done easily) 
+b) Pathological adherence: 
+1- Placenta 
+accreta: 
+Chorionic 
+villi 
+are 
+attached to (but don't invade) superficial myometrium either partially (partial 
+accreta) or completely (complete accreta). 
+2- Placenta increta: Chorionic villi invade deeply in myometrium. 
+3- Placenta percreta: Chorionic villi invade whole myometrium up to peritoneum. 
+3) Abnormal shape of placenta: Placenta membranacea & succenturiate placenta. 
+Complications: 
+A) Shock (both hemorrhagic & neurogenic). 
+
+ 
+ 
+Complications of third stage of labor 
+ 
+ 
+224
+B) PPH (mainly due to uterine atony). 
+C) Puerperal sepsis. 
+D) Subinvolution of uterus. 
+E) Retained 
+placental 
+parts 
+with 
+subsequent 
+Hge, 
+infection, 
+placental 
+polyp 
+formation 
+or 
+choriocarcinoma. 
+F) Complications of methods used for its separation. 
+Diagnosis: 
+A) In cases of uterine atony: Severe bleeding + lax 
+uterus. 
+B) In cases of constriction ring: Placenta is retained 
+above ring with hour-glass contraction of uterus. 
+1) Suspected 
+by 
+large 
+globular 
+uterus, 
+irregular 
+contraction & intermittent gushes of blood. 
+2) Ring is felt by examining uterus during vaginal examination. 
+3) When pressure is applied to fundus, cord advances then recedes back after releasing 
+fundal pressure. 
+C) In cases of rupture uterus: 
+1) Severe bleeding & shock. 2) Umbilical cord recedes up & shortens. 
+3) Local examination shows complete rupture uterus & placenta is intraperitoneal. 
+D) In cases of adherent placenta: 
+1) Absence of subplacental sonolucent space on ultrasound (antenatal diagnosis). 
+2) Uterus remains unchanged in size & shape. 
+3) No bleeding (characteristic sign). 
+4) No signs of separation & descent of placenta. 
+5) Absence of any plane of cleavage between placenta & uterine wall during attempts of 
+manual separation. 
+Treatment: 
+A) In cases of uterine atony: Give ergometrine & do gentile uterine massage (to 
+stimulate uterine contraction) then try to 
+deliver placenta by one of the following 
+methods in succession if each previous one 
+failed: 
+1) Brandt-Andrew's maneuver: See active 
+management of 3rd stage of labor. 
+2) Crede's method: 
+● Technique: 
+a) Evacuate bladder & massage the uterus to 
+stimulate it to contract. 
+b) Grasp fundus by 4 fingers behind & thumb in front to squeeze placenta. 
+
+ 
+ 
+Complications of third stage of labor 
+ 
+ 
+225
+c) Push fundus downwards & backwards to expel placenta. 
+● Complications: 
+a) Shock. 
+b) Inversion of uterus (if applied on relaxed uterus). 
+c) Partial separation of placenta (causing PPH). 
+d) Retained parts of placenta or membranes. 
+e) Failure (due to obesity, rigidity of abdominal 
+wall, constriction ring, placenta accreta or 
+uncooperative patient). 
+3) Manual removal of placenta: 
+● Technique: 
+a) General anesthesia & complete asepsis. 
+b) Introduce one hand into uterus along umbilical 
+cord then identify lower edge of placenta & by 
+sawing movement from side to side, separate 
+placenta from its bed. 
+c) Grasp placenta & deliver it out. 
+d) Examine placenta & membranes to ensure 
+complete expulsion. 
+e) Other hand is supporting uterus abdominally throughout procedure. 
+● Complications: 
+a) Perforation of uterus. 
+b) Retained parts of placenta or membranes. 
+c) Infection. 
+B) In cases of constriction ring: Give deep general anesthesia & amyl nitrite then do 
+manual removal of placenta. 
+C) In cases of rupture uterus: Do laparotomy to deliver placenta & repair uterus or 
+do hysterectomy. 
+D) In cases of adherent placenta: 
+1) Ordinary (simple) adherence & partial placenta accreta: Remove as much as 
+possible from placenta & insert uterine pack → if bleeding continues, perform bilateral 
+uterine artery ligation, bilateral internal iliac artery ligation or hysterectomy (if other 
+measures failed specially in old patient who completed her family). 
+2) Complete placenta accreta, placenta increta or placenta percreta: 
+a) Old patient completed her family: Hysterectomy is the standard treatment. 
+b) Young patient needing fertility: Cut umbilical cord short & leave placenta in situ 
+to undergo autolysis & give patient antibiotics (to guard against infection) & MTX (to 
+enhance autolysis). 
+
+ 
+ 
+Complications of third stage of labor 
+ 
+ 
+226
+Puerperal inversion of uterus 
+Definition: Body of uterus is partially or totally turned inside out (it may occur during 3rd 
+stage of labor with placenta is still attached or after 3rd stage is over). 
+Incidence: Very rare (1/20000 of deliveries). 
+Types: 
+A) Acute inversion: Detected within 24 hours after delivery. 
+B) Subacute inversion: Detected between 24 hours & 4 weeks after delivery. 
+C) Chronic inversion: Detected after 4 weeks of delivery. 
+Etiology: 
+A) Spontaneous inversion: Rare & may occur in cases of: 
+1) Precipitate labor. 
+2) Traction on short cord by fetus. 
+3) Violent coughing, sneezing or straining immediately after delivery while uterus is lax 
+(particularly if cervix is torn or gaped). 
+4) Submucous fundal myoma. 
+5) Arcuate uterus. 
+B) Induced (iatrogenic) inversion: More common & occurs due to pressure on 
+fundus or traction on cord or placenta while uterus is lax as in cases of: 
+1) Improperly applied Crede's method in presence of uterine atony. 
+2) Traction on cord of adherent fundal placenta. 
+3) During manual separation & removal of placenta when placenta is pulled on & 
+extracted before separation is complete. 
+Degrees: 
+Incomplete inversion 
+Complete inversion 
+1st degree 
+2nd degree 
+3rd degree 
+Fundus is depressed 
+but doesn't protrude 
+through cervix 
+Inverted fundus protrudes 
+through cervix but still 
+retained within vagina 
+Whole uterus (including cervix) 
+is inverted & may drag vagina 
+& appear outside vulva 
+ 
+ 
+ 
+Diagnosis: 
+
+ 
+ 
+Complications of third stage of labor 
+ 
+ 
+227
+A) Symptoms: 
+1) Pain: Severe shooting pains are so`,
+  "Puerperium": `Puerperium 
+ 
+ 
+243
+PUERPERIUM 
+Definition: 
+● Puerperium: 6 weeks immediately following labor or abortion during which involution of 
+genital organs occurs. 
+● Involution: Gradual regression in anatomical & physiological changes of pregnancy to 
+condition resembling non pregnant state. 
+Physiological changes at puerperium: 
+A) General changes: 
+1) Pulse: Normal but may ↑↑ if there is Hge or infection. 
+2) Temperature: 
+a) Reactionary ↑↑ may occur after difficult labor (not > 38°C & drops within 24 hours). 
+b) Slight ↑↑ may occur by 3rd day due to breast engorgement. 
+3) Loss of weight: Due to evacuation of uterine contents, polyuria & excessive 
+sweating. 
+4) Breast: 
+a) Colostrum is secreted in first 3 days. 
+b) with establishment of milk secretion by 3rd day, 
+breast becomes engorged, larger, painful & 
+tender (suckling or evacuation of breast 
+relieves discomfort). 
+5) Blood: Puerperal period is associated with ↑↑ 
+risk of thromboembolism & this risk ↑↑ in 
+prolonged labor, CS & obese multiparous women 
+(so, thromboprophylaxis should be given to high 
+risk women). 
+6) GIT: Tendency to constipation due to anorexia, loss of fluids, atony of intestine & 
+laxity of abdominal & perineal muscles. 
+7) Urinary system: 
+a) Pregnancy related dilatation of collecting system returns to normal by 6th week. 
+b) Renal function (physiological changes) returns to normal by 8th week. 
+c) Diuresis occurs to excrete water retained during pregnancy. 
+d) Urine retention may occur due to recumbency, atony of bladder, laxity of abdominal 
+muscles or reflex inhibition from painful stitches in perineum. 
+B) Genital changes: 
+1) Lochia: 
+● Definition: Vaginal discharge in first 15 days of 
+puerperium. 
+● Composition: 
+Blood, 
+decidual 
+fragments, 
+cervical mucus, vaginal transudate & bacteria. 
+● Reaction: Alkaline. 
+
+ 
+ 
+Puerperium 
+ 
+ 
+244
+● Types: 
+a) Lochia rubra (red): Lasts for 5 days & consists mainly of blood & decidua. 
+b) Lochia serosa (pale): Lasts for 5 days & is pale due to relative ↓↓ in RBCs & 
+predominance of leukocytes. 
+c) Lochia alba (white): Lasts for 5 days & consists mainly of leukocytes & mucus. 
+2) Uterus: 
+a) Placental site: Contraction of myometrial muscle fibers causes compression of 
+vessels supplying placental bed → mechanical hemostasis. 
+b) Uterine size & weight: 
+● Immediately after delivery: Contracted uterus 
+is felt at level of umbilicus. 
+● 1 week postpartum: Fundus is felt midway 
+between umbilicus & symphysis pubis. 
+● 2 week postpartum: Fundus is at upper 
+border of symphysis pubis but may be still 
+palpable abdominally. 
+● 6 week postpartum: Uterus should return to 
+non pregnant size (10 fold ↓↓ in weight of 
+uterus from 1000 gm to 100 gm). 
+c) Endometrium: Decidua casts off with lochia 
+except basal layer from which endometrium 
+regenerates 
+(regenerating 
+endometrium 
+covers decidual site by end of 1st week & completes at 3rd week postpartum). 
+d) Muscle fibers: Excess uterine muscles undergo autolysis. 
+e) Blood vessels: Old blood vessels undergo thrombosis & remnants of blood vessels 
+become replaced by elastic tissue. 
+f) Uterine ligaments: Involute (subinvolution predisposes to prolapse & RVF). 
+g) After pains: Painful uterine contractions that occur in early puerperium & ↑↑ with 
+suckling (due to oxytocin release). 
+3) Cervix: Closes by end of 1st week. 
+4) Vagina: Vaginal rugae appear in 3rd week. 
+5) Vulva: Its gaping disappears by end of puerperium. 
+6) Perineum: Regains its tone by end of puerperium (persistence of its laxity 
+predisposes to prolapse). 
+7) Ovarian function & menstruation: 
+a) In lactating women: ↑↑ serum prolactin levels delay ovulation & variable period of 
+lactational amenorrhea may occur. 
+b) In non lactating women: Ovulation can occur as early as 4 weeks postpartum & 
+menstruation recurs within 6-8 weeks. 
+Management of puerperium (postnatal care): 
+A) Observation: 
+1) Maternal: 
+
+ 
+ 
+Puerperium 
+ 
+ 
+245
+a) Immediate postpartum observation: Vital signs (pulse, BP & temperature), 
+contractility of uterus & development of PPH. 
+b) Lochia: Persistence of red lochia means subinvolution & offensive lochia means 
+infection (but in severe infection with septicemia, lochia is scanty & not offensive). 
+c) Involution of uterus: Subinvolution of uterus means that uterus didn't regress to 
+its pre-pregnancy size by end of puerperium (it may be due to overdistension of 
+uterus during pregnancy, retained placental fragments, infection, RVF, myoma, 
+non suckling or bad general condition of patient). 
+2) Neonatal: Umbilical stump & development of jaundice. 
+B) Analgesia: May be needed in episiotomy, perineal tears or severe after pains. 
+C) Fluids & diet: 
+1) Woman should be encouraged to drink excess fluids to prevent DVT & pulmonary 
+embolism & constipation. 
+2) Diet should be rich in proteins, vitamins & minerals. 
+3) Lactating women should consume excess sugary fluids & diet rich in CHO. 
+D) Early ambulation: Woman should be encouraged to walk shortly after delivery to 
+prevent DVT & pulmonary embolism. 
+E) Postnatal exercise: Abdominal & pelvic floor exercises are advised to strengthen 
+abdominal & perineal muscles & prevent development of genital prolapse. 
+F) Perineal care: 
+1) Vulva & perineum should be washed with antiseptic solution after every micturition or 
+defecation, dried & sterile vulval pad is applied. 
+2) If there are perineal stitches → add local antibiotic. 
+3) If there is complete perineal tear → give low residue diet + intestinal antiseptics + 
+paraffin oil (15 ml 3 times daily after 1st postoperative day) to lubricate stool. 
+G) Bladder care: Woman should be encouraged to micturate frequently & if there is 
+retention of urine → catheter is applied under aseptic precautions. 
+H) Bowel care: Constipation is prevented by drinking much fluids, eating diet rich in 
+fresh vegetables & mild laxatives (as local glycerin suppositories). 
+I) Breast feeding & breast care: 
+1) Breast feeding should be encouraged for good physical & psychological health benefits 
+for mother & baby (lactation helps involution of genital organs & enhances maternal-
+infant interaction). 
+2) Nipple & areola should be washed with warm water & soap before & after each feed. 
+3) Lactation should be suppressed in the following conditions (contraindication to breast 
+feeding): 
+a) Maternal conditions: 
+1- Maternal diseases (as decompensated heart disease, pneumonia or chronic renal 
+disease). 
+2- Breast disorder (as breast abscess draining into ducts or breast cancer). 
+3- Maternal infections (active pulmonary TB, HBV or HIV however, WHO encourage 
+breastfeeding in Africa even in HIV +ve women). 
+
+ 
+ 
+Puerperium 
+ 
+ 
+246
+b) Infantile conditions: Cleft palate & marked hare lip interfering with suckling, 
+marked prematurity & death of infant. 
+J) Sexual activity: Duration needed for women to regain normal libido & orgasm varies 
+considerably & sexual activity should be guided by extent of vaginal & perineal trauma 
+at delivery & by duration of post`,
+  "Multifetal Pregnancy": `Multifetal (multiple) pregnancy 
+ 
+ 
+263
+MULTIFETAL (MULTIPLE) PREGNANCY 
+Definition: Pregnancy that results in>1 fetus. 
+Incidence: 
+● Twins: 1.5% of all pregnancies. 
+● Higher-order multifetal pregnancies: 1/2500 of all pregnancies. 
+● Hellin put equation that determines incidence as follows (Hellin's formula): 
+1) Twins (2 fetuses): 1/80. 
+ 
+ 
+3) Quadruplets (4 fetuses): 1/803. 
+2) Triplets (3 fetuses): 1/802. 
+4) Quintuplets (5 fetuses): 1/804. 
+Types: 
+ 
+Monozygotic twins (33%) 
+Dizygotic twins (67%) 
+Synonyms 
+Uniovular twins, identical twins or 
+homologous twins 
+Binovular twins, non identical twins 
+or heterologous twins 
+Incidence 
+1/250 of deliveries 
+Varies according to risk factors 
+Mechanism 
+Fertilization of 1 ovum by 1 sperm 
+then splitting of zygote → result 
+depends on time of splitting: 
+Fertilization of 2 ova by 2 sperms 
+resulting 
+in 
+2 
+sacs 
+(dichorionic 
+diamniotic). This can occur by: 
+
+Multifetal (multiple) pregnancy 
+ 
+ 
+264
+1) First 3 days after fertilization: 
+Dichorionic diamniotic (30-35%) but 
+placentas may be fused. 
+2) 4-7 
+days 
+after 
+fertilization: 
+Monochorionic diamniotic (65-70%). 
+3) 8-12 
+days 
+after 
+fertilization: 
+Monochorionic monoamniotic (1%). 
+4) > 12 days after fertilization: 
+Conjoined twins (0.5%). 
+1) Superfertilization: Fertilization of 
+2 ova from 1 cycle by 2 sperms in 
+same coitus (occurs in humans). 
+2) Superfecundation: Fertilization of 
+2 ova from 1 cycle by 2 sperms in 2 
+coituses (occurs in humans). 
+3) Superfetation: Fertilization of 2 
+ova from 2 cycles (doesn't occur in 
+humans). 
+Risk 
+factors 
+Not related to risk factors 
+Related to certain risk factors 
+Characters 
+They are similar in sex, morphological 
+features, psychological & mental 
+profile & HLA typing & differ in finger 
+prints, iris pattern & voice 
+Sex & morphological features are as 
+any sisters or brothers 
+Risk factors: For dizygotic twins. 
+A) Age: ↑↑ age (probably due to high FSH level). 
+B) Parity: Common in multiparas. 
+C) Race: Highest in Negros & lowest in Japanese. 
+D) Hereditary factors: +ve family history (wife or husband). 
+E) Pregnancy within 1 month after stopping OCs: Due to high FSH level. 
+F) Iatrogenic: Induction of ovulation or IVF with transfer of > 1 embryo. 
+G) Idiopathic: Commonest cause. 
+Determination of zygosity: 
+A) Fetal sex: Different fetal sex indicates dizygosity. 
+B) Chorionicity: Monochorionicity indicates monozygosity. 
+C) Other determinants: Finger or palm printing & DNA fingerprinting. 
+
+Multifetal (multiple) pregnancy 
+ 
+ 
+265
+Complications (risks): 
+A) Maternal risks: 
+1) During pregnancy: 
+a) Abortion. 
+b) Preterm labor: May be spontaneous (due to uterine overdistension or PPROM) or 
+induced (due to acute polyhydramnios, APH, PIH or previous CS). 
+c) Polyhydramnios. 
+d) PROM: 3 times more common than singleton pregnancy specially if associated with 
+polyhydramnios or abnormal presentation. 
+e) APH: Due to placenta previa (due to large placenta encroaching on LUS) or placental 
+abruption (due to higher incidence of PIH). 
+f) Hyperemesis gravidarum. 
+g) PIH: Usually of early onset. 
+h) Glucose intolerance. 
+i) Anemia: Due to ↑↑ requirements & plasma expansion. 
+j) Malpresentation: Incidences of presentations in twins are: 
+1- Cephalic – Cephalic: 38% (commonest). 
+2- Cephalic – Breech: 21%. 
+3- Cephalic – Transverse: 9%. 
+4- Breech – Cephalic: 14%. 
+5- Breech – Breech: 10%. 
+6- Breech – Transverse: 7%. 
+7- Transverse – Transverse: 2% (rarest). 
+k) Pressure manifestations: Due to oversized uterus. 
+1- Supine hypotension syndrome. 
+4- UTI (due to compression on ureters). 
+2- Dyspnea. 
+ 
+ 
+ 
+5- ↑↑ varicosities. 
+3- Dyspepsia. 
+ 
+ 
+ 
+6- Edema LLs. 
+l) Psychological problems: Due to prolonged rest & hospitalization. 
+2) During labor: 
+a) Prolonged labor: Leading to maternal exhaustion. 
+b) Obstructed labor: Due to malpresentations, fetopelvic disproportion or locked 
+twins. 
+c) Retained 2nd twin. 
+d) ↑↑ incidence of instrumental deliveries. 
+e) ↑↑ incidence of maternal birth injuries. 
+3) During puerperium: 
+a) PPH: Atonic or traumatic. 
+b) Puerperal sepsis. 
+c) Deficient lactation. 
+d) Psychological problems: Due to caring of newborns. 
+B) Fetal & neonatal risks: 
+1) Single fetal demise. 
+
+Multifetal (multiple) pregnancy 
+ 
+ 
+266
+2) IUFD: More in monozygotic type than in dizygotic type due to less placental perfusion 
+& ↑↑ chance of vascular connections. 
+3) Intrapartum fetal death: 
+a) Death of 1st fetus: Due to cord prolapse or locked twin. 
+b) Death of 2nd fetus: Due to excessive sedation, premature separation of placenta, 
+hypoxia, constriction ring or operative manipulation. 
+4) Prematurity. 
+5) IUGR: Due to relatively deficient resources that may affect one fetus > other. 
+6) Discordant growth. 
+7) Twin to twin transfusion syndrome (TTTS). 
+8) Conjoint twins. 
+9) ↑↑ incidence of congenital anomalies: 
+● Major anomalies develop in 2% & minor anomalies develop in 4% of twins. 
+● Incidence in monozygotic type is twice that in dizygotic type. 
+● Incidence ↑↑ in monoamniotic type. 
+ 10) Umbilical cord problems: 
+a) Single umbilical artery: Occurs in 7% of twins specially monozygotic twins. 
+b) Cord entanglement. 
+c) Cord prolapse. 
+ 11) Asphyxia. 
+ 12) Fetal birth injuries. 
+ 13) Cerebral palsy: 5 times more common in twins than in singleton pregnancy & it 
+occurs due to single fetal demise, IUGR, discordant growth or TTTS. 
+Fetal conditions unique to multifetal pregnancy: 
+A) Vanishing twin syndrome: 
+● Definition: 1st trimesteric spontaneous loss or arrest of development with subsequent 
+resorption of at least 1 embryo or fetus which was viable & previously confirmed 
+ultrasonically. 
+● Diagnosis: Viable multifetal pregnancy is diagnosed by ultrasound in 1st trimester & not 
+confirmed on later ultrasound examination. 
+B) Single fetal demise: 
+● Definition: Death of 1 fetus remote from term but pregnancy continues with ≥ 1 living 
+fetus. 
+● Incidence: 6% of twins. 
+● Risk factors: Monochorionicity, same sex fetuses & weight discordancy. 
+● Complications: 
+1) Maternal: Coagulopathy. 
+2) Fetal: Risk of death of surviving twin is 6 fold greater depending on: 
+a) Chorionicity. 
+b) GA at time of demise. 
+c) Length of time between demise & delivery of surviving twin. 
+ 
+
+Multifetal (multiple) pregnancy 
+ 
+ 
+267
+C) Discordant growth: 
+● Definition: Size inequality of fetuses that may be sign of pathological IUGR in one 
+fetus. 
+● Incidence: 10-15% of twins. 
+● Etiology: 
+1) Placental vascular connections. 
+2) Genetic dissimilarity of dizygotic twins. 
+3) Unequal placental implantation sites (suboptimal implantation of one placenta). 
+● Complications: 
+1) ↑↑ incidence of congenital anomalies. 
+2) Physical & intellectual sequels late in life. 
+● Diagnosis: ≥ 15% difference in estimated fetal weight by ultrasound (larger twin is 
+used as index). 
+D) Twin to twin transfusion syndrome (TTTS): 
+● Definition: Blood transfusion from one fetus (donor) to the other (recipient) due to 
+presence of uncompensated intraplacenta`,
+  "Prematurity": `Prematurity & preterm labor 
+ 
+ 
+276
+PREMATURITY & PRETERM LABOR 
+Introduction: 
+● Classification of fetuses & neonates according to GA: 
+1) Preterm: GA < completed 37 weeks (from 20 weeks 
+up to < 37 weeks) & it is classified according to WHO 
+(2015) into: 
+a) Extremely preterm: from 20 up to < 28 weeks. 
+b) Very preterm: GA from 28 up to < 32 weeks. 
+c) Moderate to late preterm: from 32 up to < 37 
+weeks. 
+2) Term: GA from 37 week up to 42 weeks. 
+3) Postterm: GA > completed 42 weeks. 
+● Classification of fetuses according to fetal weight in relation to GA: 
+1) Small for GA (SGA): Fetal weight < 10th percentile for GA or fetal weight ≥ 2 SD 
+below mean for its GA (SGA fetuses include IUGR or constitutionally small but healthy 
+fetus). 
+2) Appropriate for GA (AGA): Fetal weight between 10th & 90th percentile for GA. 
+3) Large for GA (LGA): Fetal weight > 90th percentile for GA or fetal weight ≥ 2 SD 
+above mean for its GA or 
+● Classification of neonates according to birth weight: 
+1) Normal birth weight: Neonates with birth weight > 2500 gm. 
+2) Low birth weight (LBW): Neonates with birth weight ≤ 2500 gm regardless GA 
+(LBW infants include preterm & growth retarded infants). 
+3) Very LBW: Neonates with birth weight < 1500 gm regardless GA. 
+Definitions: 
+● Preterm labor (premature 
+labor): Onset of labor after fetal 
+viability & before completed 37 
+weeks GA. 
+● Prematurity: 
+Baby 
+needs 
+artificial aids to maintain life 
+(needs 
+incubation) 
+due 
+to 
+deficiency 
+of 
+different 
+body 
+functions to face extrauterine life. 
+Incidence: 7% of all deliveries. 
+Etiology & risk factors: 
+A) Maternal factors: 
+1) Obstetric history: Previous preterm labor or previous midtrimester abortion. 
+
+Prematurity & preterm labor 
+ 
+ 
+277
+2) Primigravida: Specially young (< 20 years) or elderly (> 35 years) primigravida. 
+3) Low SES: Due to poor nutrition, poor hygiene & lack of ANC. 
+4) Malnutrition. 
+5) Maternal diseases: PIH, DM, heart diseases, renal diseases & anemia. 
+6) Uterine abnormalities: Congenital anomalies, cervical incompetence & fibroid. 
+7) Smoking. 
+B) Fetal factors: Fetal anomalies, multiple, infections as TORCH & IUFD. 
+C) Obstetric complications: 
+Polyhydramnios, 
+PPROM, 
+chorioamnionitis, 
+placenta 
+previa, placental abruption, & pregnancy on top of IUD. 
+D) Iatrogenic factors: Premature induction of labor, ECV, amniocentesis or surgery. 
+E) Idiopathic: In 50% of cases. 
+Importance of prematurity: 
+● Survival chance: Is directly proportional to GA & birth weight 
+(only 20% survive if birth weight is ≤ 1 kg compared to 85% if 
+birth weight is around 2.5 kg). 
+● Immediate mortality rate: 10-15% (1/2 of neonatal deaths & 
+1/2 of stillbirths are derived from prematurity). 
+Complications of prematurity: 
+A) Short term (immediate) effects: 
+1) Respiratory disorders: 
+● Incidence: Asphyxia accounts for majority of neonatal deaths 
+among prematures. 
+● Causes: 
+a) Respiratory distress syndrome (RDS): 
+Acute 
+respiratory 
+distress resulting from failure of proper lung expansion due 
+to deficient pulmonary surfactant (phospholipid secreted by 
+pneumocytes type II). 
+b) ↓↓ lung distensibility. 
+c) Immaturity of respiratory center. 
+d) ↑↑ incidence of respiratory infection. 
+2) Intracranial Hge (ICH): 
+● Incidence: > 10% of prematures. 
+● Causes: 
+a) Hypoprothrombinemia. 
+b) Immature vascular bed in germinal matrix prior to 35 weeks 
+gestation. 
+c) Softness of skull allows rapid & dangerous moulding. 
+3) Hyperbilirubinemia: Liver is unable to conjugate bilirubin from blood sufficiently due 
+to enzymatic immaturity. 
+4) Kidney immaturity: Limited ability to excrete solutes in urine. 
+5) Anemia: Due to poor iron stores (which are mainly laid down in last few weeks of 
+pregnancy) & slow synthesis of Hb molecule. 
+
+Prematurity & preterm labor 
+ 
+ 
+278
+6) Malnutrition: Develops easily due to poor suckling & immature digestive & metabolic 
+processes. 
+7) ↓↓ resistance to infection: Due to poor passive immunity (which 
+is usually acquired from mother near term). 
+8) Hypothermia: Due to: 
+a) Poor heat production: Due to defective nutrition & metabolism 
+(less calories production) & poor muscular system (less heat 
+production). 
+b) Excess heat loss: Due to poor SC fat & large surface area 
+relative to weight. 
+c) Immature heat regulating center. 
+9) Hypoglycemia: Due to poor glycogen stores. 
+ 10) Hypocalcemia: Manifested by clonus, tremors or convulsions. 
+B) Long term effects: ↑↑ incidence of underdevelopment & neurological & intellectual 
+abnormalities later in life. 
+Diagnosis of preterm labor: 
+A) Prediction: 
+1) Risk factors: The best single predictor of subsequent preterm labor is history of 
+previous preterm labor. 
+2) Biochemical markers: Detection of fetal fibronectin (glycoprotein synthesized in 
+choriodecidual interface) in cervicovaginal secretions. 
+3) Ultrasound: Measurement of cervical length (cervicometry). 
+B) Manifestations of threatened preterm labor: 
+1) Regular uterine contractions with minimal pain (menstrual like cramps). 
+2) Constant dull low backache. 
+3) Pelvic or lower abdominal pressure. 
+4) ↑↑ amount of vaginal discharge. 
+5) Change in type (watery, mucus or bloody) of vaginal discharge. 
+6) ROM. 
+7) Cervix is soft & central in position (i.e. not sacralized). 
+C) Criteria to document preterm labor: (ACOG, 1997) 
+1) 4 contractions in 20 minutes or 8 contractions in 60 minutes + progressive cervical 
+effacement & dilatation. 
+2) Cervical dilatation > 1 cm. 
+3) Cervical effacement ≥ 80%. 
+Diagnosis of prematurity: 
+A) Before 
+delivery: 
+Tests 
+for 
+determination of fetal maturity ( ). 
+B) After 
+delivery: 
+Features 
+of 
+prematurity at birth: 
+1) Birth weight: < 2.5 kg (if preterm 
+appropriate for GA). 
+
+Prematurity & preterm labor 
+ 
+ 
+279
+2) Crown-heel length: < 50 cm. 
+3) Head circumference (HC): < 35 cm. 
+4) Head size relative to body size: Greater than at term. 
+5) Skull: Thin widely separated skull bones with wide fontanelles. 
+6) Scalp hair: Fine. 
+7) Ears: Soft & flabby (little or no cartilage). 
+8) Skin: Bright red in color (little SC fat) & thin & wrinkles easily. 
+9) Lanugo hair: Excessive. 
+ 10) Vernix caseosa: Scanty or absent (immature skin glands don't secrete vernix). 
+ 11) Finger nails: Don't reach or just at finger tips. 
+ 12) Sole creases: Anterior crease only (36 weeks). 
+ 13) Genitalia: 
+a) Male: Small scrotum with undescended testicles. 
+b) Female: Prominent clitoris & widely separated labia majora. 
+ 14) Respiration: Irregular with periods of apnea. 
+ 15) Muscle tone & neurological reflexes: Poor. 
+Prevention of preterm labor: 
+A) General measures: 
+1) Health education about preterm labor. 
+2) Improvement of standard of life & prevention of malnutrition during pregnancy. 
+3) Prohibition of smoking. 
+4) Correction of uterine abnormalities before pregnancy. 
+5) Proper ANC & management of any maternal disease or obstetric complication. 
+6) Treatment of cervical & vaginal infection. 
+7) Avoid coitus between 20 & 36 weeks specially in high r`,
+  "Prolonged Pregnancy": `Prolonged pregnancy 
+ 
+ 
+283
+PROLONGED PREGNANCY 
+Definitions: 
+● Postdate pregnancy: Pregnancy beyond EDD but not > completed 42 weeks. 
+● Postterm pregnancy: GA > completed 42 weeks (> 294 days). 
+● Postmature: Clinical syndrome that describe infant with clinical features indicating 
+pathologically prolonged pregnancy. 
+Incidence: Postterm pregnancy occurs in 7% of pregnancies. 
+Etiology: Exact cause & mechanism aren't clear. 
+A) Maternal: 
+1) Miscalculation: Commonest cause. 
+2) Familial & genetic factors. 
+3) Poor nutrition. 
+B) Fetal & placental: with intact fetal hypothalamic-pituitary axis → stimulus from fetal 
+brain stimulates ACTH production → stimulates fetal adrenal gland to secrete cortisol 
+(which stimulates secretion of PGs from fetal membranes) & DHEAS (which is 
+converted by placental sulphatase enzyme into E2 which is essential in ↑↑ myometrial 
+activity) so, disturbance of this mechanism will delay labor as in: 
+1) Anencephaly: Absence of fetal cranium prevents stimulus which activates fetal 
+hypothalamic-pituitary axis. 
+2) Congenital adrenal hyperplasia (CAH): No response to ACTH stimulation. 
+3) Placental sulphatase enzyme deficiency: No conversion of DHEAS to E2. 
+Complications: 
+A) Oligohydramnios: Leading to cord compression & prolonged labor. 
+B) Placental insufficiency: Leading to fetal hypoxia or even IUFD. 
+C) Dystocia: Due to non mouldable head, large shoulders & oversized fetus. 
+D) Postmaturity syndrome. 
+E) Meconium aspiration syndrome. 
+Diagnosis: 
+A) During pregnancy: 
+1) History & examination: For determination of fetal age ( ). 
+2) Investigations: For determination of fetal age (ultrasound & X-ray) & evaluation of 
+fetal wellbeing (biophysical & biochemical assessment). 
+B) After delivery: Features of potterm baby at birth: 
+1) Birth weight: > 4.5 kg. 
+2) Crown-heel length: > 54 cm. 
+3) Skull: Large & well ossified with small anterior fontanelle. 
+4) Skin: Dry & cracked & may be meconium stained. 
+5) Finger nails: Project beyond finger tips. 
+
+Prolonged pregnancy 
+ 
+ 
+284
+Management: 
+A) Expectant management: Waite for spontaneous onset of labor (occurs in 60% at 
+40-41 weeks & in 80% by 43 weeks) with careful observation of fetal wellbeing 
+(perform NST, CST & BPP twice weekly while waiting for spontaneous onset of labor). 
+B) Active management (TOP): 
+● Indications: 
+1) Pregnancy > 42 weeks. 
+2) Fetus is at risk (evidence of placental insufficiency by NST, CST & BPP). 
+● Methods: 
+1) Vaginal delivery (induction of labor): The rule unless CS is indicated. 
+■ Method: 
+a) PGs (to ripen cervix) ± oxytocin. 
+b) AROM (if cervix is favorable) ± oxytocin. 
+■ Precautions during vaginal delivery: 
+a) Avoid EROM (AF is little). 
+b) Partogram & continuous fetal monitoring. 
+c) Shoulder dystocia should be anticipated & managed if occurred. 
+2) Cesarean section: If there is fetal distress, failed induction, other indication for CS. 
+C) Neonatal care: Examination for congenital anomalies & treatment of complications 
+Postmaturity syndrome: 
+● Definition: Postterm fetus with evidence of placental insufficiency. 
+● Incidence: 10% in pregnancies at 41-43 weeks & 
+33% of pregnancies at 44 weeks. 
+● Etiology: Fetus outgrows its placental supply &/or 
+placental functions deteriorate (placental aging). 
+● Diagnosis: 
+1) During pregnancy: 
+a) Clinical: 
+1- Mother fails togain weight or even loses weight. 
+2- Fundal level is < period of amenorrhea. 
+3- Abdominal girth is subnormal. 
+b) Investigations: 
+1- Biophysical: Low score of BPP. 
+2- Biochemical: Serum HPL, urinary E3 & other 
+placental function tests. 
+2) After delivery: 
+a) Fetus is under weight with dry, wrinkled & meconium stained skin. 
+b) Fetal surface of placenta & umbilical cord may also be meconium stained. 
+c) Long thin body (wasting). 
+d) Nails are quiet long & extend beyond finger tips. 
+e) Infant looks old & alert with worried looking. 
+
+Intrauterine growth restriction (IUGR) 
+ 
+ 
+285
+INTRAUTERINE GROWTH RESTRICTION (IUGR) 
+Definition: Fetal weight < 10th percentile for GA due 
+deficient O2 or nutritional supply or utilization. 
+Etiology: 
+A) Maternal causes: 
+1) Diseases: Hypertensive disorders, DM, heart diseases, 
+chronic renal diseases, anemia, APS & autoimmune 
+diseases (as SLE). 
+2) Malnutrition. 
+3) Infection: STORCH & chronic infection. 
+4) Chemicals: Smoking, narcotics addiction & drug abuse. 
+5) Ionizing radiation. 
+6) High attitude: Due to relative hypoxia. 
+B) Fetal causes: 
+1) Chromosomal abnormalities: As Down's syndrome & 
+Turner's syndrome. 
+2) Congenital malformations: As renal agenesis & 
+anencephaly. 
+3) Ectopic pregnancy. 
+4) Multifetal pregnancy. 
+5) Postmaturity. 
+6) Rh isoimmunization. 
+C) Placental & cord causes: 
+1) Placental insufficiency: 
+Due 
+to 
+small 
+placenta, 
+placental 
+thrombosis, 
+multiple 
+placental infarcts & placental aging. 
+2) Partial placental abruption. 
+3) Placental 
+abnormalities: 
+Circumvallate 
+placenta. 
+D) Cord Causes: 
+1) Marginal or velamentous insertion of 
+cord. 
+2) Single umbilical artery. 
+D) Obstetric complications: Pregnancy on top of IUD, threatened abortion or APH. 
+E) Idiopathic: In 40% of cases. 
+Types: 
+A) Symmetrical IUGR 
+B) Asymmetrical IUGR 
+20% of cases 
+80% of cases 
+Usually due to chromosomal, congenital 
+Usually due to placental insufficiency,`,
+  "Intrauterine Growth Restriction (IUGR)": `Intrauterine growth restriction (IUGR) 
+ 
+ 
+285
+INTRAUTERINE GROWTH RESTRICTION (IUGR) 
+Definition: Fetal weight < 10th percentile for GA due 
+deficient O2 or nutritional supply or utilization. 
+Etiology: 
+A) Maternal causes: 
+1) Diseases: Hypertensive disorders, DM, heart diseases, 
+chronic renal diseases, anemia, APS & autoimmune 
+diseases (as SLE). 
+2) Malnutrition. 
+3) Infection: STORCH & chronic infection. 
+4) Chemicals: Smoking, narcotics addiction & drug abuse. 
+5) Ionizing radiation. 
+6) High attitude: Due to relative hypoxia. 
+B) Fetal causes: 
+1) Chromosomal abnormalities: As Down's syndrome & 
+Turner's syndrome. 
+2) Congenital malformations: As renal agenesis & 
+anencephaly. 
+3) Ectopic pregnancy. 
+4) Multifetal pregnancy. 
+5) Postmaturity. 
+6) Rh isoimmunization. 
+C) Placental & cord causes: 
+1) Placental insufficiency: 
+Due 
+to 
+small 
+placenta, 
+placental 
+thrombosis, 
+multiple 
+placental infarcts & placental aging. 
+2) Partial placental abruption. 
+3) Placental 
+abnormalities: 
+Circumvallate 
+placenta. 
+D) Cord Causes: 
+1) Marginal or velamentous insertion of 
+cord. 
+2) Single umbilical artery. 
+D) Obstetric complications: Pregnancy on top of IUD, threatened abortion or APH. 
+E) Idiopathic: In 40% of cases. 
+Types: 
+A) Symmetrical IUGR 
+B) Asymmetrical IUGR 
+20% of cases 
+80% of cases 
+Usually due to chromosomal, congenital 
+Usually due to placental insufficiency, 
+
+Intrauterine growth restriction (IUGR) 
+ 
+ 
+286
+or infective causes 
+maternal disease & chronic malnutrition 
+Early stage of IUGR 
+Late stage of IUGR 
+Growth impairment involves all body 
+structures including internal organs 
+& brain 
+Growth impairment involves body 
+but not brain tissues (sparing effect) 
+so, head is large in comparison to body 
+Not correctable with poor prognosis 
+Treated by treating the maternal cause 
+Complications: 
+A) Short term: 
+1) Oligohydramnios with its all 
+complications. 
+2) Fetal distress ,IUFD. 
+3) Asphyxia neonatorum: 
+As 
+extension 
+of 
+intrauterine 
+asphyxia or due to meconium 
+aspiration. 
+4) Bleeding 
+tendency: 
+May 
+cause pulmonary Hge & death. 
+5) Polycythemia: Chronic intrauterine fetal hypoxia → ↑↑ erythropoietin production → ↑↑ 
+erythropoiesis. 
+6) Hyperbilirubinemia: Due to ↑↑ hemolysis in cases of polycythemia. 
+7) Hypothermia: Due to poor SC fat & large surface area relative to weight. 
+8) Hypoglycemia: Due to poor glycogen stores, ↑↑ glucose demands (to keep 
+temperature). 
+9) Hypocalcemia: Manifested by clonus, tremors or convulsions. 
+B) Long term effects: ↑↑ incidence of stunted growth, neural handicapping, behavioral 
+changes & lower IQ later in life. 
+Diagnosis: 
+A) Before delivery: 
+1) History: For determination of fetal age ( ) & detection of the cause. 
+2) Examination: 
+a) The cause may be detected. 
+b) Poor maternal weight gain or even loss during pregnancy. 
+c) Fundal level is < period of amenorrhea (except in multifetal pregnancy). 
+d) Signs of oligohydramnios (easily felt fetal parts & hyperflexed fetal attitude). 
+3) Investigations: 
+a) Determination of fetal age & evaluation of fetal growth: By ultrasound. 
+1- Serial BPD measures: Lag of ≥ 2 weeks than GA = symmetrical IUGR. 
+2- Serial FL measures: Lag of ≥ 2 weeks than GA with normal BPD = asymmetrical 
+IUGR. 
+3- Serial AC measures: Useful in monitoring fetal growth. 
+4- HC/AC ratio: ↑↑ in asymmetrical IUGR. 
+
+Intrauterine growth restriction (IUGR) 
+ 
+ 
+287
+b) Evaluation of fetal wellbeing: 
+1- DFMC: < 10 movements / 12 hrs. 
+2- NST: Non reactive. 
+3- CST: Persistent late deceleration with ≥ 50% of contractions. 
+4- BPP: Low score (poor). 
+5- Doppler ultrasound: Shows ↑↑ umbilical 
+artery S/D ratio due to high resistance in 
+distal vascular bed in placenta (specially in 
+asymmetrical IUGR). 
+6- Amnioscopy: Meconium stained liquor. 
+7- Hormonal assessment: Not used. 
+c) Diagnosis of congenital anomalies. 
+B) After delivery: Neonate shows signs of 
+dysmaturity. 
+1) ↓↓ birth weight. 
+2) Dry wrinkled skin & thin triceps skin fold 
+thickness. 
+3) Low 
+placental 
+weight 
+& 
+other 
+placental 
+abnormalities may be evident. 
+4) Meconium 
+staining 
+of 
+baby, 
+placenta 
+& 
+umbilical cord. 
+Management: 
+A) Antenatal: 
+1) Meticulous searching for congenital anomalies. 
+2) Hospitalization & bed rest in Lt lateral position to prevent supine hypotension (this ↑↑ 
+placental blood flow by 25%). 
+3) Adequate diet & stopping of smoking & alcohol intake. 
+4) Diagnosis & treatment of any associated maternal problem (in asymmetrical IUGR). 
+5) Using measures that ↑↑ placental blood flow (low dose aspirin or heparin). 
+6) Monitoring of fetal wellbeing. 
+7) Determination of fetal maturity. 
+8) TOP is according to balance between risks of intrauterine asphyxia & risks of 
+prematurity. 
+B) Intranatal: 
+● Method of delivery: 
+■ Mode of delivery is influenced by GA, result of CST & associated factors (as APH, 
+malpresentations, previous CS,……etc.). 
+■ CS is more preferred (specially if there are associated adverse factors) as fetus 
+doesn't tolerate ↓↓ O2 supply & birth trauma encountered during vaginal delivery. 
+● Precautions during vaginal delivery: Partogram & continuous fetal monitoring. 
+C) Postnatal: Diagnosis & treatment of problems of dysmaturity (complications). 
+ 
+
+Fetal & neonatal asphyxia 
+ 
+ 
+288
+FETAL & NEONATAL ASPHYXIA 
+ 
+Fetal distress (Intrauterine asphyxia) 
+Definition: State of inadequate oxygenation & inadequate elimination of CO2 that results 
+in metabolic acidosis if persists for long time. 
+Types: 
+A) Acute: Occurs during labor. 
+B) Chronic: Occurs during pregnancy (etiology, diagnosis & management → as IUGR). 
+Acute fetal distress (Intrapartum asphyxia) 
+Etiology: 
+A) Maternal causes: 
+1) Hypoxic anoxia: Due to pulmonary obstruction, pulmonary TB, bilateral pneumonia, 
+prolonged anesthesia & convulsive fits. 
+2) Stagnant hypoxia: Due to HF, pulmonary edema & severe shock. 
+3) Anemic anoxia: Due to severe anemia (from Hge). 
+4) Histotoxic anoxia: As in barbiturate poisoning. 
+B) Fetal causes: Cerebral edema & ischemia from prolonged labor or difficult forceps 
+(due to ICH or depressed skull fractures). 
+C) Placental causes 
+1) Placental insufficiency: Due to small placenta, placental thrombosis, multiple 
+placental infarcts & placental aging. 
+2) Placental separation: As in placenta previa & accidental Hge. 
+3) Placental compression: Due to tetanic uterine contraction, prolonged labor after 
+ROM or compression by head in placenta previa type II posterior. 
+D) Cord causes: 
+1) Cord prolapse: Leading to cord compression & vasospasm of its vessels. 
+2) Cord compression: By uterine contraction after drainage of liquor or by forceps 
+blades. 
+3) Hematoma, True knots, or tight coils of cord around fetal neck. 
+4) Avulsion of cord or rupture of vasa previa. 
+Diagnosis: By intrapartum evaluation of fetal wellbeing. 
+A) Examination of AF: Meconium stained liquor in cephalic presentation. 
+B) Intrapartum FHR monitoring: Alteration in features of FHR tracing. 
+1) Baseline rate: Tachycardia (early`,
+  "Maternal Injuries": `Instrumental delivery 
+ 
+ 
+329
+C) Less discomfort & pain perception. 
+D) Less maternal injuries. 
+E) No fetal head compression (less trauma to fetal head). 
+F) Can be used with incompletely dilated cervix (use of ventouse before full cervical 
+dilatation should be reserved for cases with fetal distress where delivery is imminent & 
+labor is progressing well). 
+G) Doesn't penetrate deeply into genital tract & doesn't interfere with pelvic capacity. 
+H) No excessive force is used. 
+I) Used for unrotated head (as OP). 
+Complications: Less frequent than forceps. 
+A) Maternal: 
+1) Genital tract injuries: Perineal tears & vaginal & cervical lacerations (if included 
+under cup). 
+2) Manual removal of placenta. 
+3) PPH. 
+4) Puerperal sepsis. 
+B) Fetal: 
+1) Cephalhematoma. 
+2) ICH. 
+3) Ulcers & bruises of fetal scalp. 
+Failed ventouse: 
+● Definition: Failure of delivery of fetus with 3 pulls within 15 minutes from start of the 
+procedure. 
+● Causes: 
+1) Maternal factors: 
+a) Contracted pelvis. 
+b) Poor maternal effort. 
+2) Fetal factors: 
+a) Misdiagnosed position & attitude of head. 
+b) CPD. 
+c) High head. 
+3) Iatrogenic factors: 
+a) Failure to use proper instrument (silicone rubber cup fails with deflexion, excessive 
+caput, large baby & prolonged 2nd stage). 
+b) Anterior or lateral placement of cup. 
+c) Traction in wrong direction. 
+● Management: Forceps or CS. 
+
+Obstetric version 
+ 
+ 
+330
+OBSTETRIC VERSION 
+Definition: Procedure by which unfavorable fetal lie or presentation is changed to 
+favorable one (when head is made to present, version is called cephalic & when breech is 
+made to present, version is called podalic). 
+Types: 
+A) External version: When performed by external (abdominal) manipulations. 
+1) External cephalic version (ECV): If head is made to present. 
+2) External podalic version: If breech is made to present (it is rarely done in cases of 
+transverse lie if ECV has failed). 
+B) Internal podalic version (IPV): one hand introduced into uterus through fully 
+dilated cervix & the other hand on abdomen. 
+C) Bipolar podalic version (BPV): 2 fingers introduced into uterus through 
+incompletely dilated cervix & the other hand on abdomen. 
+External cephalic version (ECV): See breech presentation (in details). 
+Internal podalic version (IPV): 
+● Definition: Procedure in which fetus is turned into breech presentation by combined 
+internal (vaginal) & external (abdominal) manipulations. 
+● Indications: 
+1) Retained 2nd twin (to save fetus if there is fetal 
+distress). 
+2) Transverse lie with small dead fetus. 
+● Prerequisites: 
+1) No contracted pelvis or fetopelvic disproportion. 
+2) No uterine scar or tonically contracted uterus. 
+3) Cervix must be fully dilated. 
+4) Membranes are intact or recently ruptured. 
+5) Complete asepsis. 
+6) Empty bladder & rectum. 
+7) Preliminary ultrasound (for detection of fetal back 
+position & site of limbs). 
+● Technique: 
+1) Lithotomy position with buttocks little passed the end of table. 
+2) Deep general anesthesia to relax uterus to facilitate turning of fetus. 
+3) One hand is introduced into uterus & foot is grasped & drawn gently down into vagina 
+& at the same time, head is pushed up towards fundus by external hand (when knees 
+appear at vulva & head is in fundus → version has been completed). 
+4) Extraction of fetus by breech extraction. 
+
+Obstetric version 
+ 
+ 
+331
+● After procedure: Explore birth canal to detect any laceration & give antibiotics 
+immediately after delivery. 
+● Complications: 
+1) Maternal: 
+a) Anesthetic complications. 
+b) Rupture uterus. 
+c) Laceration of cervix. 
+d) PPH. 
+e) Puerperal sepsis. 
+2) Fetal: Risks of breech delivery (asphyxia, fetal birth injuries & ICH). 
+● Contraindications: 
+1) Contracted pelvis or fetopelvic disproportion. 
+2) Uterine scar or tonically contracted uterus. 
+3) Constriction or retraction ring. 
+4) Incompletely dilated cervix. 
+5) Membranes are ruptured (> 1 hour). 
+6) Oligohydramnios. 
+● Causes of failure of IPV: 
+1) Twins, large sized fetus or congenital fetal anomalies. 
+2) Short umbilical cord or coils of cord around neck. 
+3) Oligohydramnios. 
+4) Irritable uterus or uterine anomalies. 
+Bipolar podalic version (BPV): 
+● History: It was introduced by Braxton Hicks in 1860 for treatment of placenta previa 
+but it isn't used in modern obstetrics because fetal mortality is very high. 
+● Aim: Its aim is to compress placenta by fetal buttock to ↓↓ bleeding. 
+● Differences between BPV & IPV: 
+1) Whole hand isn't introduced into uterus. 
+2) It can be done with incompletely dilated cervix. 
+3) It is done only if fetus is dead or deformed. 
+● Technique: Is somewhat similar to IPV but difference is that BPV is done by passing 2 
+fingers through partially dilated cervix & after doing version, bring down leg & wait for full 
+cervical dilatation then fetus is delivered by spontaneous or assisted breech delivery. 
+ 
+
+Induction of abortion & labor 
+ 
+ 
+332
+INDUCTION OF ABORTION & LABOR 
+ 
+Induction of abortion 
+Definition: Artificial TOP before fetal viability (20 weeks or 500 gm fetal weight). 
+Types of induced abortion: 
+A) Therapeutic abortion: Artificial TOP before fetal viability by obstetrician due to 
+physical or mental maternal disorder or fetal cause (as congenital anomalies) that would 
+make continuation of pregnancy undesirable. 
+B) Elective (voluntary) abortion: Artificial TOP before fetal viability on woman 
+request with no medical indication. 
+C) Criminal (illegal) abortion: Attempts of TOP before fetal viability by non medical 
+personnel with no medical indication. 
+Indications of therapeutic abortion: 
+A) Maternal: 
+1) Acute polyhydramnios. 
+2) Hyperemesis gravidarum (certain indications). 
+3) Medical disorders: 
+a) Severe chronic HTN & chronic nephritis with degenerative vascular changes in renal 
+or retinal blood vessels. 
+b) DM (with vascular degeneration & HTN). 
+c) Heart diseases (certain indications). 
+d) Pulmonary insufficiency & active TB. 
+4) Mental disorders (as extreme depression & anxiety). 
+5) Malignancy needing immediate chemotherapy or radiotherapy. 
+6) Exposure to teratogenic drug or high dose radiation. 
+7) Rubella infection (< 10 weeks). 
+B) Fetal: 
+1) Missed or septic abortion. 
+2) Vesicular mole. 
+3) Rh isoimmunization (if there is history of ≥ 2 stillbirths due to hemolysis & father is 
+homozygous Rh +ve). 
+4) Fetal congenital anomalies & genetic abnormalities. 
+Methods of induction of abortion: Depend on duration of pregnancy. 
+A) Medical methods: 
+1) During 1st trimester: 
+a) PGs: Misoprostol 200 μg/12 hours vaginally. 
+
+Induction of abortion & labor 
+ 
+ 
+333
+b) Mifepristone (RU 486): Antiprogesterone that may be used in women with < 50 
+days pregnancy (6-7 weeks). 
+2) During 2nd trimester: 
+a) PGs: Misoprostol 200 μg/12 hours vaginally. 
+b) Oxytocin: High doses in small volumes of IV fluids (50 IU in 500 ml saline or Ringer 
+lactate solution) given in rate of 50 mIU/min to be ↑↑ every 30-40 minutes up to 
+maximum rate of 200 mIU/min. 
+B) Surgical metho`,
+  "Obstetric Analgesia & Anesthesia": `Analgesia & anesthesia in obstetrics 
+ 
+ 
+350
+ANALGESIA & ANESTHESIA IN OBSTETRICS 
+Definitions: 
+● Analgesia: Relief of pain without loss of consciousness. 
+● Local & regional anesthesia: Blocking nerves or nerve roots carrying pain signals 
+from localized areas of body. 
+● General anesthesia: Loss of consciousness. 
+Safety: Anesthetic complications are significant cause of maternal morbidity & mortality 
+& accounts for approximately 4% of maternal deaths. 
+Changes in pregnancy that affects anesthesia: 
+A) More difficult intubation: Due to ↑↑ weight, ↑↑ breast size, airway soft tissue 
+edema & additional edema from preeclampsia. 
+B) Cardiovascular changes: See maternal changes during pregnancy. 
+C) Respiratory changes: See maternal changes during pregnancy. 
+D) Gastrointestinal changes: ↓↓ gastric motility & ↓↓ tone of lower esophageal 
+sphincter ↑↑ risk of aspiration in pregnant women. 
+Neuropathways of obstetric pain: 
+A) Pain produced by uterine contractions: T10 – L1. 
+B) Distention of lower vagina & perineum: S2, S3 & S4 via pudendal nerve. 
+Severity of labor pains (pain rating): The more severe the pain the more its 
+memory is obliterated (amnesia for pain of labor). 
+A) 2% painless labor. 
+B) 28% moderate pain. 
+C) 36% severe pain. 
+D) 34% intolerable pain. 
+Value of pain relief: It ↓↓ maternal anxiety & psychological stress that may result in 
+prolonged labor, maternal & fetal metabolic acidosis & ↓↓ uteroplacental perfusion. 
+Methods of giving information to mother about pain & analgesia: 
+A) Midwives (they are the ideal people to inform women about pain & its relief). 
+B) Individual experience. 
+C) Friends & relatives. 
+D) Caregivers. 
+ 
+ 
+E) Anesthetist. 
+F) Books. 
+ 
+ 
+ 
+G) Videos. 
+H) Antenatal classes. 
+Methods of pain control in labor: 
+A) Support during labor: By partner, midwife or 
+doula. 
+B) Non pharmacological methods: 
+1) Techniques that ↓↓ pain stimuli: 
+a) Maternal movement & position changes. 
+
+Analgesia & anesthesia in obstetrics 
+ 
+ 
+351
+b) Counter pressure on back & both hips. 
+c) Abdominal decompression. 
+2) Techniques that activate peripheral sensory receptors: 
+a) Superficial heat & cold. 
+b) Immersion in water during labor & birth (birth pool). 
+c) Touch & massage. 
+d) Acupuncture & acupressure. 
+e) Transcutaneous electric nerve stimulation (TENS). 
+f) Intradermal injection of water (0.1 ml at 4 spots at border of sacrum). 
+g) Aromatherapy (use of essential oils as lavender, rose & chamomile). 
+3) Techniques that enhance descending inhibitory pathways: 
+a) Attention focusing & distraction. 
+b) Hypnosis. 
+c) Music & audio analgesia. 
+C) Pharmacological methods: 
+1) Systemic agents (narcotics & sedatives): 
+● Medications: Meperidine (pethidine), Morphine & Fentanyl. 
+● Risks: 
+a) Maternal: 
+Hypotension, 
+nausea, 
+vomiting, 
+excessive 
+sedation, 
+respiratory 
+depression, impaired protective airway reflexes & itching. 
+b) Fetal: ↓↓ FHR variability. 
+c) Neonatal: Respiratory depression & impaired breastfeeding (if given within 2-4 
+hours from delivery). 
+● Narcotic antagonist: Naloxone (0.1 mg/kg IM or IV for neonate). 
+2) Local & regional anesthesia: 
+a) Local infiltration of perineum: For episiotomy. 
+b) Paracervical block: Rarely used due to associated fetal bradycardia. 
+c) Pudendal nerve block: 
+● Provides perineal anesthesia by anesthetizing pudendal nerve. 
+● Works well for vaginal delivery & episiotomy repair but doesn't provide adequate 
+anesthesia for forceps delivery. 
+d) Spinal anesthesia: 
+● Uses: 
+Useful 
+when 
+maternal 
+participation is no longer needed (as 
+in assisted vaginal delivery, CS & 
+extraction of retained placenta). 
+● Advantages: rapid onset & easier to 
+administer than epidural anesthesia. 
+● Complications: 
+1- Hypotension 
+(commonest 
+
+Analgesia & anesthesia in obstetrics 
+ 
+ 
+352
+complication). 
+2- High spinal block with respiratory paralysis. 
+3- Spinal headache: 
+■ Etiology: Leakage of CSF from site of dural puncture. 
+■ Treatment: Most effective treatment is epidural blood patch. 
+e) Epidural anesthesia: 
+● Uses: pain relief during vaginal 
+delivery or CS. 
+● Complications: Hypotension, spinal 
+headache, 
+inadvertent 
+spinal 
+anesthesia & IV injection of local 
+anesthetic. 
+3) General anesthesia: 
+● Uses: 
+a) Obstetric 
+emergencies 
+(if fetus 
+must be delivered quickly). 
+b) If uterine relaxation is necessary. 
+c) If medical condition of mother prohibits use of spinal or epidural anesthesia (as in 
+coagulation disorders or back problems). 
+● Types: 
+a) Inhalation anesthetics: 
+1- Gases: Nitrous oxide (doesn't affect uterine contractions). 
+2- Volatile liquids: Halothane & Isoflurane (produce significant uterine relaxation 
+leading to PPH). 
+b) IV anesthetics: Thiopental & Ketamine. 
+● Aspiration pneumonitis: Commonest cause of anesthetic death in obstetrics. 
+■ Etiology: Inhalation of acidic gastric contents (PH < 2.5) → severe chemical 
+pneumonitis. 
+■ Signs: Tachypenia, hypotension, cyanosis, bronchospasm, ronchi, rales & atelectasis. 
+■ Prophylaxis: 
+a) Patient should fast for as long as possible before induction of general anesthesia. 
+b) After labor has begun, only clear liquids should be permitted. 
+c) Before induction of anesthesia, gastric acidity should be neutralized with antacids. 
+■ Treatment: 
+a) Suction. 
+b) O2 & ventilation. 
+c) Bronchoscopy. 
+d) Antibiotics.
+
+Maternal & perinatal mortality 
+ 
+ 
+353
+MATERNAL & PERINATAL MORTALITY 
+ 
+Maternal mortality 
+Definition: Death of woman while pregnant or within 42 days after TOP regardless size 
+or duration of pregnancy, from any cause related to or aggravated by pregnancy or its 
+management. 
+Types of maternal deaths: 
+A) Direct obstetric deaths: Result from obstetric complications of pregnancy, labor or 
+postpartum period (the 5 major causes are Hge, sepsis, complications of unsafe 
+abortion, PIH & obstructed labor) as well as interventions, incorrect treatment or events 
+resulting from any of these. 
+B) Indirect obstetric deaths: Result from previously existing diseases or from 
+diseases arising during pregnancy, which were aggravated by physiological effects of 
+pregnancy (e.g. DM, cardiovascular diseases, hepatitis, anemia, AIDS & malaria). 
+Measures of maternal mortality: 
+A) Maternal mortality ratio: Number of maternal deaths during given period / 100000 
+live births. 
+● In developed countries: 27/100000. 
+● In developing countries: 480/100000 (20 times higher) & may reach up to 
+1000/100000 in some regions. 
+B) Maternal mortality rate: Number of maternal deaths in given period / 100000 
+women in reproductive age (15-49 years). 
+Maternal mortality in Egypt: 
+● Maternal mortality ratio: 
+■ In 1991: 174/100000. 
+■ In 2000: 84/100000. 
+● Causes of maternal deaths: 
+1) Direct obstetric deaths: Usually due to one of the following major causes: 
+a) Hge (specially PPH): 25% of cases. 
+b) Sepsis: 15% of cases. 
+c) Complications of unsafe abortion: 13% of cases. 
+d) PIH (particularly eclampsia): 12% of cases. 
+e) Obstructed labor & rupture uterus: 8% of`,
+  "Maternal Mortality": `Maternal & perinatal mortality 
+ 
+ 
+355
+4) Dangers of certain traditional practices during pregnancy & childbirth. 
+Perinatal mortality 
+Definition: Total number of stillbirths delivered after 20 weeks gestation + total number 
+of 1st week neonatal deaths, regardless GA, expressed as a ratio of 1000 total births 
+occurring in population (i.e. perinatal mortality = [SB + 1st week neonatal deaths] / 1000 
+total births). 
+Causes & how to reduce mortality from each cause? 
+A) Prematurity: The leading cause of perinatal mortality. 
+1) Prediction of preterm labor. 
+2) Prevention & proper management of preterm labor. 
+B) Fetal malformations: Account for 25% of all perinatal deaths. 
+1) Periconceptional genetic counseling of couples at ↑↑ risk. 
+2) Periconceptional vitamin supplementation (specially folic acid to ↓↓ risk of NTDs). 
+3) Periconceptional control in diabetic patients. 
+4) Use of prenatal diagnosis of congenital anomalies & screening for chromosomal 
+abnormalities (specially Down's syndrome) to identify cases early & allow early TOP. 
+C) Birth trauma: 
+1) In breech delivery: 
+a) CS for all preterm breech fetuses. 
+b) Assessment of fetal size (by ultrasound) & pelvic capacity (by pelvimetry). 
+c) Facilities for immediate CS must be available. 
+2) Instrumental delivery: 
+a) Proper choice of forceps or ventouse (ventouse is preferable to forceps). 
+b) Midpelvic operations should be used as trial operations & if failed CS is indicated. 
+c) Facilities for immediate CS must be available. 
+D) Asphyxia (deaths of unknown cause): 
+1) Deaths of non malformed fetus at term: 
+a) Identification of risk factors (as poor weight gain, age, social class & smoking) is of 
+value in finding fetuses with IUGR. 
+b) Ultrasound screening of IUGR in 3rd trimester. 
+c) Evaluation of fetal wellbeing. 
+2) Deaths from hypoxia in preterm labor: 
+a) Intrapartum evaluation of fetal wellbeing. 
+b) Avoid anesthetics or other respiratory depressants that take long time to be 
+metabolized during preterm delivery. 
+c) Use epidural anesthesia & CS for very LBW babies. 
+E) APH: 
+1) Use of ultrasound for early detection of placenta previa. 
+
+Maternal & perinatal mortality 
+ 
+ 
+356
+2) Attention to high risk cases for placental abruption. 
+3) Hospitalization to be near to emergency services. 
+F) PIH: 
+1) Better assessment of fetal wellbeing. 
+2) Better specific antihypertensives & better anticonvulsant therapy. 
+3) Use of epidural anesthesia during labor & delivery. 
+G) Maternal diseases: As DM, chronic renal disease, renal transplantation or SLE. 
+1) Preconceptional control of DM. 
+2) Self monitoring of blood glucose & good control of diabetes. 
+3) HbA1c in later 1/2 of pregnancy identifies diabetic control. 
+H) Rh incompatibility: 
+1) Anti-D Ig administration when indicated. 
+2) New development (as intrauterine transfusion & oral erythrocyte membrane therapy) 
+may prevent some deaths. 
+I) Multifetal pregnancy: Prevention & proper management of multifetal pregnancy. 
+J) Infection: Prevention, early detection & proper treatment of infection. 
+Areas of improvement of perinatal mortality: 
+↓↓ 
+perinatal 
+mortality 
+is 
+accomplished by improvement of 3 main factors: 
+A) Improvement of community economic, social & educational standards: 
+Most important factor as rate of malformed & LBW babies are closely linked to adverse 
+SES. 
+B) Improvement of data collection system. 
+C) Improvement of obstetric care: 
+1) Improvement of ANC: 
+a) Specialist ANC should be available. 
+b) Antenatal clinics in areas of social deprivation will encourage more frequent & early 
+clinic visit. 
+c) Ancillary diagnostic facilities (as CTG) can be provided there as well. 
+d) Waiting time in clinic must be minimized. 
+e) Midwives, nurses & junior medical staff need education to cope with existing & new 
+technology. 
+2) Improvement of neonatal care: Improving management of neonatal ventilation, 
+nutrition & infecti on. 
+
+ 
+ 
+ جميع الحقوق محفوظة للمؤلف 
+: رقم اإليداع بدار الكتب والوثائق القومية 
+ 
+ : الترقيم الدولي 
+ : الناشر`,
+};

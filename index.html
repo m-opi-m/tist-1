@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obstetrics MCQ Quiz — Step by Step</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="logo">
+    Obstetrics Quiz
+    <span>Step by Step — MCQ Practice</span>
+  </div>
+  <div class="header-badge">AI-Powered</div>
+</header>
+
+<!-- LOADING OVERLAY -->
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div class="loading-text" id="loading-text">Generating questions with AI...</div>
+  <div class="loading-sub">Questions taken directly from the textbook</div>
+</div>
+
+<!-- HOME SCREEN -->
+<div id="home-screen" class="active">
+  <div class="home-wrap">
+    <div class="home-hero">
+      <h1>Obstetrics MCQ Quiz</h1>
+      <p>AI-generated MCQs per chapter — answers and explanations taken directly from your textbook.</p>
+      <div class="home-stats">
+        <div class="home-stat">
+          <div class="home-stat-val">30</div>
+          <div class="home-stat-lbl">Questions / Chapter</div>
+        </div>
+        <div class="home-stat">
+          <div class="home-stat-val" id="total-chapters-count">0</div>
+          <div class="home-stat-lbl">Chapters</div>
+        </div>
+        <div class="home-stat">
+          <div class="home-stat-val">AI</div>
+          <div class="home-stat-lbl">Powered</div>
+        </div>
+      </div>
+    </div>
+    <div id="sections-container"></div>
+  </div>
+</div>
+
+<!-- QUIZ SCREEN -->
+<div id="quiz-screen">
+  <div class="quiz-wrap">
+    <div class="quiz-topbar">
+      <button class="back-btn" onclick="goHome()">← Back to Chapters</button>
+      <div class="quiz-info">
+        <div class="quiz-score-badge">
+          Score: <span id="score-display">0</span>/<span id="total-display">30</span>
+        </div>
+        <div class="progress-wrap">
+          <div class="progress-bar-outer">
+            <div class="progress-bar-inner" id="progress-bar" style="width:0%"></div>
+          </div>
+          <span class="q-counter" id="q-counter">1/30</span>
+        </div>
+      </div>
+    </div>
+    <div class="chapter-banner" id="quiz-chapter-name"></div>
+    <div id="question-container"></div>
+  </div>
+</div>
+
+<!-- RESULT SCREEN -->
+<div id="result-screen">
+  <div class="result-wrap">
+    <div class="result-ring">
+      <div class="result-pct" id="result-pct">0%</div>
+      <div class="result-pct-lbl">Score</div>
+    </div>
+    <div class="result-title" id="result-title"></div>
+    <div class="result-msg" id="result-msg"></div>
+    <div class="result-stats">
+      <div class="stat-box">
+        <div class="stat-val g" id="res-correct">0</div>
+        <div class="stat-lbl">Correct</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-val r" id="res-wrong">0</div>
+        <div class="stat-lbl">Wrong</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-val n" id="res-total">30</div>
+        <div class="stat-lbl">Total</div>
+      </div>
+    </div>
+    <div class="result-btns">
+      <button class="btn-outline" onclick="retryQuiz()">🔁 Retry Chapter</button>
+      <button class="btn-primary" onclick="goHome()">📚 All Chapters</button>
+    </div>
+  </div>
+</div>
+
+<!-- SCRIPTS (order matters: chapters first, then quiz logic) -->
+<script src="chapters.js"></script>
+<script src="quiz.js"></script>
+
+</body>
+</html>
