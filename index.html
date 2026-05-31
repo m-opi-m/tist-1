@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Obstetrics Quiz — Step by Step</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0f1e;
+    --surface: #111827;
+    --surface2: #1a2235;
+    --border: #1e2d45;
+    --accent: #3b82f6;
+    --accent2: #60a5fa;
+    --green: #10b981;
+    --red: #ef4444;
+    --yellow: #f59e0b;
+    --text: #e2e8f0;
+    --text2: #94a3b8;
+    --text3: #64748b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    padding: 24px 32px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(135deg, #0a0f1e 0%, #0f1e38 100%);
+  }
+  .logo { 
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 900;
+    color: var(--accent2);
+    letter-spacing: -0.5px;
+  }
+  .logo span { color: var(--text2); font-weight: 400; font-size: 14px; display: block; }
+
+  /* SCREENS */
+  #home-screen, #quiz-screen, #result-screen { display: none; }
+  #home-screen.active, #quiz-screen.active, #result-screen.active { display: block; }
+
+  /* HOME */
+  .home-wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 48px 24px;
+  }
+  .home-hero {
+    text-align: center;
+    margin-bottom: 56px;
+  }
+  .home-hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(32px, 5vw, 54px);
+    font-weight: 900;
+    background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.15;
+    margin-bottom: 16px;
+  }
+  .home-hero p {
+    color: var(--text2);
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .chapters-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+  .chapter-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    cursor: pointer;
+    transition: all 0.25s;
+    position: relative;
+    overflow: hidden;
+  }
+  .chapter-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent), #a78bfa);
+    opacity: 0;
+    transition: opacity 0.25s;
+  }
+  .chapter-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 40px rgba(59,130,246,0.15);
+  }
+  .chapter-card:hover::before { opacity: 1; }
+  .chapter-num {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--accent2);
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .chapter-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+  .chapter-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--text3);
+  }
+  .chapter-meta .badge {
+    background: rgba(59,130,246,0.1);
+    color: var(--accent2);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .loading-pill {
+    background: rgba(59,130,246,0.08);
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    padding: 8px 18px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--text2);
+  }
+
+  /* QUIZ */
+  .quiz-wrap {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px;
+  }
+  .quiz-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .quiz-chapter-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: var(--text);
+  }
+  .quiz-progress-wrap { display: flex; align-items: center; gap: 14px; }
+  .quiz-score {
+    font-size: 13px;
+    color: var(--text2);
+  }
+  .quiz-score strong { color: var(--green); }
+  .progress-bar-outer {
+    width: 180px;
+    height: 6px;
+    background: var(--border);
+    border-radius: 100px;
+    overflow: hidden;
+  }
+  .progress-bar-inner {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), #a78bfa);
+    border-radius: 100px;
+    transition: width 0.5s cubic-bezier(0.4,0,0.2,1);
+  }
+  .q-counter {
+    font-size: 12px;
+    color: var(--text3);
+    font-weight: 500;
+  }
+
+  .question-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 36px;
+    margin-bottom: 20px;
+    animation: fadeSlide 0.35s ease;
+  }
+  @keyframes fadeSlide {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .question-text {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: var(--text);
+    margin-bottom: 28px;
+  }
+  .options-list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
+  .option-btn {
+    background: var(--surface2);
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    text-align: left;
+    cursor: pointer;
+    color: var(--text);
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    transition: all 0.2s;
+    width: 100%;
+    line-height: 1.5;
+  }
+  .option-btn:hover:not(:disabled) {
+    border-color: var(--accent2);
+    background: rgba(59,130,246,0.08);
+    transform: translateX(4px);
+  }
+  .option-label {
+    flex-shrink: 0;
+    width: 28px; height: 28px;
+    border-radius: 8px;
+    background: var(--border);
+    color: var(--text2);
+    font-size: 12px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+  }
+  .option-btn.correct {
+    border-color: var(--green);
+    background: rgba(16,185,129,0.08);
+  }
+  .option-btn.correct .option-label {
+    background: var(--green);
+    color: #fff;
+  }
+  .option-btn.wrong {
+    border-color: var(--red);
+    background: rgba(239,68,68,0.08);
+  }
+  .option-btn.wrong .option-label {
+    background: var(--red);
+    color: #fff;
+  }
+  .option-btn:disabled { cursor: default; }
+
+  /* Explanation */
+  .explanation-box {
+    background: linear-gradient(135deg, rgba(16,185,129,0.05), rgba(59,130,246,0.05));
+    border: 1px solid rgba(16,185,129,0.2);
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-top: 20px;
+    animation: fadeSlide 0.3s ease;
+  }
+  .explanation-box.wrong-exp {
+    background: linear-gradient(135deg, rgba(239,68,68,0.05), rgba(245,158,11,0.05));
+    border-color: rgba(239,68,68,0.2);
+  }
+  .exp-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+  .exp-header.correct-h { color: var(--green); }
+  .exp-header.wrong-h { color: var(--red); }
+  .explanation-text {
+    font-size: 14px;
+    color: var(--text2);
+    line-height: 1.75;
+  }
+
+  .next-btn {
+    background: linear-gradient(135deg, var(--accent), #7c3aed);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 14px 32px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    margin-top: 24px;
+    transition: all 0.2s;
+    display: none;
+  }
+  .next-btn.visible { display: block; }
+  .next-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(59,130,246,0.3); }
+
+  /* RESULT */
+  .result-wrap {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 60px 24px;
+    text-align: center;
+  }
+  .result-circle {
+    width: 140px; height: 140px;
+    border-radius: 50%;
+    margin: 0 auto 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 4px solid var(--accent);
+    background: radial-gradient(circle, rgba(59,130,246,0.1), transparent);
+    position: relative;
+  }
+  .result-score-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight: 900;
+    color: var(--accent2);
+    line-height: 1;
+  }
+  .result-score-label { font-size: 13px; color: var(--text3); }
+  .result-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  .result-msg { color: var(--text2); font-size: 15px; margin-bottom: 40px; }
+  .result-stats {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-bottom: 40px;
+  }
+  .stat-box { text-align: center; }
+  .stat-val { font-size: 28px; font-weight: 700; }
+  .stat-val.green { color: var(--green); }
+  .stat-val.red { color: var(--red); }
+  .stat-lbl { font-size: 12px; color: var(--text3); margin-top: 4px; }
+  .result-btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .btn-outline {
+    background: transparent;
+    border: 1.5px solid var(--border);
+    color: var(--text2);
+    border-radius: 12px;
+    padding: 12px 24px;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .btn-outline:hover { border-color: var(--accent); color: var(--accent2); }
+  .btn-primary {
+    background: linear-gradient(135deg, var(--accent), #7c3aed);
+    border: none;
+    color: #fff;
+    border-radius: 12px;
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(59,130,246,0.3); }
+
+  /* Loading overlay */
+  #loading-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,15,30,0.92);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  #loading-overlay.active { display: flex; }
+  .spinner {
+    width: 48px; height: 48px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .loading-text { color: var(--text2); font-size: 14px; }
+
+  .back-btn {
+    background: none;
+    border: none;
+    color: var(--text3);
+    cursor: pointer;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 0;
+    transition: color 0.2s;
+  }
+  .back-btn:hover { color: var(--accent2); }
+
+  @media (max-width: 600px) {
+    .chapters-grid { grid-template-columns: 1fr; }
+    .question-card { padding: 24px 20px; }
+    .progress-bar-outer { width: 120px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    Obstetrics Quiz
+    <span>Step by Step — MCQ Practice</span>
+  </div>
+</header>
+
+<div id="loading-overlay">
+  <div class="spinner"></div>
+  <div class="loading-text" id="loading-text">Generating questions with AI...</div>
+</div>
+
+<!-- HOME SCREEN -->
+<div id="home-screen" class="active">
+  <div class="home-wrap">
+    <div class="home-hero">
+      <h1>Master Obstetrics,<br>One Chapter at a Time</h1>
+      <p>AI-generated MCQs from your textbook. Choose a chapter and get 30 clinical questions with detailed explanations.</p>
+    </div>
+    <div class="chapters-grid" id="chapters-grid"></div>
+  </div>
+</div>
+
+<!-- QUIZ SCREEN -->
+<div id="quiz-screen">
+  <div class="quiz-wrap">
+    <div class="quiz-header">
+      <button class="back-btn" onclick="goHome()">
+        ← Back
+      </button>
+      <div style="display:flex;align-items:center;gap:16px">
+        <span class="quiz-score">Score: <strong id="score-display">0</strong>/<span id="total-display">30</span></span>
+        <div class="quiz-progress-wrap">
+          <div class="progress-bar-outer">
+            <div class="progress-bar-inner" id="progress-bar" style="width:0%"></div>
+          </div>
+          <span class="q-counter" id="q-counter">1/30</span>
+        </div>
+      </div>
+    </div>
+    <div class="quiz-chapter-name" id="quiz-chapter-name" style="margin-bottom:24px"></div>
+    
+    <div id="question-container"></div>
+  </div>
+</div>
+
+<!-- RESULT SCREEN -->
+<div id="result-screen">
+  <div class="result-wrap">
+    <div class="result-circle">
+      <div class="result-score-num" id="result-pct">0%</div>
+      <div class="result-score-label">Score</div>
+    </div>
+    <div class="result-title" id="result-title">Well done!</div>
+    <div class="result-msg" id="result-msg"></div>
+    <div class="result-stats">
+      <div class="stat-box">
+        <div class="stat-val green" id="res-correct">0</div>
+        <div class="stat-lbl">Correct</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-val red" id="res-wrong">0</div>
+        <div class="stat-lbl">Wrong</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-val" id="res-total" style="color:var(--text2)">30</div>
+        <div class="stat-lbl">Total</div>
+      </div>
+    </div>
+    <div class="result-btns">
+      <button class="btn-outline" onclick="retryQuiz()">🔁 Retry Chapter</button>
+      <button class="btn-primary" onclick="goHome()">📚 Choose Another Chapter</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const CHAPTERS = {
+  "Physiology of reproduction": `Physiology of reproduction
+PHYSIOLOGY OF REPRODUCTION
+Early developed pregnancy
+Preimplantation phase:
+A) Fertilization:
+● Definition: Union of male gamete (mature capacitated sperm) with female gamete (mature ovum) to form zygote.
+● Site: Ampulla of tube.
+● Time: 24 hours after ovulation.
+● Fertilizable life span of ovum: 12-36 hours.
+● Fertilizable life span of sperm: 24-72 hours.
+● Mechanism: Oocyte journey: At ovulation, ovum is released from mature Graffian follicle to peritoneal cavity → picked up by fimbrial end of tube → reaches ampullary part of tube. Sperms journey: At coitus, sperms are deposited in posterior vaginal fornix → ascend through cervical canal then along uterine walls → pass through uterine ostia to reach ampullary part of tube.
+● Capacitation: Stripping of glycoprotein coat from head of sperm to expose acrosome & allow acrosomal reaction to occur (in female genital tract, 7 hrs).
+● Acrosomal reaction: Release of acrosomal enzymes (hyaluronidase & proteases) to help sperm penetrate zona pellucida.
+● Cortical reaction: After sperm penetrates zona pellucida, cortical granules are released from oocyte → zona pellucida changes (zona reaction) → prevents polyspermy.
+● Results of fertilization: 1) Completion of 2nd meiotic division of oocyte → formation of secondary oocyte nucleus (female pronucleus). 2) Formation of male pronucleus from sperm head. 3) Fusion of both pronuclei → zygote (46 chromosomes). 4) Determination of sex of conceptus. 5) Initiation of cleavage.
+B) Cleavage: Rapid mitotic division of zygote → morula (16 cells, solid ball). C) Compaction: Blastomeres flatten & develop tight junctions → morula compacts. D) Blastulation: Formation of blastocyst (fluid-filled cavity called blastocoele). Outer cell mass = trophoblast. Inner cell mass = embryoblast. E) Zona hatching: Blastocyst escapes from zona pellucida (day 5-6). F) Implantation: Day 6-10 after fertilization. Site: Posterior wall of upper uterine corpus. Sequence: Apposition → Adhesion → Invasion. Types: Normal (intrauterine), Ectopic (extrauterine - tubal, ovarian, abdominal, cervical).
+Placenta:
+Structure: Fetal side: smooth, shiny, covered by amnion & chorion. Maternal side: rough, subdivided into cotyledons (15-30). Weight: 500 gm. Diameter: 15-20 cm. Thickness: 2-3 cm. Cord length: 50 cm.
+Functions: 1) Respiratory: O2 & CO2 exchange. 2) Nutritive: Transfer of glucose, amino acids, fatty acids. 3) Excretory: Waste products transfer to mother. 4) Endocrine: HCG, HPL, progesterone, estrogen, ACTH, TSH-like substances. 5) Immunological: IgG transfer, protection. 6) Storage: Glycogen & iron.
+HCG: Produced by syncytiotrophoblast. Detected in blood at day 8, urine at day 11. Peak at 10-12 weeks (100,000 IU/L). Falls to plateau at 18-20 weeks. Functions: Maintains corpus luteum (progesterone production), stimulates fetal testicular testosterone, thyrotrophic activity.
+HPL (Human Placental Lactogen): Produced by syncytiotrophoblast. Detected from 6 weeks. Rises progressively till term. Functions: Anti-insulin effect (diabetogenic), lipolysis, promotes fetal growth, mammogenic, luteotrophic.
+Amniotic fluid: Volume: 800-1000 ml at term. Functions: Protection, allows fetal movement, maintains temperature, has anti-infective properties. Oligohydramnios (<500ml): causes renal agenesis, obstructive uropathy, IUGR. Polyhydramnios (>2000ml): causes NTDs, GIT atresia, macrosomia, multiple pregnancy.
+Fetal circulation: Oxygenated blood from placenta → umbilical vein → ductus venosus → IVC → right atrium → foramen ovale → left atrium → left ventricle → ascending aorta → brain & upper body. Right ventricle → pulmonary artery → ductus arteriosus → descending aorta → lower body → umbilical arteries → placenta.
+Fetal period landmarks: 12 weeks: sex distinguishable, urine formation begins. 16 weeks: lanugo appears, meconium in gut. 20 weeks: quickening, vernix caseosa. 24 weeks: surfactant production begins. 28 weeks: eyelids open. 36 weeks: lanugo disappears. 40 weeks: full term.`,
+
+  "Maternal changes during pregnancy": `MATERNAL CHANGES DURING PREGNANCY
+Genital changes:
+A) Vulva: Hypertrophy & softening & varicosities.
+B) Vagina: Becomes soft, bluish, moist & warm (due to increased vascularity). Increased vaginal discharge. Acidic PH (3.5-6): Due to increased production of lactic acid.
+C) Cervix: Becomes soft, bluish & edematous. Shows increased vascularity & glandular hypertrophy. Hormonal erosions may be seen. Cervical mucus plug is formed & closes cervical canal.
+D) Uterus: Size: At 12 weeks: At level of symphysis pubis. At 24 weeks: At level of umbilicus. At 36 weeks: At level of xiphisternum. At 40 weeks: Drops below level of xiphisternum (lightening). Weight: 60 gm → 1000 gm at term. Blood flow: 50 ml/min → 500 ml/min at term. Uterine growth: Hypertrophy (progesterone) & hyperplasia (estrogen) of muscle fibers. Braxton-Hicks contractions: Irregular, painless contractions from 16 weeks onward.
+E) Ovaries: Corpus luteum of pregnancy: Active during 1st trimester, regresses by 12 weeks. F) Tubes: Elongated & displaced upward.
+Cardiovascular changes:
+Heart: Displaced upward & to left. Enlarged (hypertrophy). Systolic murmur (benign).
+Blood pressure: Diastolic falls by 10-15 mmHg in 2nd trimester (due to peripheral vasodilation). Returns to normal at term.
+Heart rate: Increases by 15-20 bpm.
+Cardiac output: Increases by 40-50% (due to increased HR & stroke volume). Peak at 28-32 weeks.
+Blood volume: Increases by 40-50% (plasma 50%, RBCs 30%) → physiological anemia (hemodilution).
+Iron requirements: Total 1000 mg extra needed during pregnancy.
+Hematological changes:
+WBCs: Increase to 12,000/mm³ (up to 16,000 in labor).
+Platelets: Slightly decrease.
+ESR: Increases.
+Fibrinogen: Increases (factor I, VII, VIII, IX, X) → hypercoagulable state → DVT risk.
+Respiratory changes:
+Tidal volume: Increases by 40% (progesterone effect).
+Respiratory rate: Unchanged.
+Residual volume: Decreases by 20%.
+Oxygen consumption: Increases by 20%.
+Renal changes:
+Kidneys: Enlarge. Pelvis & calyces dilate (especially right side due to uterine dextrorotation & right ovarian vein compression).
+GFR: Increases by 50% → increased creatinine clearance → decreased serum creatinine.
+Glucosuria: May occur due to increased GFR overwhelming tubular reabsorption capacity (not necessarily indicates diabetes).
+Urinary frequency: 1st trimester (uterine pressure on bladder) & 3rd trimester (engagement).
+Gastrointestinal changes:
+Nausea & vomiting: 1st trimester (HCG effect).
+Constipation: Due to decreased motility (progesterone) & iron supplements.
+Hemorrhoids: Due to constipation & increased pelvic venous pressure.
+Heartburn (reflux): Due to decreased LES tone (progesterone) & increased intra-abdominal pressure.
+Metabolic changes:
+Weight gain: Total 12.5 kg. Composition: Fetus 3.5 kg, placenta & membranes 1 kg, amniotic fluid 1 kg, uterus 1 kg, breasts 0.5 kg, blood 1.5 kg, extracellular fluid 1.5 kg, fat 3.5 kg.
+Skin changes: Striae gravidarum, chloasma (mask of pregnancy), linea nigra, spider angiomas, palmar erythema.`,
+
+  "Diagnosis of pregnancy": `DIAGNOSIS OF PREGNANCY
+Diagnosis in 1st trimester (1-14 weeks):
+A) Symptoms: 1) Amenorrhea: Commonest symptom. 2) Morning sickness: Nausea & sometimes vomiting occurring during early morning. 3) Appetite changes: Longing, craving or pregnancy pica. 4) Frequency of micturition: Due to congestion & irritation of bladder by gravid uterus. 5) Breast symptoms: Enlargement, heaviness, tingling sensation, color changes (darkening) & colostrum secretion. 6) Vaginal discharge: Increased from 4 weeks onwards. 7) Easy fatigability & sleepiness.
+B) Signs: 1) Breast signs: Enlargement, increased vascularity, pigmentation of areola, Montgomery's tubercles appear. 2) Uterine signs: Hegar's sign (softening of lower uterine segment at 6-10 weeks), Osiander's sign (pulsations in lateral fornices), Piscacek's sign (asymmetrical uterine enlargement), Goodell's sign (softening of cervix).
+3) Vaginal signs: Chadwick's sign (bluish discoloration of vagina from 6-8 weeks), increased discharge.
+C) Investigations: 1) Pregnancy tests: Based on detection of HCG. a) Urine test: Positive from day 11 after fertilization. b) Serum beta-HCG: More sensitive, positive from day 8. 2) Ultrasound: Gestational sac seen at 4-5 weeks, fetal heartbeat at 6-7 weeks, crown-rump length (CRL) measurement most accurate for dating.
+Diagnosis in 2nd trimester (14-28 weeks):
+A) Symptoms: Quickening (fetal movements felt by mother) at 18-20 weeks in primigravida, 16-18 weeks in multigravida.
+B) Signs: 1) Uterine enlargement. 2) Fetal heart sounds (FHS): audible with fetoscope from 20 weeks, Doppler from 12 weeks. 3) Fetal parts palpable. 4) Ballottement: At 16-20 weeks.
+Diagnosis in 3rd trimester (28-40 weeks):
+A) Positive signs: 1) Fetal heart sounds heard. 2) Fetal movements felt by examiner. 3) Ultrasound showing fetal parts. These are ABSOLUTE (certain) signs of pregnancy.
+Differential diagnosis of amenorrhea: 1) Physiological: Pregnancy, lactation, menopause. 2) Hypothalamic: Stress, weight loss, exercise. 3) Pituitary: Hyperprolactinemia, Sheehan's syndrome. 4) Ovarian: PCOS, premature ovarian failure. 5) Uterine: Asherman's syndrome. 6) Cervical: Cervical stenosis.
+Antenatal care (ANC):
+First visit: History, examination, investigations (CBC, blood group & Rh, urine analysis, VDRL, rubella, hepatitis B, HIV, blood glucose, pap smear). Schedule: Monthly until 28 weeks, fortnightly until 36 weeks, weekly thereafter.
+Investigations in ANC: 1st trimester: Combined test (NT + PAPP-A + free beta-HCG) at 11-13+6 weeks for Down's screening. 2nd trimester: Triple/quadruple test at 15-20 weeks (AFP, HCG, unconjugated estriol, inhibin A). Anomaly scan at 18-20 weeks. 3rd trimester: GDM screening (OGTT) at 24-28 weeks, GBS screening at 35-37 weeks.`,
+
+  "Diabetes mellitus with pregnancy": `DIABETES MELLITUS WITH PREGNANCY
+Classification (White's classification):
+Class A1: Diet-controlled GDM. Class A2: Medication-requiring GDM. Class B: Onset age >20 yrs, duration <10 yrs. Class C: Onset 10-19 yrs or duration 10-19 yrs. Class D: Onset <10 yrs or duration >20 yrs or background retinopathy. Class F: Nephropathy. Class R: Proliferative retinopathy. Class H: Ischemic heart disease. Class T: Post-transplant.
+N.B.: A1: FBS < 105 mg/dl & 2-hr PP < 120 mg/dl. A2: FBS > 105 mg/dl & 2-hr PP > 120 mg/dl.
+Risk factors for GDM:
+A) Past history of GDM. B) Family history of DM in 1st degree relatives. C) Advanced maternal age: > 35 years. D) Multiparity. E) Bad obstetric history: Previous polyhydramnios, macrosomia, unexplained IUFD or congenital anomalies. Previous traumatic or operative delivery. Previous neonatal metabolic changes (hypoglycemia, hypocalcemia or jaundice). F) Obesity (BMI > 30). G) Glucosuria. H) Previous baby >4.5 kg.
+Screening & diagnosis:
+1) Screening (50 g GCT at 24-28 weeks): Positive if 1-hr value ≥ 140 mg/dl. 2) Diagnostic (100 g OGTT): Carpenter & Coustan criteria: FBS ≥ 95, 1-hr ≥ 180, 2-hr ≥ 155, 3-hr ≥ 140 (2 or more values must be met). WHO criteria (75g 2-hr OGTT): FBS ≥ 126 or 2-hr ≥ 200 = DM. FBS 92-125 or 2-hr 140-199 = GDM.
+Effects of DM on pregnancy:
+1) During pregnancy: a) Abortion: 3 times more. b) Congenital anomalies: 6-10 times more (NTDs, cardiac, renal, skeletal). c) Polyhydramnios: Due to fetal polyuria & osmotic diuresis. d) Macrosomia: due to fetal hyperinsulinism. e) IUGR: In severe vasculopathy cases. f) Preeclampsia: 4 times more. g) Preterm labor: Due to polyhydramnios. h) Infection: UTI, vulvovaginitis (monilia), chorioamnionitis.
+2) During labor: a) Obstructed labor & dystocia: Due to macrosomia. b) Increased incidence of CS.
+3) During puerperium: a) PPH & puerperal sepsis. b) Abnormal lactation.
+Effects on fetus/neonate:
+1) Macrosomia (>4.5 kg): Due to hyperinsulinism from maternal hyperglycemia. 2) Neonatal hypoglycemia: Blood glucose <40 mg/dl in term neonates (due to sudden removal of maternal glucose with continuing neonatal hyperinsulinism). 3) Neonatal hypocalcemia: Due to hypomagnesemia & elevated PTH. 4) Neonatal hyperbilirubinemia: Due to polycythemia & RBC breakdown. 5) Respiratory distress syndrome (RDS): Insulin inhibits surfactant production → lung immaturity. 6) Polycythemia: Due to increased EPO from hypoxia. 7) Congenital anomalies: Sacral agenesis (pathognomonic), NTDs, cardiac, renal.
+Management:
+A) Preconception: Optimize glycemic control (HbA1c < 6.5%), folic acid 5 mg/day, stop teratogenic drugs.
+B) Antepartum: Diet (ADA diet), exercise, insulin (first-line in pregnancy - glargine & detemir safe), oral hypoglycemics (metformin & glyburide used but not FDA approved). Monitor: FBS target <95, 1-hr PP <140, 2-hr PP <120. HbA1c every trimester. Fetal monitoring: Anomaly scan 18-20 wks, fetal echo at 22-24 wks, BPP, NST from 28-32 wks.
+C) Intrapartum: Aim for vaginal delivery if possible. CS if macrosomia (EFW >4.5 kg). Glucose-insulin infusion during labor. Target glucose 80-110 mg/dl.
+D) Postpartum: OGTT at 6 weeks for GDM patients (50% develop T2DM within 20 yrs). Insulin doses reduced significantly after delivery.`,
+
+  "Heart diseases with pregnancy": `HEART DISEASES WITH PREGNANCY
+Incidence: 0.5-3% of pregnancies. Maternal mortality: 1-4%.
+Classification (NYHA functional classification):
+Class I: No symptoms with ordinary activity. Class II: Slight limitation of physical activity. Class III: Marked limitation; comfortable at rest. Class IV: Symptoms at rest; any activity causes discomfort.
+Hemodynamic changes challenging the heart:
+1) Increased blood volume (40-50%). 2) Increased cardiac output (40-50%). 3) Increased heart rate. 4) Second stage of labor (Valsalva maneuver, sudden increase in venous return). 5) Postpartum period (autotransfusion of 500 ml blood from uteroplacental circulation).
+Common cardiac lesions in pregnancy:
+Rheumatic heart disease: Most common (50-90%). MS > MR > AS > AR. Mitral stenosis: Most dangerous, pregnancy poorly tolerated due to fixed low cardiac output. Mitral regurgitation: Better tolerated due to decreased SVR (afterload reduction). Congenital heart disease: Now more common (increasing survival). Septal defects: Usually well-tolerated. Eisenmenger's syndrome: 50% maternal mortality → contraindication to pregnancy.
+Peripartum cardiomyopathy (PPCM): Last month to 5 months postpartum. Incidence 1:3000-4000. Risk factors: Multiparity, age >30, twins, preeclampsia, African American. Diagnosis: EF <45%, LVED >5.5 cm, no prior heart disease. Treatment: Diuretics, vasodilators (hydralazine+nitrates), beta blockers, bromocriptine (inhibits prolactin), anticoagulation if EF<35%.
+Management of cardiac disease in pregnancy:
+A) Antenatal: 1) Bed rest, avoid anemia, infection, excessive weight gain. 2) Iron & folic acid supplementation. 3) Treat infections promptly (especially respiratory & UTI). 4) Diuretics for pulmonary edema (furosemide). 5) Anticoagulation: LMWH or warfarin (warfarin teratogenic in 1st trimester). 6) Digoxin: Safe in pregnancy. 7) Beta blockers: Metoprolol, atenolol (atenolol associated with IUGR). 8) Antibiotic prophylaxis for SBE in high-risk lesions.
+B) Intrapartum: 1) Position: Left lateral. 2) Analgesia: Epidural preferred. 3) Avoid prolonged 2nd stage (assisted delivery). 4) Avoid Ergometrine (methylergometrine) → severe hypertension & vasoconstriction. 5) Oxytocin slowly IV.
+C) Postpartum: 1) Most dangerous period (autotransfusion). 2) Watch for heart failure. 3) Breastfeeding generally allowed.
+Contraindications to pregnancy in heart disease:
+1) Eisenmenger's syndrome. 2) Primary pulmonary hypertension. 3) Severe MS (MVA < 1 cm²) uncorrected. 4) Marfan's with aortic root >4 cm. 5) NYHA Class III-IV.`,
+
+  "Fetal hydrops": `FETAL HYDROPS (HYDROPS FETALIS)
+Definition: Presence of excess fluid in ≥ 2 body areas (as thorax, abdomen & skin).
+Classification:
+A) Immune fetal hydrops: When there is circulating Abs against fetal RBCs Ag in maternal serum (in cases of Rh isoimmunization).
+B) Non immune fetal hydrops: When there is no circulating Abs against fetal RBCs Ag in maternal serum.
+Non immune fetal hydrops (NIFH):
+Definition: Presence of excess fluid in ≥ 2 body areas with absence of circulating Abs against fetal RBCs Ag in maternal serum.
+Causes: A) Cardiac causes (25%): Structural defects, arrhythmias. B) Chromosomal causes (13%): Trisomy 21, 18, Turner syndrome. C) Hematological causes (10%): Alpha-thalassemia (Hb Barts disease). D) Infectious causes: CMV, toxoplasma, parvovirus B19 (most important viral cause → aplastic anemia). E) Placental causes. F) Idiopathic (25%).
+Rh isoimmunization:
+Pathophysiology: Rh -ve mother → sensitization by Rh +ve fetal RBCs → IgG anti-D formation → crosses placenta → hemolysis of fetal RBCs → anemia → heart failure → hydrops.
+Sensitizing events: Delivery, abortion, amniocentesis, CVS, trauma, ectopic pregnancy.
+Prevention: Anti-D immunoglobulin (300 mcg) within 72 hours of sensitizing event. Also given at 28 weeks prophylactically.
+Diagnosis: Kleihauer-Betke test (quantifies fetomaternal hemorrhage). Maternal anti-D titer. MCA Doppler (peak systolic velocity > 1.5 MoM indicates fetal anemia). Amniocentesis (OD450 measurement - Liley chart).
+Treatment: If mild: Conservative. If severe: Intrauterine transfusion (IUT) of Rh -ve blood into fetal umbilical vein or peritoneal cavity. Timing of delivery based on severity.`,
+
+  "Teratology & congenital fetal anomalies": `TERATOLOGY & CONGENITAL FETAL ANOMALIES
+Teratology:
+Definition: Study of abnormal fetal development.
+Factors affecting teratogenicity:
+A) Genetic predisposition: Both maternal & embryonic.
+B) Route & duration of exposure to teratogen.
+C) Developmental stage at time of exposure: 1) Resistant period (day 0-11 of pregnancy): All or none effect. 2) Maximum susceptibility (3-8 weeks): Organogenesis period - most teratogenic. 3) Fetogenic period (after 8 weeks): Growth & functional abnormalities, less structural.
+D) Dose of teratogen.
+Teratogens:
+A) Drugs: 1) Thalidomide: Phocomelia (limb reduction defects). 2) Warfarin: Nasal hypoplasia, stippled epiphyses (warfarin embryopathy), CNS defects (in 2nd trimester). 3) ACE inhibitors: Renal agenesis, IUGR, oligohydramnios. 4) Isotretinoin (Vit A): Craniofacial, cardiac, CNS defects - most teratogenic known drug. 5) Valproate: NTDs (spina bifida), cardiac defects. 6) Carbamazepine: NTDs. 7) Phenytoin: Fetal hydantoin syndrome (cleft palate, cardiac, IUGR, hypoplastic nails). 8) Lithium: Ebstein's anomaly (cardiac). 9) DES (diethylstilbestrol): Vaginal adenocarcinoma in daughters. 10) Tetracycline: Teeth & bone abnormalities (after 20 weeks). 11) Aminoglycosides: Ototoxicity. 12) Methotrexate: Multiple malformations. 13) Misoprostol: Möbius syndrome.
+B) Infections (TORCH): Toxoplasma, Other (syphilis, VZV, parvovirus), Rubella, CMV, Herpes. Rubella: Cataracts, cardiac (PDA), deafness (classic triad). CMV: Most common congenital infection. Periventricular calcifications, microcephaly, sensorineural deafness. Toxoplasma: Intracranial calcifications (basal ganglia), hydrocephalus, chorioretinitis. Herpes: Skin lesions, CNS damage. Syphilis: Saddle nose, Hutchinson's teeth.
+C) Physical agents: X-rays (>10 rads teratogenic). Hyperthermia.
+D) Chemicals: Alcohol - Fetal alcohol syndrome (FAS): Facial (small eyes, thin upper lip, absent philtrum, flat face), CNS (microcephaly, intellectual disability), growth retardation. No safe dose in pregnancy. Mercury: Minamata disease. Lead poisoning.
+Neural tube defects (NTDs):
+Types: Anencephaly (most severe, incompatible with life). Spina bifida (myelomeningocele > meningocele > spina bifida occulta). Encephalocele.
+Risk factors: Folate deficiency, valproate, carbamazepine, maternal hyperthermia, diabetes.
+Prevention: Folic acid 0.4 mg/day (5 mg/day if previous NTD or on anticonvulsants).
+Diagnosis: Elevated maternal serum AFP. Detailed ultrasound. Amniocentesis (AFP & AChE).`,
+
+  "Fetal birth injuries": `FETAL BIRTH INJURIES
+Definition: Injuries sustained during labor & delivery.
+Types:
+A) Soft tissue injuries: 1) Caput succedaneum: Edema of presenting part (crosses suture lines, resolves in 24-48 hours). 2) Subcutaneous fat necrosis: Firm, palpable nodules over cheeks, shoulders. 3) Petechiae: On face after face presentation or cord around neck.
+B) Cephalohematoma: Subperiosteal hemorrhage (does NOT cross suture lines, resolves in weeks-months). Complications: Anemia, jaundice. Does NOT need aspiration (risk of infection). Distinguished from caput: Does not pit on pressure, does not cross suture lines, appears hours after birth.
+C) Intracranial hemorrhage: 1) Subdural: Torn tentorium or falx cerebri (in large babies or precipitate labor). 2) Subarachnoid: Most common, usually benign. 3) Periventricular/Intraventricular: In premature infants (most common serious type). 4) Epidural: Rare.
+D) Nerve injuries: 1) Facial nerve palsy: Due to forceps pressure. Lower motor neuron palsy (all muscles affected). Usually resolves spontaneously. 2) Erb's palsy (C5-C6): Waiter's tip position (arm adducted, medially rotated, elbow extended, forearm pronated, wrist flexed). Due to shoulder dystocia or forceps. 3) Klumpke's palsy (C8-T1): Claw hand. 4) Phrenic nerve palsy (C3-C5): Respiratory distress.
+E) Fractures: 1) Clavicle: Most common fracture in newborn. Due to shoulder dystocia. Management: Immobilization (pin sleeve to chest). 2) Humerus & femur: Less common. 3) Skull: Linear (most common skull fracture) or depressed.
+F) Organ injuries: 1) Liver: Subcapsular hemorrhage (large babies, forceps, breech). 2) Spleen: Similar to liver. 3) Adrenal: Hemorrhage (especially right side).
+G) Spinal cord injuries: Cervical cord injury (excessive traction, rotation). Neonatal death or permanent disability.`,
+
+  "Episiotomy": `EPISIOTOMY
+Definition: Surgical incision of perineum & posterior vaginal wall during 2nd stage of labor.
+Types:
+A) Mediolateral: Most common in UK & Egypt. Advantages: More room, less risk of extension to anal sphincter. Disadvantages: More painful, more blood loss, more difficult repair.
+B) Median (midline): Common in USA. Advantages: Less painful, less blood loss, easier repair. Disadvantages: High risk of extension to anal sphincter (3rd & 4th degree tears).
+C) J-shaped, lateral: Less common.
+Indications:
+A) Fetal indications: 1) Fetal distress. 2) Preterm delivery (to decrease pressure on fetal head). 3) Breech delivery. 4) Forceps & ventouse delivery.
+B) Maternal indications: 1) Rigid perineum (to prevent severe irregular tears). 2) Previous perineal surgery. 3) To shorten 2nd stage (in cardiac disease, hypertension). 4) Shoulder dystocia (to allow maneuvers).
+Timing: Crown of head visible between contractions (crowning).
+Anesthesia: Local infiltration with lidocaine (or pudendal block).
+Repair (Mediolateral): 1) Vaginal mucosa: Continuous suture starting above apex of tear. 2) Deep tissues (levator ani): Interrupted sutures. 3) Skin: Subcuticular continuous or interrupted sutures.
+Complications:
+A) Immediate: 1) Hemorrhage. 2) Hematoma. 3) Extension: 3rd degree (involving external sphincter) & 4th degree (involving rectal mucosa).
+B) Late: 1) Infection. 2) Abscess. 3) Fistula (rectovaginal). 4) Painful scar. 5) Dyspareunia. 6) Failure to heal.`,
+
+  "Cesarean section": `CESAREAN SECTION (CS)
+Definition: Delivery of fetus through incisions in abdominal wall & uterus.
+Incidence: Increasing worldwide (20-30% in developed countries).
+Types:
+A) Lower segment CS (LSCS): Most common. Transverse incision in lower uterine segment. Advantages: Less bleeding, better healing, fewer adhesions, lower risk of rupture in subsequent pregnancy.
+B) Classical CS: Vertical midline incision in upper uterine segment. Indications: Anterior placenta previa, transverse lie with PROM, very premature (lower segment not formed), fibroids in lower segment, cervical cancer. Disadvantages: More bleeding, higher risk of rupture in subsequent pregnancy (3-9%).
+C) Hysterotomy (J or T incision): Rare.
+Indications:
+A) Absolute (mandatory): 1) Placenta previa (major). 2) Brow presentation. 3) Transverse lie in labor. 4) Active genital herpes at term. 5) Obstructed labor. 6) 2 or more previous CS (relative).
+B) Relative: 1) Fetal distress not responding to conservative management. 2) Failed induction of labor. 3) Severe preeclampsia/eclampsia. 4) Breech presentation (especially in primigravida). 5) Macrosomia (EFW >4.5 kg in diabetic). 6) Previous uterine surgery (myomectomy entering cavity). 7) Cord prolapse. 8) Failed trial of forceps/ventouse.
+Procedure:
+Anesthesia: Spinal (most common), epidural, or GA. Incision: Pfannenstiel (transverse skin incision - most common) or midline vertical. Uterine incision: Transverse lower segment. Delivery: Manual or instrumental. Uterine closure: Single or double layer. Peritoneum: May not be closed (equal outcomes). Skin: Subcuticular or staples.
+Complications:
+A) Immediate: 1) Hemorrhage (PPH). 2) Bladder or ureter injury. 3) Bowel injury. 4) Anesthetic complications. 5) Thromboembolism (DVT/PE).
+B) Late: 1) Wound infection, dehiscence. 2) Ileus. 3) Adhesions. 4) Scar endometriosis. 5) Uterine rupture in subsequent pregnancy.
+Subsequent delivery:
+VBAC (Vaginal Birth After CS): Possible in selected cases. Contraindications: Classical CS, T/J incision, >1 previous CS (relative), unknown scar, pelvis inadequate. Risks: Uterine rupture (0.5-1% with transverse LSCS scar, 3-9% with classical). Benefits: Avoids CS complications, faster recovery.`,
+
+  "Instrumental delivery": `INSTRUMENTAL DELIVERY
+Types: Forceps delivery & Ventouse (vacuum extraction) delivery.
+FORCEPS DELIVERY:
+Definition: Application of forceps to fetal head to assist delivery.
+Parts of forceps: 2 blades (each has blade, shank, lock & handle). Fenestrated blades. Pelvic curve (cephalopelvic fit). Cephalic curve (conforms to fetal head).
+Classification:
+A) By station: 1) Outlet forceps: Head at perineum, visible, +2 station or below. 2) Low forceps: Head at +2 station or below but not at perineum. 3) Mid forceps: Head engaged (at 0 station), above +2. 4) High forceps: Head not engaged - ABANDONED.
+B) By function: 1) Traction forceps (most common). 2) Rotation forceps: Kielland's (no pelvic curve, for OP/OT positions). 3) Axis traction forceps: Pajot's maneuver. 4) Special: Piper's forceps (for aftercoming head in breech).
+Prerequisites (conditions that must be met):
+1) Head must be engaged. 2) Cervix fully dilated. 3) Membranes ruptured. 4) Position of head known. 5) No CPD. 6) Bladder empty. 7) Adequate anesthesia (pudendal block or epidural). 8) Patient's consent. 9) Operator skilled & equipped for CS if needed.
+Indications: 1) Prolonged 2nd stage. 2) Fetal distress in 2nd stage. 3) Maternal exhaustion. 4) Medical conditions contraindicating pushing (cardiac, CVA, hypertension). 5) Aftercoming head in breech.
+VENTOUSE (VACUUM EXTRACTION):
+Cups: Metal (Malmstrom) or soft silicone. Chignon (artificial caput) forms under cup.
+Advantages over forceps: Fewer maternal lacerations, less anesthesia required, no increase in head size.
+Disadvantages: Higher neonatal scalp trauma, cephalohematoma, intracranial hemorrhage (controversial), retinal hemorrhage.
+Contraindications to ventouse: 1) Gestation <34 weeks (immature scalp). 2) Face, brow, aftercoming head. 3) Clotting disorders. 4) Recent fetal scalp blood sampling.
+Failed instrumental delivery: If 3 pulls without progress, abandon → CS. Never apply both instruments (forceps then ventouse or vice versa) → increases trauma.
+Complications of instrumental delivery:
+Maternal: Genital tract lacerations (3rd/4th degree tears), PPH, hematoma, urinary/anal sphincter injuries. Fetal: Cephalohematoma, subgaleal hemorrhage, facial nerve palsy, intracranial hemorrhage, shoulder dystocia (with traction).`,
+
+  "Induction of abortion & labor": `INDUCTION OF LABOR
+Definition: Initiation of uterine contractions before spontaneous onset of labor.
+Indications:
+A) Maternal: 1) Pre-eclampsia/eclampsia. 2) Diabetes with poor control. 3) Renal disease. 4) Postdates (>41 weeks). 5) Prelabor rupture of membranes (PROM). 6) Antepartum hemorrhage.
+B) Fetal: 1) Intrauterine growth restriction (IUGR). 2) Rh isoimmunization. 3) Intrauterine death.
+Assessment before induction - Bishop score: Criteria: Cervical dilation (0-3), effacement (0-3), station (-3 to +2 = 0-3), consistency (0-2), position (0-2). Total maximum = 13. Score ≥6: Favorable cervix → direct oxytocin induction. Score <6: Unfavorable → cervical ripening first.
+Methods of cervical ripening:
+A) Mechanical: 1) Balloon catheter (Foley catheter 30-60 ml): Inserted through cervix → mechanical dilation. Safe, no uterine hyperstimulation. 2) Laminaria tents (hygroscopic dilators): Absorb moisture → expand → dilate cervix. 3) Membrane stripping (sweeping): Separates membranes from cervix → releases prostaglandins.
+B) Pharmacological: 1) Prostaglandins: PGE2 (Dinoprostone) gel or pessary intravaginally. PGE1 (Misoprostol) 25 mcg intravaginally or 50 mcg orally. Most effective cervical ripening agents. Risk: Uterine hyperstimulation → fetal distress. Contraindicated with previous CS (risk of rupture with misoprostol). 2) Mifepristone (antiprogestin): Increases cervical sensitivity.
+C) Surgical: 1) Stripping of membranes (already mentioned). 2) AROM (artificial rupture of membranes/amniotomy): Up to 88% deliver within 24 hours with favorable cervix. Risks: Cord prolapse (if presenting part not engaged), infection if prolonged.
+Oxytocin induction: Start low dose 1-2 mU/min IV. Increase by 1-2 mU/min every 30-60 min. Maximum 20-40 mU/min. Target: 3 contractions/10 min each lasting 60 sec. Contraindications: Previous classical CS, transverse lie, placenta previa, cord presentation.`,
+
+  "Uterine stimulants (Ecbolics)": `UTERINE STIMULANTS (ECBOLICS)
+Definition: Drugs that stimulate uterine contractions.
+Synonyms: Uterotonic agents or uterotonins.
+Types: A) Oxytocin. B) Prostaglandins (PGs). C) Ergot alkaloids.
+OXYTOCIN:
+Chemistry: Nonapeptide (9 amino acids) formed in supraoptic & paraventricular nuclei of hypothalamus & stored in posterior pituitary.
+Mechanism: Binds to oxytocin receptors (G-protein coupled) → increases intracellular calcium → uterine contraction. Receptor number increases near term & with estrogen.
+Pharmacological effects: 1) Uterine: Stimulates contractions (rhythmic at low doses, sustained at high doses). Sensitivity increases with advanced gestation. 2) Cardiovascular: Vasodilation (at high doses) → hypotension, tachycardia. 3) Antidiuretic: Water retention (ADH-like effect) → risk of water intoxication with large volumes.
+Uses: 1) Induction & augmentation of labor. 2) Prevention & treatment of PPH (3rd stage management). 3) Incomplete/inevitable abortion.
+Dose: Induction: 1-2 mU/min IV, increase by 1-2 mU/min every 30 min (max 20-40 mU/min). PPH: 10 IU IM or 5 IU slow IV or 20-40 IU in 500 ml infusion.
+Side effects: Uterine hyperstimulation → fetal distress. Water intoxication. Hypotension (IV bolus). Tachycardia.
+Contraindications: Previous classical CS. Transverse lie. CPD. Placenta previa. Cord presentation/prolapse.
+PROSTAGLANDINS (PGs):
+PGE2 (Dinoprostone): Cervical ripening (gel or pessary). Stimulates uterine contractions. Bronchospasm (avoid in asthma). Most common brand: Prepidil, Cervidil.
+PGE1 (Misoprostol): Cervical ripening & induction. PPH treatment. Incomplete/inevitable abortion. Medical management of ectopic. Cheaper & more stable than PGE2. Risk: Uterine hyperstimulation especially with previous CS.
+PGF2α (Carboprost/Hemabate): PPH not responding to oxytocin. Dose: 250 mcg IM every 15-90 min (max 8 doses). Contraindicated in asthma.
+ERGOT ALKALOIDS:
+Types: Ergometrine (Ergonovine) & Methylergometrine (Syntometrine: oxytocin + ergometrine).
+Mechanism: Alpha-adrenergic & serotonin receptor agonists → sustained tonic uterine contraction.
+Uses: PPH prevention & treatment (3rd stage of labor). PPH after CS (IM or slow IV).
+Contraindications: Hypertension, heart disease, peripheral vascular disease, Raynaud's phenomenon. NOT given during labor (causes fetal asphyxia due to sustained contraction). Eclampsia (raises BP).
+Side effects: Nausea, vomiting, hypertension, vasospasm. Ergometrine with oxytocin (Syntometrine): More effective for PPH than either alone.`
+};
+
+const CHAPTER_LIST = Object.keys(CHAPTERS);
+let currentChapter = null;
+let questions = [];
+let currentQ = 0;
+let score = 0;
+let answered = false;
+
+// Build chapter cards
+const grid = document.getElementById('chapters-grid');
+CHAPTER_LIST.forEach((ch, i) => {
+  const card = document.createElement('div');
+  card.className = 'chapter-card';
+  card.innerHTML = `
+    <div class="chapter-num">Chapter ${i + 1}</div>
+    <div class="chapter-title">${ch}</div>
+    <div class="chapter-meta">
+      <span class="badge">30 MCQs</span>
+      <span>AI-generated</span>
+    </div>
+  `;
+  card.onclick = () => startChapter(ch);
+  grid.appendChild(card);
+});
+
+function showScreen(id) {
+  ['home-screen','quiz-screen','result-screen'].forEach(s => {
+    document.getElementById(s).classList.remove('active');
+  });
+  document.getElementById(id).classList.add('active');
+}
+
+function showLoading(msg) {
+  document.getElementById('loading-text').textContent = msg || 'Generating questions...';
+  document.getElementById('loading-overlay').classList.add('active');
+}
+function hideLoading() {
+  document.getElementById('loading-overlay').classList.remove('active');
+}
+
+async function startChapter(chapter) {
+  currentChapter = chapter;
+  questions = [];
+  currentQ = 0;
+  score = 0;
+  answered = false;
+
+  showLoading('AI is creating 30 questions from the textbook...');
+
+  try {
+    const content = CHAPTERS[chapter];
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 8000,
+        system: `You are a medical education expert creating MCQ questions for obstetrics students. 
+Generate exactly 30 high-quality MCQ questions based ONLY on the provided textbook content.
+Each question must be clinically relevant and test understanding, not just memorization.
+Return ONLY valid JSON — no markdown, no backticks, no preamble.
+Format: {"questions": [{"q": "question text", "options": ["A. ...", "B. ...", "C. ...", "D. ..."], "correct": 0, "explanation": "detailed explanation of why this is correct and why others are wrong"}, ...]}
+The "correct" field is the 0-based index of the correct option.
+Make explanations educational, clear, and 2-4 sentences. Cover all key topics from the content.`,
+        messages: [{
+          role: "user",
+          content: `Generate 30 MCQ questions from this textbook content about "${chapter}":\n\n${content}`
+        }]
+      })
+    });
+
+    const data = await response.json();
+    const rawText = data.content.map(b => b.text || '').join('');
+    
+    let parsed;
+    try {
+      parsed = JSON.parse(rawText);
+    } catch {
+      const cleaned = rawText.replace(/```json|```/g, '').trim();
+      parsed = JSON.parse(cleaned);
+    }
+    
+    questions = parsed.questions;
+    hideLoading();
+    showScreen('quiz-screen');
+    document.getElementById('quiz-chapter-name').textContent = chapter;
+    document.getElementById('total-display').textContent = questions.length;
+    renderQuestion();
+  } catch(err) {
+    hideLoading();
+    alert('Error generating questions. Please try again.\n' + err.message);
+    console.error(err);
+  }
+}
+
+function renderQuestion() {
+  if (currentQ >= questions.length) {
+    showResults();
+    return;
+  }
+
+  answered = false;
+  const q = questions[currentQ];
+  const total = questions.length;
+
+  document.getElementById('score-display').textContent = score;
+  document.getElementById('q-counter').textContent = `${currentQ + 1}/${total}`;
+  document.getElementById('progress-bar').style.width = `${(currentQ / total) * 100}%`;
+
+  const labels = ['A','B','C','D','E'];
+  const optionsHTML = q.options.map((opt, i) => `
+    <button class="option-btn" onclick="selectAnswer(${i})" id="opt-${i}">
+      <span class="option-label">${labels[i]}</span>
+      <span>${opt.replace(/^[A-E]\.\s*/, '')}</span>
+    </button>
+  `).join('');
+
+  document.getElementById('question-container').innerHTML = `
+    <div class="question-card">
+      <div class="question-text">${currentQ + 1}. ${q.q}</div>
+      <ul class="options-list">${optionsHTML}</ul>
+    </div>
+    <div id="explanation-area"></div>
+    <button class="next-btn" id="next-btn" onclick="nextQuestion()">
+      ${currentQ + 1 < questions.length ? 'Next Question →' : 'See Results →'}
+    </button>
+  `;
+}
+
+function selectAnswer(idx) {
+  if (answered) return;
+  answered = true;
+
+  const q = questions[currentQ];
+  const isCorrect = idx === q.correct;
+  if (isCorrect) score++;
+
+  // Style buttons
+  q.options.forEach((_, i) => {
+    const btn = document.getElementById(`opt-${i}`);
+    btn.disabled = true;
+    if (i === q.correct) btn.classList.add('correct');
+    else if (i === idx && !isCorrect) btn.classList.add('wrong');
+  });
+
+  // Show explanation
+  const expArea = document.getElementById('explanation-area');
+  expArea.innerHTML = `
+    <div class="explanation-box ${isCorrect ? '' : 'wrong-exp'}">
+      <div class="exp-header ${isCorrect ? 'correct-h' : 'wrong-h'}">
+        ${isCorrect ? '✓ Correct!' : '✗ Incorrect'}
+        ${!isCorrect ? `— Correct answer: ${['A','B','C','D','E'][q.correct]}` : ''}
+      </div>
+      <div class="explanation-text">${q.explanation}</div>
+    </div>
+  `;
+
+  document.getElementById('score-display').textContent = score;
+  const btn = document.getElementById('next-btn');
+  btn.classList.add('visible');
+}
+
+function nextQuestion() {
+  currentQ++;
+  renderQuestion();
+}
+
+function showResults() {
+  const total = questions.length;
+  const pct = Math.round((score / total) * 100);
+  const wrong = total - score;
+
+  document.getElementById('result-pct').textContent = pct + '%';
+  document.getElementById('res-correct').textContent = score;
+  document.getElementById('res-wrong').textContent = wrong;
+  document.getElementById('res-total').textContent = total;
+
+  let title, msg;
+  if (pct >= 90) { title = 'Excellent! 🏆'; msg = 'Outstanding performance! You have mastered this chapter.'; }
+  else if (pct >= 75) { title = 'Great Work! 🌟'; msg = 'Strong understanding of the material. Keep it up!'; }
+  else if (pct >= 60) { title = 'Good Effort! 👍'; msg = 'Decent score. Review the topics you missed and try again.'; }
+  else { title = 'Keep Studying! 📖'; msg = 'Review this chapter carefully and practice more questions.'; }
+
+  document.getElementById('result-title').textContent = title;
+  document.getElementById('result-msg').textContent = msg;
+  document.getElementById('progress-bar').style.width = '100%';
+  showScreen('result-screen');
+}
+
+function retryQuiz() {
+  startChapter(currentChapter);
+}
+
+function goHome() {
+  showScreen('home-screen');
+}
+</script>
+</body>
+</html>
